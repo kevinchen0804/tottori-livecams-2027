@@ -1,0 +1,66 @@
+{
+  "id": "tottori-airport-road",
+  "title": "鳥取機場周邊道路・湖山町北",
+  "sourcePageUrl": "https://yukinavi.net/data/162/",
+  "imageUrl": "https://yukinavi.net/data/162/camera.jpg",
+  "checkedAt": "2026-10-24T22:10:26.211Z",
+  "rounds": [
+    {
+      "label": "original",
+      "at": "2026-10-24T22:10:27.396Z",
+      "src": "https://yukinavi.net/data/162/camera.jpg",
+      "complete": true,
+      "naturalWidth": 320,
+      "naturalHeight": 240
+    },
+    {
+      "label": "cache-bust-1",
+      "at": "2026-10-24T22:10:27.676Z",
+      "src": "https://yukinavi.net/data/162/camera.jpg?_lc=1792879827403",
+      "complete": true,
+      "naturalWidth": 320,
+      "naturalHeight": 240
+    },
+    {
+      "label": "cache-bust-2",
+      "at": "2026-10-24T22:10:29.042Z",
+      "src": "https://yukinavi.net/data/162/camera.jpg?_lc=1792879828793",
+      "complete": true,
+      "naturalWidth": 320,
+      "naturalHeight": 240
+    }
+  ],
+  "requests": [
+    {
+      "originalUrl": "https://yukinavi.net/data/162/camera.jpg",
+      "url": "https://yukinavi.net/data/162/camera.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:10:03 GMT",
+      "bytes": 22575,
+      "sha256": "d86b551eccc7427c53ed93039c34c3b3275b7ce92e37bf4ecc2ec82adaa53dab"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/162/camera.jpg?_lc=1792879827403",
+      "url": "https://yukinavi.net/data/162/camera.jpg?_lc=1792879827403",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:10:03 GMT",
+      "bytes": 22575,
+      "sha256": "d86b551eccc7427c53ed93039c34c3b3275b7ce92e37bf4ecc2ec82adaa53dab"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/162/camera.jpg?_lc=1792879828793",
+      "url": "https://yukinavi.net/data/162/camera.jpg?_lc=1792879828793",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:10:03 GMT",
+      "bytes": 22575,
+      "sha256": "d86b551eccc7427c53ed93039c34c3b3275b7ce92e37bf4ecc2ec82adaa53dab"
+    }
+  ],
+  "errors": [],
+  "url": "http://127.0.0.1:8765",
+  "serverClosed": true,
+  "portClosed": true
+}

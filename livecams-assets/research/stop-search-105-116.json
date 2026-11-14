@@ -1,0 +1,177 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-105",
+        "place-106",
+        "place-107"
+      ],
+      "queries": [
+        {
+          "id": "place-105",
+          "name": "打吹公園だんご 糰子店",
+          "q": "打吹公園だんご 倉吉 ライブカメラ"
+        },
+        {
+          "id": "place-106",
+          "name": "Lawson 三朝溫泉店",
+          "q": "ローソン 三朝温泉 ライブカメラ"
+        },
+        {
+          "id": "place-107",
+          "name": "三朝温泉 萬翠樓 停車 入住",
+          "q": "三朝温泉 萬翠楼 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0490",
+        "source-0472",
+        "source-0491",
+        "source-0481",
+        "source-0488",
+        "source-0480",
+        "source-0007",
+        "source-0010",
+        "source-0047",
+        "source-0492"
+      ]
+    },
+    {
+      "ids": [
+        "place-108",
+        "place-109",
+        "place-110"
+      ],
+      "queries": [
+        {
+          "id": "place-108",
+          "name": "三朝優格 三朝ヨーグルト",
+          "q": "三朝ヨーグルト ライブカメラ"
+        },
+        {
+          "id": "place-109",
+          "name": "三朝橋 溫泉街 散步",
+          "q": "三朝橋 温泉街 ライブカメラ"
+        },
+        {
+          "id": "place-110",
+          "name": "みささの味処 縁がわ 拉麵",
+          "q": "みささの味処 縁がわ 三朝 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0493",
+        "source-0494",
+        "source-0495",
+        "source-0496",
+        "source-0497",
+        "source-0498",
+        "source-0499",
+        "source-0500",
+        "source-0501",
+        "source-0502",
+        "source-0503",
+        "source-0504",
+        "source-0505",
+        "source-0506",
+        "source-0507",
+        "source-0508",
+        "source-0509",
+        "source-0510"
+      ]
+    },
+    {
+      "ids": [
+        "place-111",
+        "place-112",
+        "place-113"
+      ],
+      "queries": [
+        {
+          "id": "place-111",
+          "name": "Lawson 湯梨浜松崎店",
+          "q": "ローソン 湯梨浜松崎 ライブカメラ"
+        },
+        {
+          "id": "place-112",
+          "name": "道の駅 神話之里 白兔 停車",
+          "q": "道の駅 神話の里 白うさぎ 駐車場 鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-113",
+          "name": "白兔神社",
+          "q": "白兎神社 鳥取 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0511",
+        "source-0512",
+        "source-0513",
+        "source-0514",
+        "source-0515",
+        "source-0403",
+        "source-0516",
+        "source-0517",
+        "source-0518",
+        "source-0519",
+        "source-0520",
+        "source-0521",
+        "source-0522",
+        "source-0523",
+        "source-0524",
+        "source-0510",
+        "source-0525",
+        "source-0526",
+        "source-0527",
+        "source-0528",
+        "source-0529"
+      ]
+    },
+    {
+      "ids": [
+        "place-114",
+        "place-115",
+        "place-116"
+      ],
+      "queries": [
+        {
+          "id": "place-114",
+          "name": "砂場咖啡 神話之里白兔休息站店",
+          "q": "すなば珈琲 白兎 鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-115",
+          "name": "うどん ちよ志 賀露本店 烏龍麵店 午餐 不訂位",
+          "q": "ちよ志 賀露本店 鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-116",
+          "name": "McDonald's 鳥取北店 買奶昔/玩具",
+          "q": "マクドナルド 鳥取北 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0530",
+        "source-0513",
+        "source-0531",
+        "source-0532",
+        "source-0533",
+        "source-0534",
+        "source-0517",
+        "source-0535",
+        "source-0536",
+        "source-0537",
+        "source-0538",
+        "source-0539",
+        "source-0540",
+        "source-0541",
+        "source-0542"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

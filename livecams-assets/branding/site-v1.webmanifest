@@ -1,0 +1,22 @@
+{
+  "name": "TOTTORI LIVE CAM 2027",
+  "short_name": "鳥取",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#101419",
+  "theme_color": "#101419",
+  "icons": [
+    {
+      "src": "tottori-daisen-icon-192-v1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "tottori-daisen-icon-512-v1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

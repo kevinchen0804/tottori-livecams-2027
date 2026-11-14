@@ -1,0 +1,187 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-069",
+        "place-070",
+        "place-071"
+      ],
+      "queries": [
+        {
+          "id": "place-069",
+          "name": "寿物産 旁停車點",
+          "q": "寿物産 江島大橋 撮影 ライブカメラ"
+        },
+        {
+          "id": "place-070",
+          "name": "全家便利商店 江島大橋店",
+          "q": "ファミリーマート 江島大橋店 ライブカメラ"
+        },
+        {
+          "id": "place-071",
+          "name": "天満屋前（停車）",
+          "q": "米子しんまち天満屋 駐車場 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0306",
+        "source-0307",
+        "source-0308",
+        "source-0309",
+        "source-0310",
+        "source-0311",
+        "source-0312",
+        "source-0313",
+        "source-0314",
+        "source-0315",
+        "source-0316",
+        "source-0317",
+        "source-0318",
+        "source-0319",
+        "source-0320",
+        "source-0321",
+        "source-0322",
+        "source-0323"
+      ]
+    },
+    {
+      "ids": [
+        "place-072",
+        "place-073",
+        "place-074"
+      ],
+      "queries": [
+        {
+          "id": "place-072",
+          "name": "ザキッズ 米子しんまち天満屋店 遊樂場",
+          "q": "The Kids 米子しんまち天満屋 ライブカメラ"
+        },
+        {
+          "id": "place-073",
+          "name": "ガチャ専門店 TOYS SPOT PALO 扭蛋店",
+          "q": "TOYS SPOT PALO 米子しんまち天満屋 ライブカメラ"
+        },
+        {
+          "id": "place-074",
+          "name": "Seria",
+          "q": "Seria 米子しんまち天満屋 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0324",
+        "source-0325",
+        "source-0326",
+        "source-0327",
+        "source-0328",
+        "source-0329",
+        "source-0330",
+        "source-0331",
+        "source-0332",
+        "source-0333",
+        "source-0334",
+        "source-0335",
+        "source-0336",
+        "source-0337",
+        "source-0338",
+        "source-0339",
+        "source-0340",
+        "source-0341"
+      ]
+    },
+    {
+      "ids": [
+        "place-075",
+        "place-076",
+        "place-077"
+      ],
+      "queries": [
+        {
+          "id": "place-075",
+          "name": "米子LOFT",
+          "q": "米子ロフト ライブカメラ"
+        },
+        {
+          "id": "place-076",
+          "name": "今を粋ろ 米子店 午餐分流",
+          "q": "今を粋ろ 米子 ライブカメラ"
+        },
+        {
+          "id": "place-077",
+          "name": "すき家Sukiya 米子中央店 午餐分流",
+          "q": "すき家 米子中央 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0342",
+        "source-0343",
+        "source-0344",
+        "source-0345",
+        "source-0346",
+        "source-0117",
+        "source-0347",
+        "source-0076",
+        "source-0073",
+        "source-0348",
+        "source-0349",
+        "source-0350",
+        "source-0351",
+        "source-0252",
+        "source-0352",
+        "source-0353",
+        "source-0354",
+        "source-0355",
+        "source-0356"
+      ]
+    },
+    {
+      "ids": [
+        "place-078",
+        "place-079",
+        "place-080"
+      ],
+      "queries": [
+        {
+          "id": "place-078",
+          "name": "もち吉 米子店 米果店",
+          "q": "もち吉 米子 ライブカメラ"
+        },
+        {
+          "id": "place-079",
+          "name": "UNIQLO 米子新開店",
+          "q": "ユニクロ 米子新開 ライブカメラ"
+        },
+        {
+          "id": "place-080",
+          "name": "湯ノ塩 銅鑼燒 外帶",
+          "q": "湯ノ塩 皆生 米子 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0357",
+        "source-0073",
+        "source-0343",
+        "source-0358",
+        "source-0359",
+        "source-0360",
+        "source-0361",
+        "source-0362",
+        "source-0363",
+        "source-0364",
+        "source-0365",
+        "source-0252",
+        "source-0047",
+        "source-0355",
+        "source-0089",
+        "source-0366",
+        "source-0367",
+        "source-0368",
+        "source-0369"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

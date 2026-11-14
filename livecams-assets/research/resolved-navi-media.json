@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-25",
+  "result": [
+    {
+      "region": "east",
+      "id": "153",
+      "title": "鳥取市秋里（県道26号秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/153/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/153/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/153/camera.jpg",
+      "refreshPageSeconds": 600,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "east",
+      "id": "159",
+      "title": "鳥取駅前：鳥取市東品治町（県道43号鳥取福部線）",
+      "pageUrl": "https://yukinavi.net/i/data/159/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/159/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/159/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "east",
+      "id": "162",
+      "title": "鳥取商業高前：鳥取市湖山町北（県道264号鳥取空港布勢線）",
+      "pageUrl": "https://yukinavi.net/i/data/162/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/162/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/162/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "east",
+      "id": "158",
+      "title": "鳥取市幸町（県道26号秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/158/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/158/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/158/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "east",
+      "id": "257",
+      "title": "鳥取市千代水（県道鳥取港湖山停車場線）※",
+      "pageUrl": "https://yukinavi.net/i/data/257/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/257/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/257/camera.jpg",
+      "refreshPageSeconds": 600,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "196",
+      "title": "倉吉市 東巌城町（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/196/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/196/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/196/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "east",
+      "id": "265",
+      "title": "鳥取市秋里～幸町（県道秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/265/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/265/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/265/camera.jpg",
+      "refreshPageSeconds": 600,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "east",
+      "id": "264",
+      "title": "鳥取市吉方町（県道秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/264/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/264/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/264/camera.jpg",
+      "refreshPageSeconds": 600,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "211",
+      "title": "倉吉市 福光（国道313号倉吉道路）",
+      "pageUrl": "https://yukinavi.net/i/data/211/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/211/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/211/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "087",
+      "title": "湯梨浜町 長瀬（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/087/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/087/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/087/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "047",
+      "title": "湯梨浜町 原（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/047/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/047/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/047/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "050",
+      "title": "北栄町 米里（国道313号北条倉吉道路）",
+      "pageUrl": "https://yukinavi.net/i/data/050/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/050/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/050/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "203",
+      "title": "倉吉市 上井（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/203/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/203/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/203/camera.jpg",
+      "refreshPageSeconds": 600,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "205",
+      "title": "倉吉市 上神（県道23号倉吉由良線）",
+      "pageUrl": "https://yukinavi.net/i/data/205/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/205/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/205/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "005",
+      "title": "湯梨浜町 松崎（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/005/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/005/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/005/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "089",
+      "title": "琴浦町 上伊勢（県道151号倉吉東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/089/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/089/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/089/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "209",
+      "title": "北栄町 下神（県道320号羽合東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/209/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/209/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/209/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "267",
+      "title": "北栄町 江北（県道161号倉吉江北線）",
+      "pageUrl": "https://yukinavi.net/i/data/267/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/267/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/267/camera.jpg",
+      "refreshPageSeconds": 600,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "024",
+      "title": "北栄町 由良宿（県道320号羽合東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/024/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/024/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/024/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "199",
+      "title": "湯梨浜町 宮内（県道234号東郷羽合線）",
+      "pageUrl": "https://yukinavi.net/i/data/199/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/199/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/199/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "west",
+      "id": "220",
+      "title": "境港市高松町（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/220/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/220/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/220/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "central",
+      "id": "006",
+      "title": "琴浦町 逢束（県道267号大栄赤碕線）",
+      "pageUrl": "https://yukinavi.net/i/data/006/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/006/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/006/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "west",
+      "id": "224",
+      "title": "米子市東福原（県道皆生西原線）",
+      "pageUrl": "https://yukinavi.net/i/data/224/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/224/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/224/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    },
+    {
+      "region": "west",
+      "id": "223",
+      "title": "米子市皆生（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/223/index.html",
+      "sourcePageUrl": "https://yukinavi.net/data/223/left.html",
+      "httpStatus": 200,
+      "imageUrl": "https://yukinavi.net/data/223/camera.jpg",
+      "refreshPageSeconds": 1200,
+      "verification": "official-html-only-image-display-not-tested"
+    }
+  ],
+  "cityStationPreview": true
+}

@@ -1,0 +1,1279 @@
+{
+  "date": "2026-10-25",
+  "points": [
+    {
+      "region": "east",
+      "id": "041",
+      "title": "七坂トンネル付近：岩美町陸上(国道178号東浜居組道路)",
+      "pageUrl": "https://yukinavi.net/i/data/041/index.html"
+    },
+    {
+      "region": "east",
+      "id": "279",
+      "title": "東浜IC付近：岩美町陸上(国道178号東浜居組道路)",
+      "pageUrl": "https://yukinavi.net/i/data/279/index.html"
+    },
+    {
+      "region": "east",
+      "id": "152",
+      "title": "岩美IC付近：岩美町浦富（国道178号）",
+      "pageUrl": "https://yukinavi.net/i/data/152/index.html"
+    },
+    {
+      "region": "east",
+      "id": "166",
+      "title": "旧佐治中学校前：佐治町古市（国道482号）",
+      "pageUrl": "https://yukinavi.net/i/data/166/index.html"
+    },
+    {
+      "region": "east",
+      "id": "039",
+      "title": "辰巳峠：佐治町栃原（国道482号）",
+      "pageUrl": "https://yukinavi.net/i/data/039/index.html"
+    },
+    {
+      "region": "east",
+      "id": "134",
+      "title": "佐治町余戸（国道482号）",
+      "pageUrl": "https://yukinavi.net/i/data/134/index.html"
+    },
+    {
+      "region": "east",
+      "id": "156",
+      "title": "岩美町陸上（県道256号浦富岩井線）",
+      "pageUrl": "https://yukinavi.net/i/data/156/index.html"
+    },
+    {
+      "region": "east",
+      "id": "241",
+      "title": "駟馳山峠：岩美町大谷(県道328号福部岩美線）",
+      "pageUrl": "https://yukinavi.net/i/data/241/index.html"
+    },
+    {
+      "region": "east",
+      "id": "076",
+      "title": "岩美町田河内（県道256号浦富岩井線）",
+      "pageUrl": "https://yukinavi.net/i/data/076/index.html"
+    },
+    {
+      "region": "east",
+      "id": "078",
+      "title": "岩美町洗井（県道31号鳥取国府岩美線）",
+      "pageUrl": "https://yukinavi.net/i/data/078/index.html"
+    },
+    {
+      "region": "east",
+      "id": "100",
+      "title": "岩美町延興寺（県道37号岩美八東線）",
+      "pageUrl": "https://yukinavi.net/i/data/100/index.html"
+    },
+    {
+      "region": "east",
+      "id": "173",
+      "title": "岩美町大坂（県道37号岩美八東線）",
+      "pageUrl": "https://yukinavi.net/i/data/173/index.html"
+    },
+    {
+      "region": "east",
+      "id": "077",
+      "title": "福部町左近（県道188号池谷福部停車場線）",
+      "pageUrl": "https://yukinavi.net/i/data/077/index.html"
+    },
+    {
+      "region": "east",
+      "id": "167",
+      "title": "海士交差点：福部町海士（県道43号鳥取福部線）",
+      "pageUrl": "https://yukinavi.net/i/data/167/index.html"
+    },
+    {
+      "region": "east",
+      "id": "165",
+      "title": "鳥取砂丘入口：福部町湯山（県道265号湯山鳥取線）",
+      "pageUrl": "https://yukinavi.net/i/data/165/index.html"
+    },
+    {
+      "region": "east",
+      "id": "153",
+      "title": "鳥取市秋里（県道26号秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/153/index.html"
+    },
+    {
+      "region": "east",
+      "id": "158",
+      "title": "鳥取市幸町（県道26号秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/158/index.html"
+    },
+    {
+      "region": "east",
+      "id": "159",
+      "title": "鳥取駅前：鳥取市東品治町（県道43号鳥取福部線）",
+      "pageUrl": "https://yukinavi.net/i/data/159/index.html"
+    },
+    {
+      "region": "east",
+      "id": "154",
+      "title": "百谷ダム入口：鳥取市百谷（県道43号鳥取福部線）",
+      "pageUrl": "https://yukinavi.net/i/data/154/index.html"
+    },
+    {
+      "region": "east",
+      "id": "172",
+      "title": "正蓮寺交差点：鳥取市正蓮寺（県道323号若葉台東町線）",
+      "pageUrl": "https://yukinavi.net/i/data/172/index.html"
+    },
+    {
+      "region": "east",
+      "id": "161",
+      "title": "環境大入口：鳥取市海蔵寺（県道323号若葉台東町線）",
+      "pageUrl": "https://yukinavi.net/i/data/161/index.html"
+    },
+    {
+      "region": "east",
+      "id": "129",
+      "title": "鳥取市越路（県道293号鳥取郡家線）",
+      "pageUrl": "https://yukinavi.net/i/data/129/index.html"
+    },
+    {
+      "region": "east",
+      "id": "162",
+      "title": "鳥取商業高前：鳥取市湖山町北（県道264号鳥取空港布勢線）",
+      "pageUrl": "https://yukinavi.net/i/data/162/index.html"
+    },
+    {
+      "region": "east",
+      "id": "257",
+      "title": "鳥取市千代水（県道鳥取港湖山停車場線）※",
+      "pageUrl": "https://yukinavi.net/i/data/257/index.html"
+    },
+    {
+      "region": "east",
+      "id": "160",
+      "title": "嶋入口交差点：鳥取市徳尾（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/160/index.html"
+    },
+    {
+      "region": "east",
+      "id": "015",
+      "title": "青島前：鳥取市高住（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/015/index.html"
+    },
+    {
+      "region": "east",
+      "id": "014",
+      "title": "鳥取市御熊（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/014/index.html"
+    },
+    {
+      "region": "east",
+      "id": "064",
+      "title": "鳥取市高路（県道189号高路古海線）",
+      "pageUrl": "https://yukinavi.net/i/data/064/index.html"
+    },
+    {
+      "region": "east",
+      "id": "170",
+      "title": "鳥取市松上（県道49号鳥取河原用瀬線）",
+      "pageUrl": "https://yukinavi.net/i/data/170/index.html"
+    },
+    {
+      "region": "east",
+      "id": "131",
+      "title": "鳥取市河内（安蔵）（県道281号河内槙原線）",
+      "pageUrl": "https://yukinavi.net/i/data/131/index.html"
+    },
+    {
+      "region": "east",
+      "id": "001",
+      "title": "鳥取市岩坪（県道32号郡家鹿野気高線）",
+      "pageUrl": "https://yukinavi.net/i/data/001/index.html"
+    },
+    {
+      "region": "east",
+      "id": "099",
+      "title": "鳥取市矢矯（県道191号矢矯松原線）",
+      "pageUrl": "https://yukinavi.net/i/data/099/index.html"
+    },
+    {
+      "region": "east",
+      "id": "130",
+      "title": "鳥取市洞谷（県道304号妙徳寺鹿野線）",
+      "pageUrl": "https://yukinavi.net/i/data/130/index.html"
+    },
+    {
+      "region": "east",
+      "id": "157",
+      "title": "気高町下光元（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/157/index.html"
+    },
+    {
+      "region": "east",
+      "id": "256",
+      "title": "気高町下坂本（県道233号矢口鹿野線）",
+      "pageUrl": "https://yukinavi.net/i/data/256/index.html"
+    },
+    {
+      "region": "east",
+      "id": "255",
+      "title": "浜村警察署付近：気高町北浜（県道32号郡家鹿野気高線）",
+      "pageUrl": "https://yukinavi.net/i/data/255/index.html"
+    },
+    {
+      "region": "east",
+      "id": "013",
+      "title": "気高町上光（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/013/index.html"
+    },
+    {
+      "region": "east",
+      "id": "012",
+      "title": "気高町二本木（県道233号矢口鹿野線）",
+      "pageUrl": "https://yukinavi.net/i/data/012/index.html"
+    },
+    {
+      "region": "east",
+      "id": "254",
+      "title": "浜村鹿野温泉IC北：鹿野町乙亥正（県道32号郡家鹿野気高線）",
+      "pageUrl": "https://yukinavi.net/i/data/254/index.html"
+    },
+    {
+      "region": "east",
+      "id": "011",
+      "title": "浜村鹿野温泉IC南：鹿野町岡木（県道32号郡家鹿野気高線）",
+      "pageUrl": "https://yukinavi.net/i/data/011/index.html"
+    },
+    {
+      "region": "east",
+      "id": "002",
+      "title": "鹿野町河内（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/002/index.html"
+    },
+    {
+      "region": "east",
+      "id": "132",
+      "title": "青谷大橋：青谷町青谷（県道274号青谷停車場井手線）",
+      "pageUrl": "https://yukinavi.net/i/data/132/index.html"
+    },
+    {
+      "region": "east",
+      "id": "074",
+      "title": "日置川橋西詰：青谷町青谷（県道280号俵原青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/074/index.html"
+    },
+    {
+      "region": "east",
+      "id": "101",
+      "title": "青谷町河原（県道280号俵原青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/101/index.html"
+    },
+    {
+      "region": "east",
+      "id": "080",
+      "title": "青谷町小畑（県道280号俵原青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/080/index.html"
+    },
+    {
+      "region": "east",
+      "id": "133",
+      "title": "青谷町絹見（県道259号泊絹見青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/133/index.html"
+    },
+    {
+      "region": "east",
+      "id": "102",
+      "title": "青谷町桑原（県道51号倉吉川上青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/102/index.html"
+    },
+    {
+      "region": "east",
+      "id": "037",
+      "title": "栃本郵便局前：国府町栃本（県道31号鳥取国府岩美線）",
+      "pageUrl": "https://yukinavi.net/i/data/037/index.html"
+    },
+    {
+      "region": "east",
+      "id": "169",
+      "title": "国府町大石（県道37号岩美八東線）",
+      "pageUrl": "https://yukinavi.net/i/data/169/index.html"
+    },
+    {
+      "region": "east",
+      "id": "075",
+      "title": "国府町上地（県道154号上地中河原線）",
+      "pageUrl": "https://yukinavi.net/i/data/075/index.html"
+    },
+    {
+      "region": "east",
+      "id": "164",
+      "title": "鳥取盲学校前：国府町新町（県道31号鳥取国府岩美線）",
+      "pageUrl": "https://yukinavi.net/i/data/164/index.html"
+    },
+    {
+      "region": "east",
+      "id": "155",
+      "title": "国府東小学校付近：国府町谷（県道31号鳥取国府岩美線）",
+      "pageUrl": "https://yukinavi.net/i/data/155/index.html"
+    },
+    {
+      "region": "east",
+      "id": "168",
+      "title": "国府町山崎（県道154号上地中河原線）",
+      "pageUrl": "https://yukinavi.net/i/data/168/index.html"
+    },
+    {
+      "region": "east",
+      "id": "163",
+      "title": "河原町河原（県道32号郡家鹿野気高線）",
+      "pageUrl": "https://yukinavi.net/i/data/163/index.html"
+    },
+    {
+      "region": "east",
+      "id": "171",
+      "title": "西郷小学校付近：河原町牛戸（県道49号鳥取河原用瀬線）",
+      "pageUrl": "https://yukinavi.net/i/data/171/index.html"
+    },
+    {
+      "region": "east",
+      "id": "280",
+      "title": "河原町小倉(県道49号鳥取河原用瀬線)",
+      "pageUrl": "https://yukinavi.net/i/data/280/index.html"
+    },
+    {
+      "region": "east",
+      "id": "065",
+      "title": "河原町北村（県道196号杣小屋曳田線）",
+      "pageUrl": "https://yukinavi.net/i/data/065/index.html"
+    },
+    {
+      "region": "east",
+      "id": "278",
+      "title": "河原町高福(県道324号河原インター線)",
+      "pageUrl": "https://yukinavi.net/i/data/278/index.html"
+    },
+    {
+      "region": "east",
+      "id": "079",
+      "title": "用瀬町赤波（県道40号智頭用瀬線）",
+      "pageUrl": "https://yukinavi.net/i/data/079/index.html"
+    },
+    {
+      "region": "east",
+      "id": "103",
+      "title": "用瀬町江波（県道118号加茂用瀬線）",
+      "pageUrl": "https://yukinavi.net/i/data/103/index.html"
+    },
+    {
+      "region": "east",
+      "id": "258",
+      "title": "鳥取市福部町山湯山（県道鳥取福部線）",
+      "pageUrl": "https://yukinavi.net/i/data/258/index.html"
+    },
+    {
+      "region": "east",
+      "id": "259",
+      "title": "福部町総合支所前（県道鳥取福部線）",
+      "pageUrl": "https://yukinavi.net/i/data/259/index.html"
+    },
+    {
+      "region": "east",
+      "id": "260",
+      "title": "鳥取市白兎（県道御熊白兎線）",
+      "pageUrl": "https://yukinavi.net/i/data/260/index.html"
+    },
+    {
+      "region": "east",
+      "id": "261",
+      "title": "鳥取市南隈（県道鳥取港線）",
+      "pageUrl": "https://yukinavi.net/i/data/261/index.html"
+    },
+    {
+      "region": "east",
+      "id": "263",
+      "title": "鳥取市布勢（県道鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/263/index.html"
+    },
+    {
+      "region": "east",
+      "id": "264",
+      "title": "鳥取市吉方町（県道秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/264/index.html"
+    },
+    {
+      "region": "east",
+      "id": "265",
+      "title": "鳥取市秋里～幸町（県道秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/265/index.html"
+    },
+    {
+      "region": "east",
+      "id": "249",
+      "title": "鳥取市北園",
+      "pageUrl": "https://yukinavi.net/i/data/249/index.html"
+    },
+    {
+      "region": "east",
+      "id": "250",
+      "title": "鳥取市細見",
+      "pageUrl": "https://yukinavi.net/i/data/250/index.html"
+    },
+    {
+      "region": "central",
+      "id": "202",
+      "title": "人形峠・上（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/202/index.html"
+    },
+    {
+      "region": "central",
+      "id": "043",
+      "title": "人形峠・下（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/043/index.html"
+    },
+    {
+      "region": "central",
+      "id": "036",
+      "title": "三朝町 木地山（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/036/index.html"
+    },
+    {
+      "region": "central",
+      "id": "021",
+      "title": "三朝町 穴鴨（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/021/index.html"
+    },
+    {
+      "region": "central",
+      "id": "110",
+      "title": "三朝町 曹源寺（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/110/index.html"
+    },
+    {
+      "region": "central",
+      "id": "197",
+      "title": "三朝町 大柿（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/197/index.html"
+    },
+    {
+      "region": "central",
+      "id": "196",
+      "title": "倉吉市 東巌城町（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/196/index.html"
+    },
+    {
+      "region": "central",
+      "id": "195",
+      "title": "湯梨浜町 田後（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/195/index.html"
+    },
+    {
+      "region": "central",
+      "id": "087",
+      "title": "湯梨浜町 長瀬（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/087/index.html"
+    },
+    {
+      "region": "central",
+      "id": "044",
+      "title": "犬挟峠（国道313号）",
+      "pageUrl": "https://yukinavi.net/i/data/044/index.html"
+    },
+    {
+      "region": "central",
+      "id": "091",
+      "title": "倉吉市 関金町関金宿（国道313号）",
+      "pageUrl": "https://yukinavi.net/i/data/091/index.html"
+    },
+    {
+      "region": "central",
+      "id": "204",
+      "title": "倉吉市 福山（国道313号）",
+      "pageUrl": "https://yukinavi.net/i/data/204/index.html"
+    },
+    {
+      "region": "central",
+      "id": "210",
+      "title": "倉吉市 生田（国道313号）",
+      "pageUrl": "https://yukinavi.net/i/data/210/index.html"
+    },
+    {
+      "region": "central",
+      "id": "211",
+      "title": "倉吉市 福光（国道313号倉吉道路）",
+      "pageUrl": "https://yukinavi.net/i/data/211/index.html"
+    },
+    {
+      "region": "central",
+      "id": "050",
+      "title": "北栄町 米里（国道313号北条倉吉道路）",
+      "pageUrl": "https://yukinavi.net/i/data/050/index.html"
+    },
+    {
+      "region": "central",
+      "id": "049",
+      "title": "三朝町 福本（国道482号）",
+      "pageUrl": "https://yukinavi.net/i/data/049/index.html"
+    },
+    {
+      "region": "central",
+      "id": "203",
+      "title": "倉吉市 上井（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/203/index.html"
+    },
+    {
+      "region": "central",
+      "id": "205",
+      "title": "倉吉市 上神（県道23号倉吉由良線）",
+      "pageUrl": "https://yukinavi.net/i/data/205/index.html"
+    },
+    {
+      "region": "central",
+      "id": "213",
+      "title": "倉吉市 穴沢（県道23号倉吉由良線）",
+      "pageUrl": "https://yukinavi.net/i/data/213/index.html"
+    },
+    {
+      "region": "central",
+      "id": "147",
+      "title": "倉吉市 河来見（県道34号倉吉赤碕中山線）",
+      "pageUrl": "https://yukinavi.net/i/data/147/index.html"
+    },
+    {
+      "region": "central",
+      "id": "109",
+      "title": "倉吉市 上福田（県道34号倉吉赤碕中山線）",
+      "pageUrl": "https://yukinavi.net/i/data/109/index.html"
+    },
+    {
+      "region": "central",
+      "id": "212",
+      "title": "倉吉市 秋喜（県道34号倉吉赤碕中山線）",
+      "pageUrl": "https://yukinavi.net/i/data/212/index.html"
+    },
+    {
+      "region": "central",
+      "id": "206",
+      "title": "倉吉市 広瀬（県道38号倉吉福本線）",
+      "pageUrl": "https://yukinavi.net/i/data/206/index.html"
+    },
+    {
+      "region": "central",
+      "id": "146",
+      "title": "倉吉市 鴨河内（県道50号東伯関金線）",
+      "pageUrl": "https://yukinavi.net/i/data/146/index.html"
+    },
+    {
+      "region": "central",
+      "id": "022",
+      "title": "倉吉市 半坂（県道151号倉吉東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/022/index.html"
+    },
+    {
+      "region": "central",
+      "id": "266",
+      "title": "倉吉市 小田（県道161号倉吉江北線）",
+      "pageUrl": "https://yukinavi.net/i/data/266/index.html"
+    },
+    {
+      "region": "central",
+      "id": "269",
+      "title": "倉吉市 尾原（県道202号津原穴沢線）",
+      "pageUrl": "https://yukinavi.net/i/data/269/index.html"
+    },
+    {
+      "region": "central",
+      "id": "207",
+      "title": "倉吉市 大河内（県道288号上大立横田線）",
+      "pageUrl": "https://yukinavi.net/i/data/207/index.html"
+    },
+    {
+      "region": "central",
+      "id": "088",
+      "title": "倉吉市 福本（県道288号上大立横田線）",
+      "pageUrl": "https://yukinavi.net/i/data/088/index.html"
+    },
+    {
+      "region": "central",
+      "id": "208",
+      "title": "倉吉市 上大立（県道297号上大立大栄線）",
+      "pageUrl": "https://yukinavi.net/i/data/208/index.html"
+    },
+    {
+      "region": "central",
+      "id": "045",
+      "title": "倉吉市 関金町笹ヶ平（県道45号倉吉江府溝口線）",
+      "pageUrl": "https://yukinavi.net/i/data/045/index.html"
+    },
+    {
+      "region": "central",
+      "id": "070",
+      "title": "倉吉市 関金町明高（県道45号倉吉江府溝口線）",
+      "pageUrl": "https://yukinavi.net/i/data/070/index.html"
+    },
+    {
+      "region": "central",
+      "id": "042",
+      "title": "三朝町 俵原／佐谷峠（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/042/index.html"
+    },
+    {
+      "region": "central",
+      "id": "150",
+      "title": "三朝町 吉原（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/150/index.html"
+    },
+    {
+      "region": "central",
+      "id": "112",
+      "title": "三朝町 三徳（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/112/index.html"
+    },
+    {
+      "region": "central",
+      "id": "113",
+      "title": "三朝町 三朝（県道21号鳥取鹿野倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/113/index.html"
+    },
+    {
+      "region": "central",
+      "id": "023",
+      "title": "三朝町 片柴／波関峠（県道29号三朝東郷線）",
+      "pageUrl": "https://yukinavi.net/i/data/023/index.html"
+    },
+    {
+      "region": "central",
+      "id": "048",
+      "title": "三朝町 中津（県道33号三朝中線）",
+      "pageUrl": "https://yukinavi.net/i/data/048/index.html"
+    },
+    {
+      "region": "central",
+      "id": "114",
+      "title": "三朝町 神倉（県道33号三朝中線）",
+      "pageUrl": "https://yukinavi.net/i/data/114/index.html"
+    },
+    {
+      "region": "central",
+      "id": "193",
+      "title": "三朝町 田代（県道116号羽出三朝線）",
+      "pageUrl": "https://yukinavi.net/i/data/193/index.html"
+    },
+    {
+      "region": "central",
+      "id": "069",
+      "title": "三朝町 太郎田（県道205号木地山倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/069/index.html"
+    },
+    {
+      "region": "central",
+      "id": "198",
+      "title": "三朝町 小河内（県道205号木地山倉吉線）",
+      "pageUrl": "https://yukinavi.net/i/data/198/index.html"
+    },
+    {
+      "region": "central",
+      "id": "145",
+      "title": "三朝町 大谷（県道283号大谷曹源寺線）",
+      "pageUrl": "https://yukinavi.net/i/data/145/index.html"
+    },
+    {
+      "region": "central",
+      "id": "111",
+      "title": "三朝町 下畑（県道283号大谷曹源寺線）",
+      "pageUrl": "https://yukinavi.net/i/data/111/index.html"
+    },
+    {
+      "region": "central",
+      "id": "268",
+      "title": "湯梨浜町 方地～野花（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/268/index.html"
+    },
+    {
+      "region": "central",
+      "id": "047",
+      "title": "湯梨浜町 原（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/047/index.html"
+    },
+    {
+      "region": "central",
+      "id": "005",
+      "title": "湯梨浜町 松崎（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/005/index.html"
+    },
+    {
+      "region": "central",
+      "id": "200",
+      "title": "湯梨浜町 川上（県道51号倉吉川上青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/200/index.html"
+    },
+    {
+      "region": "central",
+      "id": "201",
+      "title": "湯梨浜町 泊（県道162号泊港線）",
+      "pageUrl": "https://yukinavi.net/i/data/201/index.html"
+    },
+    {
+      "region": "central",
+      "id": "199",
+      "title": "湯梨浜町 宮内（県道234号東郷羽合線）",
+      "pageUrl": "https://yukinavi.net/i/data/199/index.html"
+    },
+    {
+      "region": "central",
+      "id": "194",
+      "title": "湯梨浜町 筒地（県道259号泊絹見青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/194/index.html"
+    },
+    {
+      "region": "central",
+      "id": "267",
+      "title": "北栄町 江北（県道161号倉吉江北線）",
+      "pageUrl": "https://yukinavi.net/i/data/267/index.html"
+    },
+    {
+      "region": "central",
+      "id": "214",
+      "title": "北栄町 西高尾（県道203号法万大栄線）",
+      "pageUrl": "https://yukinavi.net/i/data/214/index.html"
+    },
+    {
+      "region": "central",
+      "id": "270",
+      "title": "北栄町 亀谷～大島（県道250号亀谷北条線）",
+      "pageUrl": "https://yukinavi.net/i/data/270/index.html"
+    },
+    {
+      "region": "central",
+      "id": "209",
+      "title": "北栄町 下神（県道320号羽合東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/209/index.html"
+    },
+    {
+      "region": "central",
+      "id": "024",
+      "title": "北栄町 由良宿（県道320号羽合東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/024/index.html"
+    },
+    {
+      "region": "central",
+      "id": "217",
+      "title": "琴浦町 尾張（県道30号赤碕大山線）",
+      "pageUrl": "https://yukinavi.net/i/data/217/index.html"
+    },
+    {
+      "region": "central",
+      "id": "046",
+      "title": "琴浦町 山川木地（県道34号倉吉赤碕中山線）",
+      "pageUrl": "https://yukinavi.net/i/data/046/index.html"
+    },
+    {
+      "region": "central",
+      "id": "149",
+      "title": "琴浦町 野井倉（県道44号東伯野添線）",
+      "pageUrl": "https://yukinavi.net/i/data/149/index.html"
+    },
+    {
+      "region": "central",
+      "id": "151",
+      "title": "琴浦町 三本杉（県道44号東伯野添線）",
+      "pageUrl": "https://yukinavi.net/i/data/151/index.html"
+    },
+    {
+      "region": "central",
+      "id": "148",
+      "title": "琴浦町 古長（県道44号東伯野添線）",
+      "pageUrl": "https://yukinavi.net/i/data/148/index.html"
+    },
+    {
+      "region": "central",
+      "id": "025",
+      "title": "琴浦町 杉地（県道44号東伯野添線）",
+      "pageUrl": "https://yukinavi.net/i/data/025/index.html"
+    },
+    {
+      "region": "central",
+      "id": "089",
+      "title": "琴浦町 上伊勢（県道151号倉吉東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/089/index.html"
+    },
+    {
+      "region": "central",
+      "id": "215",
+      "title": "琴浦町 福永（県道204号福永由良線）",
+      "pageUrl": "https://yukinavi.net/i/data/215/index.html"
+    },
+    {
+      "region": "central",
+      "id": "006",
+      "title": "琴浦町 逢束（県道267号大栄赤碕線）",
+      "pageUrl": "https://yukinavi.net/i/data/006/index.html"
+    },
+    {
+      "region": "central",
+      "id": "216",
+      "title": "琴浦町 宮木（県道289号船上山赤碕線）",
+      "pageUrl": "https://yukinavi.net/i/data/216/index.html"
+    },
+    {
+      "region": "central",
+      "id": "090",
+      "title": "琴浦町 出上（県道289号船上山赤碕線）",
+      "pageUrl": "https://yukinavi.net/i/data/090/index.html"
+    },
+    {
+      "region": "west",
+      "id": "273",
+      "title": "南部町境（国号180号）",
+      "pageUrl": "https://yukinavi.net/i/data/273/index.html"
+    },
+    {
+      "region": "west",
+      "id": "062",
+      "title": "南部町大木屋（国道180号）",
+      "pageUrl": "https://yukinavi.net/i/data/062/index.html"
+    },
+    {
+      "region": "west",
+      "id": "029",
+      "title": "南部町落合（国道180号）",
+      "pageUrl": "https://yukinavi.net/i/data/029/index.html"
+    },
+    {
+      "region": "west",
+      "id": "242",
+      "title": "南部町下中谷（国道180号）",
+      "pageUrl": "https://yukinavi.net/i/data/242/index.html"
+    },
+    {
+      "region": "west",
+      "id": "243",
+      "title": "南部町上中谷（国道180号）",
+      "pageUrl": "https://yukinavi.net/i/data/243/index.html"
+    },
+    {
+      "region": "west",
+      "id": "274",
+      "title": "伯耆町坂長(国道181号)",
+      "pageUrl": "https://yukinavi.net/i/data/274/index.html"
+    },
+    {
+      "region": "west",
+      "id": "030",
+      "title": "伯耆町根雨原（国道181号）",
+      "pageUrl": "https://yukinavi.net/i/data/030/index.html"
+    },
+    {
+      "region": "west",
+      "id": "225",
+      "title": "米子市糀町（国道181号）",
+      "pageUrl": "https://yukinavi.net/i/data/225/index.html"
+    },
+    {
+      "region": "west",
+      "id": "226",
+      "title": "米子市福市（国道181号）",
+      "pageUrl": "https://yukinavi.net/i/data/226/index.html"
+    },
+    {
+      "region": "west",
+      "id": "093",
+      "title": "伯耆町上細見（国道181号）",
+      "pageUrl": "https://yukinavi.net/i/data/093/index.html"
+    },
+    {
+      "region": "west",
+      "id": "222",
+      "title": "米子市河崎（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/222/index.html"
+    },
+    {
+      "region": "west",
+      "id": "223",
+      "title": "米子市皆生（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/223/index.html"
+    },
+    {
+      "region": "west",
+      "id": "144",
+      "title": "境港市昭和町（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/144/index.html"
+    },
+    {
+      "region": "west",
+      "id": "220",
+      "title": "境港市高松町（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/220/index.html"
+    },
+    {
+      "region": "west",
+      "id": "141",
+      "title": "大山町中山（県道239号羽田井植松線）",
+      "pageUrl": "https://yukinavi.net/i/data/141/index.html"
+    },
+    {
+      "region": "west",
+      "id": "026",
+      "title": "大山町栄田（県道228号赤碕中山インター線）",
+      "pageUrl": "https://yukinavi.net/i/data/026/index.html"
+    },
+    {
+      "region": "west",
+      "id": "008",
+      "title": "大山町名和（県道240号旧奈和西坪線）",
+      "pageUrl": "https://yukinavi.net/i/data/008/index.html"
+    },
+    {
+      "region": "west",
+      "id": "272",
+      "title": "大山町松河原（県道淀江琴浦線）",
+      "pageUrl": "https://yukinavi.net/i/data/272/index.html"
+    },
+    {
+      "region": "west",
+      "id": "092",
+      "title": "大山町所子（県道158号大山口停車場大山線）",
+      "pageUrl": "https://yukinavi.net/i/data/092/index.html"
+    },
+    {
+      "region": "west",
+      "id": "117",
+      "title": "大山町羽田井（県道30号赤碕大山線）",
+      "pageUrl": "https://yukinavi.net/i/data/117/index.html"
+    },
+    {
+      "region": "west",
+      "id": "071",
+      "title": "大山町香取（県道30号赤碕大山線）",
+      "pageUrl": "https://yukinavi.net/i/data/071/index.html"
+    },
+    {
+      "region": "west",
+      "id": "115",
+      "title": "大山町佐摩（県道36号名和岸本線）",
+      "pageUrl": "https://yukinavi.net/i/data/115/index.html"
+    },
+    {
+      "region": "west",
+      "id": "275",
+      "title": "大山町赤松(米子大山線)",
+      "pageUrl": "https://yukinavi.net/i/data/275/index.html"
+    },
+    {
+      "region": "west",
+      "id": "061",
+      "title": "大山町槇原（県道24号米子大山線）",
+      "pageUrl": "https://yukinavi.net/i/data/061/index.html"
+    },
+    {
+      "region": "west",
+      "id": "051",
+      "title": "大山町大山寺（県道158号大山口停車場大山線）",
+      "pageUrl": "https://yukinavi.net/i/data/051/index.html"
+    },
+    {
+      "region": "west",
+      "id": "247",
+      "title": "大山町高田（県道名和岸本線）",
+      "pageUrl": "https://yukinavi.net/i/data/247/index.html"
+    },
+    {
+      "region": "west",
+      "id": "248",
+      "title": "大山町東坪（県道豊房御来屋線）",
+      "pageUrl": "https://yukinavi.net/i/data/248/index.html"
+    },
+    {
+      "region": "west",
+      "id": "027",
+      "title": "伯耆町大殿（県道53号淀江岸本線）",
+      "pageUrl": "https://yukinavi.net/i/data/027/index.html"
+    },
+    {
+      "region": "west",
+      "id": "143",
+      "title": "伯耆町上代（県道46号日野溝口線）",
+      "pageUrl": "https://yukinavi.net/i/data/143/index.html"
+    },
+    {
+      "region": "west",
+      "id": "116",
+      "title": "伯耆町小林（県道52号岸本江府線）",
+      "pageUrl": "https://yukinavi.net/i/data/116/index.html"
+    },
+    {
+      "region": "west",
+      "id": "142",
+      "title": "伯耆町小林（県道284号大山寺岸本線）",
+      "pageUrl": "https://yukinavi.net/i/data/142/index.html"
+    },
+    {
+      "region": "west",
+      "id": "072",
+      "title": "伯耆町大内（桝水高原）（県道45号倉吉江府溝口線）",
+      "pageUrl": "https://yukinavi.net/i/data/072/index.html"
+    },
+    {
+      "region": "west",
+      "id": "060",
+      "title": "伯耆町岩立（県道45号倉吉江府溝口線）",
+      "pageUrl": "https://yukinavi.net/i/data/060/index.html"
+    },
+    {
+      "region": "west",
+      "id": "119",
+      "title": "伯耆町大滝（県道52号岸本江府線）",
+      "pageUrl": "https://yukinavi.net/i/data/119/index.html"
+    },
+    {
+      "region": "west",
+      "id": "118",
+      "title": "伯耆町二部（県道46号日野溝口線）",
+      "pageUrl": "https://yukinavi.net/i/data/118/index.html"
+    },
+    {
+      "region": "west",
+      "id": "244",
+      "title": "伯耆町福岡（県道日野溝口線）",
+      "pageUrl": "https://yukinavi.net/i/data/244/index.html"
+    },
+    {
+      "region": "west",
+      "id": "245",
+      "title": "伯耆町間地（県道西伯根雨線）",
+      "pageUrl": "https://yukinavi.net/i/data/245/index.html"
+    },
+    {
+      "region": "west",
+      "id": "246",
+      "title": "伯耆町須村（県道米子丸山線）",
+      "pageUrl": "https://yukinavi.net/i/data/246/index.html"
+    },
+    {
+      "region": "west",
+      "id": "276",
+      "title": "伯耆町久古(大山高原スマートインター線)",
+      "pageUrl": "https://yukinavi.net/i/data/276/index.html"
+    },
+    {
+      "region": "west",
+      "id": "028",
+      "title": "南部町鶴田（県道１号溝口伯太線）",
+      "pageUrl": "https://yukinavi.net/i/data/028/index.html"
+    },
+    {
+      "region": "west",
+      "id": "231",
+      "title": "南部町市山（県道溝口伯太線）",
+      "pageUrl": "https://yukinavi.net/i/data/231/index.html"
+    },
+    {
+      "region": "west",
+      "id": "007",
+      "title": "南部町東上（県道35号西伯根雨線）",
+      "pageUrl": "https://yukinavi.net/i/data/007/index.html"
+    },
+    {
+      "region": "west",
+      "id": "221",
+      "title": "米子市彦名町（県道米子境港線）",
+      "pageUrl": "https://yukinavi.net/i/data/221/index.html"
+    },
+    {
+      "region": "west",
+      "id": "224",
+      "title": "米子市東福原（県道皆生西原線）",
+      "pageUrl": "https://yukinavi.net/i/data/224/index.html"
+    },
+    {
+      "region": "west",
+      "id": "227",
+      "title": "米子市淀江町中間（県道淀江岸本線）",
+      "pageUrl": "https://yukinavi.net/i/data/227/index.html"
+    },
+    {
+      "region": "west",
+      "id": "228",
+      "title": "米子市岡成（県道米子大山線）",
+      "pageUrl": "https://yukinavi.net/i/data/228/index.html"
+    },
+    {
+      "region": "west",
+      "id": "229",
+      "title": "米子市淀江町福岡（淀江インター線）",
+      "pageUrl": "https://yukinavi.net/i/data/229/index.html"
+    },
+    {
+      "region": "west",
+      "id": "230",
+      "title": "米子市新山（県道米子広瀬線）",
+      "pageUrl": "https://yukinavi.net/i/data/230/index.html"
+    },
+    {
+      "region": "west",
+      "id": "288",
+      "title": "米子市陰田(米子環状線)",
+      "pageUrl": "https://yukinavi.net/i/data/288/index.html"
+    },
+    {
+      "region": "west",
+      "id": "218",
+      "title": "境港市上道町（県道米子境港線）",
+      "pageUrl": "https://yukinavi.net/i/data/218/index.html"
+    },
+    {
+      "region": "west",
+      "id": "271",
+      "title": "境港市役所周辺（県道米子境港線）",
+      "pageUrl": "https://yukinavi.net/i/data/271/index.html"
+    },
+    {
+      "region": "west",
+      "id": "219",
+      "title": "境港市三軒屋（県道米子境港線）",
+      "pageUrl": "https://yukinavi.net/i/data/219/index.html"
+    }
+  ],
+  "selected": [
+    {
+      "region": "east",
+      "id": "153",
+      "title": "鳥取市秋里（県道26号秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/153/index.html"
+    },
+    {
+      "region": "east",
+      "id": "158",
+      "title": "鳥取市幸町（県道26号秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/158/index.html"
+    },
+    {
+      "region": "east",
+      "id": "159",
+      "title": "鳥取駅前：鳥取市東品治町（県道43号鳥取福部線）",
+      "pageUrl": "https://yukinavi.net/i/data/159/index.html"
+    },
+    {
+      "region": "east",
+      "id": "162",
+      "title": "鳥取商業高前：鳥取市湖山町北（県道264号鳥取空港布勢線）",
+      "pageUrl": "https://yukinavi.net/i/data/162/index.html"
+    },
+    {
+      "region": "east",
+      "id": "257",
+      "title": "鳥取市千代水（県道鳥取港湖山停車場線）※",
+      "pageUrl": "https://yukinavi.net/i/data/257/index.html"
+    },
+    {
+      "region": "east",
+      "id": "264",
+      "title": "鳥取市吉方町（県道秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/264/index.html"
+    },
+    {
+      "region": "east",
+      "id": "265",
+      "title": "鳥取市秋里～幸町（県道秋里吉方線）",
+      "pageUrl": "https://yukinavi.net/i/data/265/index.html"
+    },
+    {
+      "region": "central",
+      "id": "196",
+      "title": "倉吉市 東巌城町（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/196/index.html"
+    },
+    {
+      "region": "central",
+      "id": "087",
+      "title": "湯梨浜町 長瀬（国道179号）",
+      "pageUrl": "https://yukinavi.net/i/data/087/index.html"
+    },
+    {
+      "region": "central",
+      "id": "211",
+      "title": "倉吉市 福光（国道313号倉吉道路）",
+      "pageUrl": "https://yukinavi.net/i/data/211/index.html"
+    },
+    {
+      "region": "central",
+      "id": "050",
+      "title": "北栄町 米里（国道313号北条倉吉道路）",
+      "pageUrl": "https://yukinavi.net/i/data/050/index.html"
+    },
+    {
+      "region": "central",
+      "id": "203",
+      "title": "倉吉市 上井（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/203/index.html"
+    },
+    {
+      "region": "central",
+      "id": "205",
+      "title": "倉吉市 上神（県道23号倉吉由良線）",
+      "pageUrl": "https://yukinavi.net/i/data/205/index.html"
+    },
+    {
+      "region": "central",
+      "id": "047",
+      "title": "湯梨浜町 原（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/047/index.html"
+    },
+    {
+      "region": "central",
+      "id": "005",
+      "title": "湯梨浜町 松崎（県道22号倉吉青谷線）",
+      "pageUrl": "https://yukinavi.net/i/data/005/index.html"
+    },
+    {
+      "region": "central",
+      "id": "199",
+      "title": "湯梨浜町 宮内（県道234号東郷羽合線）",
+      "pageUrl": "https://yukinavi.net/i/data/199/index.html"
+    },
+    {
+      "region": "central",
+      "id": "267",
+      "title": "北栄町 江北（県道161号倉吉江北線）",
+      "pageUrl": "https://yukinavi.net/i/data/267/index.html"
+    },
+    {
+      "region": "central",
+      "id": "209",
+      "title": "北栄町 下神（県道320号羽合東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/209/index.html"
+    },
+    {
+      "region": "central",
+      "id": "024",
+      "title": "北栄町 由良宿（県道320号羽合東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/024/index.html"
+    },
+    {
+      "region": "central",
+      "id": "089",
+      "title": "琴浦町 上伊勢（県道151号倉吉東伯線）",
+      "pageUrl": "https://yukinavi.net/i/data/089/index.html"
+    },
+    {
+      "region": "central",
+      "id": "006",
+      "title": "琴浦町 逢束（県道267号大栄赤碕線）",
+      "pageUrl": "https://yukinavi.net/i/data/006/index.html"
+    },
+    {
+      "region": "west",
+      "id": "223",
+      "title": "米子市皆生（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/223/index.html"
+    },
+    {
+      "region": "west",
+      "id": "220",
+      "title": "境港市高松町（国道431号）",
+      "pageUrl": "https://yukinavi.net/i/data/220/index.html"
+    },
+    {
+      "region": "west",
+      "id": "224",
+      "title": "米子市東福原（県道皆生西原線）",
+      "pageUrl": "https://yukinavi.net/i/data/224/index.html"
+    }
+  ]
+}

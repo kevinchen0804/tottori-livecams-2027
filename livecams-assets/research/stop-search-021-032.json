@@ -1,0 +1,185 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-021",
+        "place-022",
+        "place-023"
+      ],
+      "queries": [
+        {
+          "id": "place-021",
+          "name": "松江花鳥園",
+          "q": "松江フォーゲルパーク ライブカメラ"
+        },
+        {
+          "id": "place-022",
+          "name": "蕎麥麵亭 不昧庵 蕎麥麵",
+          "q": "不昧庵 ライブカメラ"
+        },
+        {
+          "id": "place-023",
+          "name": "TRUFFLE DONUT日吉津店 甜甜圈",
+          "q": "TRUFFLE DONUT 日吉津 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0091",
+        "source-0092",
+        "source-0093",
+        "source-0094",
+        "source-0095",
+        "source-0096",
+        "source-0097",
+        "source-0098",
+        "source-0099",
+        "source-0100",
+        "source-0101",
+        "source-0102",
+        "source-0103",
+        "source-0104",
+        "source-0105",
+        "source-0106",
+        "source-0107",
+        "source-0108",
+        "source-0109",
+        "source-0110",
+        "source-0111"
+      ]
+    },
+    {
+      "ids": [
+        "place-024",
+        "place-025",
+        "place-026"
+      ],
+      "queries": [
+        {
+          "id": "place-024",
+          "name": "AEON MALL HIEZU 逛街",
+          "q": "イオンモール日吉津 ライブカメラ"
+        },
+        {
+          "id": "place-025",
+          "name": "Shamine 米子 車站購物中心",
+          "q": "シャミネ米子 ライブカメラ"
+        },
+        {
+          "id": "place-026",
+          "name": "三代目鳥メロ 燒鳥店 Tabelog訂位18:00",
+          "q": "三代目鳥メロ 米子駅前 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0112",
+        "source-0073",
+        "source-0076",
+        "source-0113",
+        "source-0114",
+        "source-0115",
+        "source-0116",
+        "source-0117",
+        "source-0118",
+        "source-0080",
+        "source-0085",
+        "source-0119",
+        "source-0120",
+        "source-0121",
+        "source-0122",
+        "source-0123",
+        "source-0124",
+        "source-0125"
+      ]
+    },
+    {
+      "ids": [
+        "place-027",
+        "place-028",
+        "place-029"
+      ],
+      "queries": [
+        {
+          "id": "place-027",
+          "name": "なかうら大漁市場通販部",
+          "q": "なかうら大漁市場 ライブカメラ"
+        },
+        {
+          "id": "place-028",
+          "name": "境港水產直營中心",
+          "q": "境港水産物直売センター ライブカメラ"
+        },
+        {
+          "id": "place-029",
+          "name": "御宿 野乃境港 停車",
+          "q": "御宿野乃境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0126",
+        "source-0127",
+        "source-0128",
+        "source-0129",
+        "source-0130",
+        "source-0131",
+        "source-0132",
+        "source-0133",
+        "source-0134",
+        "source-0135",
+        "source-0136",
+        "source-0137",
+        "source-0138",
+        "source-0139",
+        "source-0140"
+      ]
+    },
+    {
+      "ids": [
+        "place-030",
+        "place-031",
+        "place-032"
+      ],
+      "queries": [
+        {
+          "id": "place-030",
+          "name": "境港市観光案内所 買收集冊",
+          "q": "境港市観光案内所 ライブカメラ"
+        },
+        {
+          "id": "place-031",
+          "name": "㉟ 鬼太郎妖怪倉庫 (みなとさかい交流館２Ｆ)",
+          "q": "鬼太郎妖怪倉庫 みなとさかい交流館 ライブカメラ"
+        },
+        {
+          "id": "place-032",
+          "name": "①② 千代むすび 岡空本店",
+          "q": "千代むすび 岡空本店 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0141",
+        "source-0142",
+        "source-0143",
+        "source-0144",
+        "source-0145",
+        "source-0146",
+        "source-0136",
+        "source-0147",
+        "source-0148",
+        "source-0137",
+        "source-0149",
+        "source-0150",
+        "source-0151",
+        "source-0152",
+        "source-0153",
+        "source-0154",
+        "source-0155",
+        "source-0156"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

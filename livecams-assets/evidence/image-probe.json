@@ -1,0 +1,1186 @@
+{
+  "checkedAt": "2026-10-24T22:07:21.684Z",
+  "sources": [
+    {
+      "id": "daisenji-road-158",
+      "title": "大山寺橋・上山道路",
+      "imageUrl": "https://yukinavi.net/data/051/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/051/"
+    },
+    {
+      "id": "makihara-road-24",
+      "title": "大山槙原・米子大山線",
+      "imageUrl": "https://yukinavi.net/data/061/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/061/"
+    },
+    {
+      "id": "masumizu-slope",
+      "title": "桝水高原・大山西側坡面",
+      "imageUrl": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg",
+      "sourcePageUrl": "https://www.houki-town.jp/ski/camera/"
+    },
+    {
+      "id": "misasa-road",
+      "title": "三朝溫泉周邊道路",
+      "imageUrl": "https://yukinavi.net/data/113/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/113/index.html"
+    },
+    {
+      "id": "kurayoshi-road",
+      "title": "倉吉市區道路",
+      "imageUrl": "https://yukinavi.net/data/196/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/i/data/196/index.html"
+    },
+    {
+      "id": "kaike-coast",
+      "title": "皆生海岸・海濱公園",
+      "imageUrl": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg",
+      "sourcePageUrl": "https://www.cgr.mlit.go.jp/hinogawa/kaigan/cameras/detail.php?id=2"
+    },
+    {
+      "id": "sakaiminato-city",
+      "title": "境港市役所周邊",
+      "imageUrl": "https://yukinavi.net/data/271/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/i/data/271/index.html"
+    },
+    {
+      "id": "sanindo-takakusa",
+      "title": "山陰道・高草隧道",
+      "imageUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg",
+      "sourcePageUrl": "https://yukinavi.net/"
+    },
+    {
+      "id": "sanindo-shigeyama",
+      "title": "山陰道・重山隧道",
+      "imageUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg",
+      "sourcePageUrl": "https://yukinavi.net/"
+    },
+    {
+      "id": "r9-hakuto",
+      "title": "國道9號・白兔",
+      "imageUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg",
+      "sourcePageUrl": "https://www.cgr.mlit.go.jp/tottori/livecam_road/detail.php?point=hakuto"
+    },
+    {
+      "id": "matsue-tsk",
+      "title": "松江・國引大橋前",
+      "imageUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg",
+      "sourcePageUrl": "https://tsk-tv.com/livecamera/low.php"
+    },
+    {
+      "id": "misasa-road-small",
+      "title": "三朝溫泉周邊道路（手機小圖）",
+      "imageUrl": "https://yukinavi.net/data/113/keitai.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/113/index.html"
+    }
+  ],
+  "rounds": [
+    {
+      "label": "original",
+      "at": "2026-10-24T22:07:23.333Z",
+      "images": [
+        {
+          "id": "img0",
+          "src": "https://yukinavi.net/data/051/camera.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img1",
+          "src": "https://yukinavi.net/data/061/camera.jpg",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img2",
+          "src": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img3",
+          "src": "https://yukinavi.net/data/113/camera.jpg",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img4",
+          "src": "https://yukinavi.net/data/196/camera.jpg",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img5",
+          "src": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img6",
+          "src": "https://yukinavi.net/data/271/camera.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img7",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img8",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img9",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img10",
+          "src": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img11",
+          "src": "https://yukinavi.net/data/113/keitai.jpg",
+          "complete": true,
+          "naturalWidth": 240,
+          "naturalHeight": 180
+        }
+      ]
+    },
+    {
+      "label": "cache-bust-1",
+      "at": "2026-10-24T22:07:24.273Z",
+      "images": [
+        {
+          "id": "img0",
+          "src": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img1",
+          "src": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img2",
+          "src": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img3",
+          "src": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img4",
+          "src": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img5",
+          "src": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img6",
+          "src": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img7",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img8",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img9",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img10",
+          "src": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img11",
+          "src": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 240,
+          "naturalHeight": 180
+        }
+      ]
+    },
+    {
+      "label": "cache-bust-2",
+      "at": "2026-10-24T22:07:25.740Z",
+      "images": [
+        {
+          "id": "img0",
+          "src": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img1",
+          "src": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img2",
+          "src": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img3",
+          "src": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img4",
+          "src": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "id": "img5",
+          "src": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img6",
+          "src": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img7",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img8",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img9",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img10",
+          "src": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "id": "img11",
+          "src": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 240,
+          "naturalHeight": 180
+        }
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "originalUrl": "https://yukinavi.net/data/061/camera.jpg",
+      "url": "https://yukinavi.net/data/061/camera.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:02 GMT",
+      "contentLength": "15124",
+      "bytes": 15124,
+      "sha256": "905e938db8ce62e6ba07e02bf2eb2bd306f05a4556cfddc96c22545215619779"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/051/camera.jpg",
+      "url": "https://yukinavi.net/data/051/camera.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:02 GMT",
+      "contentLength": "29503",
+      "bytes": 29503,
+      "sha256": "a1294c9327f4592a1a4485b515b7de8e7c1960bccd48f4d49e453b96626397e9"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/113/camera.jpg",
+      "url": "https://yukinavi.net/data/113/camera.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "13460",
+      "bytes": 13460,
+      "sha256": "a4f2d69a7ebd8ad9898c8b1a1cc6ca4018eac3c40bc8467e639ff9bab7ec9ff4"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/196/camera.jpg",
+      "url": "https://yukinavi.net/data/196/camera.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "19594",
+      "bytes": 19594,
+      "sha256": "4584f7d7ffc80cc47b0a741b6f1a94b331f24b2be7cde0c967074da629bbbddd"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/271/camera.jpg",
+      "url": "https://yukinavi.net/data/271/camera.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:06:03 GMT",
+      "contentLength": "87876",
+      "bytes": 87876,
+      "sha256": "a9ef42da9a53d7cae35708d26a86fbc40727c4baa33ec6bc4db555ab093b98b1"
+    },
+    {
+      "originalUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg",
+      "url": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg",
+      "status": 302,
+      "contentType": "text/html; charset=iso-8859-1",
+      "contentLength": "231",
+      "location": "https://tsk-tv.com/camera/webcam/currentvga.jpg",
+      "sha256": null,
+      "bodyError": "Error: response.body: Response body is unavailable for redirect responses"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/113/keitai.jpg",
+      "url": "https://yukinavi.net/data/113/keitai.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "8203",
+      "bytes": 8203,
+      "sha256": "8ab2389a91b6f11c58381212d2d3b58a9a405ea700ee95c6199fa5e0dabd37ae"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg",
+      "url": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 21:57:54 GMT",
+      "cacheControl": "max-age=300, public",
+      "contentLength": "50654",
+      "bytes": 50654,
+      "sha256": "5a41004f4894fd19ac310837b6cf0059933376c1ea5a53f6611d34e12bd18dab"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 21:47:39 GMT",
+      "cacheControl": "max-age=2700, public",
+      "contentLength": "98752",
+      "bytes": 98752,
+      "sha256": "186c58fff048f64476318a7a155a897864444d15a821a39c55204e2c52ad07fc"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 21:47:40 GMT",
+      "cacheControl": "max-age=2700, public",
+      "contentLength": "105133",
+      "bytes": 105133,
+      "sha256": "cb5d963da8063f58cd77fb090c37ef2a224dc8f38ee022da5d318811041baba5"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:13 GMT",
+      "cacheControl": "max-age=2700, public",
+      "contentLength": "58309",
+      "bytes": 58309,
+      "sha256": "498e419c907cda8692e5ba620ef0d83386b2a0e58cf46db47f53ebfca1b6a583"
+    },
+    {
+      "originalUrl": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg",
+      "url": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:08 GMT",
+      "contentLength": "43113",
+      "bytes": 43113,
+      "sha256": "77e2b38a7127fbc60331c620f58b8b148e729f8d5043e96dddd58e203dfea601"
+    },
+    {
+      "originalUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg",
+      "url": "https://tsk-tv.com/camera/webcam/currentvga.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:00:01 GMT",
+      "contentLength": "21632",
+      "bytes": 21632,
+      "sha256": "6341c2142cd0706b12e1e2f5bd43d6612ae7be32d5b858c50196fb43b3f182cf"
+    },
+    {
+      "originalUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879643782",
+      "url": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879643782",
+      "status": 302,
+      "contentType": "text/html; charset=iso-8859-1",
+      "contentLength": "249",
+      "location": "https://tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879643782",
+      "sha256": null,
+      "bodyError": "Error: response.body: Response body is unavailable for redirect responses"
+    },
+    {
+      "originalUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879643782",
+      "url": "https://tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:00:01 GMT",
+      "contentLength": "21632",
+      "bytes": 21632,
+      "sha256": "6341c2142cd0706b12e1e2f5bd43d6612ae7be32d5b858c50196fb43b3f182cf"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879643782",
+      "url": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:02 GMT",
+      "contentLength": "29503",
+      "bytes": 29503,
+      "sha256": "a1294c9327f4592a1a4485b515b7de8e7c1960bccd48f4d49e453b96626397e9"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879643782",
+      "url": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:02 GMT",
+      "contentLength": "15124",
+      "bytes": 15124,
+      "sha256": "905e938db8ce62e6ba07e02bf2eb2bd306f05a4556cfddc96c22545215619779"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879643782",
+      "url": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "13460",
+      "bytes": 13460,
+      "sha256": "a4f2d69a7ebd8ad9898c8b1a1cc6ca4018eac3c40bc8467e639ff9bab7ec9ff4"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879643782",
+      "url": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "8203",
+      "bytes": 8203,
+      "sha256": "8ab2389a91b6f11c58381212d2d3b58a9a405ea700ee95c6199fa5e0dabd37ae"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879643782",
+      "url": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "19594",
+      "bytes": 19594,
+      "sha256": "4584f7d7ffc80cc47b0a741b6f1a94b331f24b2be7cde0c967074da629bbbddd"
+    },
+    {
+      "originalUrl": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879643782",
+      "url": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:08 GMT",
+      "contentLength": "43113",
+      "bytes": 43113,
+      "sha256": "77e2b38a7127fbc60331c620f58b8b148e729f8d5043e96dddd58e203dfea601"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879643782",
+      "url": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:06:03 GMT",
+      "contentLength": "87876",
+      "bytes": 87876,
+      "sha256": "a9ef42da9a53d7cae35708d26a86fbc40727c4baa33ec6bc4db555ab093b98b1"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879643782",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:13 GMT",
+      "contentLength": "58477",
+      "bytes": 58477,
+      "sha256": "fd0454cbcd7bf10be261a9e3b59459930dc6955634b0abd5dc56c097d64a9649"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879643782",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:18 GMT",
+      "contentLength": "111575",
+      "bytes": 111575,
+      "sha256": "a1dc223505f13f84ed7ed4477da1c0041e6c7374deb00e29146e3bcd66fb2e92"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879643782",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:17 GMT",
+      "contentLength": "99459",
+      "bytes": 99459,
+      "sha256": "9385d527273fe4f39e03866a9a8e2fe0d85a59e9f7589fd7f2a967f3d0abd5b2"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879643782",
+      "url": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879643782",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:13 GMT",
+      "contentLength": "54047",
+      "bytes": 54047,
+      "sha256": "ea2f3ff50a123628f3d54dbe148ade878f0f220af5400f89712ecff00c42b8a2"
+    },
+    {
+      "originalUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879645376",
+      "url": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879645376",
+      "status": 302,
+      "contentType": "text/html; charset=iso-8859-1",
+      "contentLength": "249",
+      "location": "https://tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879645376",
+      "sha256": null,
+      "bodyError": "Error: response.body: Response body is unavailable for redirect responses"
+    },
+    {
+      "originalUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879645376",
+      "url": "https://tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:00:01 GMT",
+      "contentLength": "21632",
+      "bytes": 21632,
+      "sha256": "6341c2142cd0706b12e1e2f5bd43d6612ae7be32d5b858c50196fb43b3f182cf"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879645376",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:16 GMT",
+      "contentLength": "57827",
+      "bytes": 57827,
+      "sha256": "ee4cd99a6d2867a9c9a60d0ee4b7bc2dc11b126cc6a68ee53fe63b0f019bd51f"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879645376",
+      "url": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:08 GMT",
+      "contentLength": "54047",
+      "bytes": 54047,
+      "sha256": "ea2f3ff50a123628f3d54dbe148ade878f0f220af5400f89712ecff00c42b8a2"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879645376",
+      "url": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:02 GMT",
+      "contentLength": "29503",
+      "bytes": 29503,
+      "sha256": "a1294c9327f4592a1a4485b515b7de8e7c1960bccd48f4d49e453b96626397e9"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879645376",
+      "url": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "13460",
+      "bytes": 13460,
+      "sha256": "a4f2d69a7ebd8ad9898c8b1a1cc6ca4018eac3c40bc8467e639ff9bab7ec9ff4"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879645376",
+      "url": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:02 GMT",
+      "contentLength": "15124",
+      "bytes": 15124,
+      "sha256": "905e938db8ce62e6ba07e02bf2eb2bd306f05a4556cfddc96c22545215619779"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879645376",
+      "url": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "8203",
+      "bytes": 8203,
+      "sha256": "8ab2389a91b6f11c58381212d2d3b58a9a405ea700ee95c6199fa5e0dabd37ae"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879645376",
+      "url": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:03 GMT",
+      "contentLength": "19594",
+      "bytes": 19594,
+      "sha256": "4584f7d7ffc80cc47b0a741b6f1a94b331f24b2be7cde0c967074da629bbbddd"
+    },
+    {
+      "originalUrl": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879645376",
+      "url": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:07:08 GMT",
+      "contentLength": "43113",
+      "bytes": 43113,
+      "sha256": "77e2b38a7127fbc60331c620f58b8b148e729f8d5043e96dddd58e203dfea601"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879645376",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:31 GMT",
+      "contentLength": "98546",
+      "bytes": 98546,
+      "sha256": "21174041acd255a9cc4bbe21cc247025d0469094e15c15dec4f085f7a4b0d591"
+    },
+    {
+      "originalUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879645376",
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:04:32 GMT",
+      "contentLength": "111090",
+      "bytes": 111090,
+      "sha256": "44dd4651854314d5010a5e2dfe1fe5f4c666c458f40e9e870da174e5cfd6db4d"
+    },
+    {
+      "originalUrl": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879645376",
+      "url": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879645376",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "lastModified": "Sat, 24 Oct 2026 22:06:03 GMT",
+      "contentLength": "87876",
+      "bytes": 87876,
+      "sha256": "a9ef42da9a53d7cae35708d26a86fbc40727c4baa33ec6bc4db555ab093b98b1"
+    }
+  ],
+  "errors": [],
+  "serverClosed": true,
+  "serverPort": 8765,
+  "url": "http://127.0.0.1:8765",
+  "summary": [
+    {
+      "id": "daisenji-road-158",
+      "title": "大山寺橋・上山道路",
+      "imageUrl": "https://yukinavi.net/data/051/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/051/",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img0",
+          "src": "https://yukinavi.net/data/051/camera.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img0",
+          "src": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img0",
+          "src": "https://yukinavi.net/data/051/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見濕路與橋面、山林、建物；非維護佔位圖。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "makihara-road-24",
+      "title": "大山槙原・米子大山線",
+      "imageUrl": "https://yukinavi.net/data/061/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/061/",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img1",
+          "src": "https://yukinavi.net/data/061/camera.jpg",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img1",
+          "src": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img1",
+          "src": "https://yukinavi.net/data/061/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        }
+      ],
+      "visualEvidence": "contact sheet見林間道路與路邊落葉，圖上有26/10/25當日時間；非維護佔位圖。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "masumizu-slope",
+      "title": "桝水高原・大山西側坡面",
+      "imageUrl": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg",
+      "sourcePageUrl": "https://www.houki-town.jp/ski/camera/",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img2",
+          "src": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img2",
+          "src": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img2",
+          "src": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見坡地草地、樹木、停車格與建物；原圖時間07:22:01相對本次07:07JST檢查約快15分，攝影機時鐘不可當同步權威。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "misasa-road",
+      "title": "三朝溫泉周邊道路",
+      "imageUrl": "https://yukinavi.net/data/113/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/113/index.html",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img3",
+          "src": "https://yukinavi.net/data/113/camera.jpg",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img3",
+          "src": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img3",
+          "src": "https://yukinavi.net/data/113/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        }
+      ],
+      "visualEvidence": "contact sheet見濕道路、建物、圍欄與車輛反光，非溫泉街河原風呂視角。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "kurayoshi-road",
+      "title": "倉吉市區道路",
+      "imageUrl": "https://yukinavi.net/data/196/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/i/data/196/index.html",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img4",
+          "src": "https://yukinavi.net/data/196/camera.jpg",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img4",
+          "src": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img4",
+          "src": "https://yukinavi.net/data/196/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 320,
+          "naturalHeight": 240
+        }
+      ],
+      "visualEvidence": "contact sheet見市區交叉路口、車輛與路面反光；非維護佔位圖。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "kaike-coast",
+      "title": "皆生海岸・海濱公園",
+      "imageUrl": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg",
+      "sourcePageUrl": "https://www.cgr.mlit.go.jp/hinogawa/kaigan/cameras/detail.php?id=2",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img5",
+          "src": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img5",
+          "src": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img5",
+          "src": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見海岸、波浪、沙灘與護岸；鏡頭水滴略擋視野，但仍是真實可觀察攝影圖。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "sakaiminato-city",
+      "title": "境港市役所周邊",
+      "imageUrl": "https://yukinavi.net/data/271/camera.jpg",
+      "sourcePageUrl": "https://yukinavi.net/i/data/271/index.html",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img6",
+          "src": "https://yukinavi.net/data/271/camera.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img6",
+          "src": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img6",
+          "src": "https://yukinavi.net/data/271/camera.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見市區道路、車輛、建築與路面反光，非港景。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "sanindo-takakusa",
+      "title": "山陰道・高草隧道",
+      "imageUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg",
+      "sourcePageUrl": "https://yukinavi.net/",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img7",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img7",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img7",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見道路、隧道端點與車輛，畫面字樣高草TN終點抗口；非維護佔位圖。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "sanindo-shigeyama",
+      "title": "山陰道・重山隧道",
+      "imageUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg",
+      "sourcePageUrl": "https://yukinavi.net/",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img8",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img8",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img8",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見交流道、隧道端點道路與車輛，字樣重山TN起點；非維護佔位圖。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "r9-hakuto",
+      "title": "國道9號・白兔",
+      "imageUrl": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg",
+      "sourcePageUrl": "https://www.cgr.mlit.go.jp/tottori/livecam_road/detail.php?point=hakuto",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img9",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img9",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img9",
+          "src": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 720,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見國道、白兔海岸與建物，字樣白兎TN東；非維護佔位圖。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "matsue-tsk",
+      "title": "松江・國引大橋前",
+      "imageUrl": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg",
+      "sourcePageUrl": "https://tsk-tv.com/livecamera/low.php",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img10",
+          "src": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img10",
+          "src": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img10",
+          "src": "https://www.tsk-tv.com/camera/webcam/currentvga.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 640,
+          "naturalHeight": 480
+        }
+      ],
+      "visualEvidence": "contact sheet見松江河流、橋與市區建築；非維護佔位圖。302合法轉址至無www同站圖片，終點200 JPEG640×480。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    },
+    {
+      "id": "misasa-road-small",
+      "title": "三朝溫泉周邊道路（手機小圖）",
+      "imageUrl": "https://yukinavi.net/data/113/keitai.jpg",
+      "sourcePageUrl": "https://yukinavi.net/data/113/index.html",
+      "rounds": [
+        {
+          "label": "original",
+          "id": "img11",
+          "src": "https://yukinavi.net/data/113/keitai.jpg",
+          "complete": true,
+          "naturalWidth": 240,
+          "naturalHeight": 180
+        },
+        {
+          "label": "cache-bust-1",
+          "id": "img11",
+          "src": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879643782",
+          "complete": true,
+          "naturalWidth": 240,
+          "naturalHeight": 180
+        },
+        {
+          "label": "cache-bust-2",
+          "id": "img11",
+          "src": "https://yukinavi.net/data/113/keitai.jpg?_lc=1792879645376",
+          "complete": true,
+          "naturalWidth": 240,
+          "naturalHeight": 180
+        }
+      ],
+      "visualEvidence": "三朝同鏡頭240×180手機圖，畫面為真實道路；這不是另一個攝影機，不可重複計數。",
+      "visualVerified": true,
+      "refreshTest": "original及兩次?_lc參數均完成真實圖片解碼；response hash/Last-Modified見requests，非僅依HTTP200"
+    }
+  ],
+  "portClosed": true,
+  "visualInspection": {
+    "date": "2026-10-25",
+    "image": "tmp/livecams/image-probe.png",
+    "uniqueCameras": 11,
+    "images": 12,
+    "allActualCameraViews": true,
+    "maintenancePlaceholders": 0,
+    "limitations": [
+      "短間隔兩次請求可驗URL參數相容性，不能保證來源固定拍攝頻率或未來可用性。",
+      "MLIT快取回應Last-Modified可前後跳動；本頁載入時間必須與實際拍攝時間分開。",
+      "桝水攝影機畫面時鐘較本次檢查時鐘約快15分鐘，不應當作同步權威。",
+      "未加入南側砂防候選，因與行程直接觀測價值較低且核心圖片已足。"
+    ]
+  }
+}

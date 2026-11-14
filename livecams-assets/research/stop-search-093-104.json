@@ -1,0 +1,178 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-093",
+        "place-094",
+        "place-095"
+      ],
+      "queries": [
+        {
+          "id": "place-093",
+          "name": "大山遊客中心 室內 buffer",
+          "q": "大山ナショナルパークセンター ライブカメラ"
+        },
+        {
+          "id": "place-094",
+          "name": "綠莊 晚餐",
+          "q": "緑荘 大山 ライブカメラ"
+        },
+        {
+          "id": "place-095",
+          "name": "道の駅 大栄 停車",
+          "q": "道の駅大栄 北栄 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0434",
+        "source-0435",
+        "source-0380",
+        "source-0436",
+        "source-0437",
+        "source-0130",
+        "source-0438",
+        "source-0439",
+        "source-0440",
+        "source-0441",
+        "source-0442",
+        "source-0443",
+        "source-0412",
+        "source-0444",
+        "source-0445"
+      ]
+    },
+    {
+      "ids": [
+        "place-096",
+        "place-097",
+        "place-098"
+      ],
+      "queries": [
+        {
+          "id": "place-096",
+          "name": "青山剛昌故鄉館 柯南小鎮 拍照不進館",
+          "q": "青山剛昌ふるさと館 北栄 ライブカメラ"
+        },
+        {
+          "id": "place-097",
+          "name": "柯南之家 米花商店街",
+          "q": "コナンの家 米花商店街 北栄 ライブカメラ"
+        },
+        {
+          "id": "place-098",
+          "name": "とりどりベーカリー 麵包店 11/13點出爐",
+          "q": "とりどりベーカリー 北栄 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0446",
+        "source-0447",
+        "source-0448",
+        "source-0449",
+        "source-0450",
+        "source-0451",
+        "source-0452",
+        "source-0453",
+        "source-0454",
+        "source-0455",
+        "source-0456",
+        "source-0457",
+        "source-0458",
+        "source-0459",
+        "source-0460",
+        "source-0461"
+      ]
+    },
+    {
+      "ids": [
+        "place-099",
+        "place-100",
+        "place-101"
+      ],
+      "queries": [
+        {
+          "id": "place-099",
+          "name": "道の駅 ほうじょう 購物室內遊樂區",
+          "q": "道の駅ほうじょう 北栄 ライブカメラ"
+        },
+        {
+          "id": "place-100",
+          "name": "琴桜・赤瓦観光駐車場 停車",
+          "q": "琴桜 赤瓦 観光駐車場 倉吉 ライブカメラ"
+        },
+        {
+          "id": "place-101",
+          "name": "赤瓦五号館 久楽 咖啡店 外帶",
+          "q": "赤瓦五号館 久楽 倉吉 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0462",
+        "source-0463",
+        "source-0464",
+        "source-0465",
+        "source-0466",
+        "source-0467",
+        "source-0468",
+        "source-0469",
+        "source-0470",
+        "source-0471",
+        "source-0472",
+        "source-0473",
+        "source-0474",
+        "source-0475",
+        "source-0476",
+        "source-0477",
+        "source-0478",
+        "source-0479"
+      ]
+    },
+    {
+      "ids": [
+        "place-102",
+        "place-103",
+        "place-104"
+      ],
+      "queries": [
+        {
+          "id": "place-102",
+          "name": "倉吉白壁土藏群",
+          "q": "倉吉白壁土蔵群 ライブカメラ"
+        },
+        {
+          "id": "place-103",
+          "name": "赤瓦一號館 買赤瓦餅乾",
+          "q": "赤瓦一号館 倉吉 ライブカメラ"
+        },
+        {
+          "id": "place-104",
+          "name": "米澤鯛魚燒店 章魚燒",
+          "q": "米澤たいやき 倉吉 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0480",
+        "source-0163",
+        "source-0481",
+        "source-0482",
+        "source-0483",
+        "source-0484",
+        "source-0485",
+        "source-0010",
+        "source-0486",
+        "source-0487",
+        "source-0047",
+        "source-0488",
+        "source-0472",
+        "source-0478",
+        "source-0489",
+        "source-0479"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

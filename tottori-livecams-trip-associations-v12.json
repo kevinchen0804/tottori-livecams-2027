@@ -1,0 +1,7040 @@
+{
+  "source": "D:\\python-ai-practice\\Migo\\input\\tottori-261022A.xlsx",
+  "review": {
+    "version": 12,
+    "date": "2026-10-26",
+    "sourceSha256": "e4e9337230a9feb975d810f220ceabc8be019c40c854d98735910438263576fb",
+    "method": "人工逐日閱讀154次監控到訪點與原表移動列，明列景點／區域用途與A～B路段；不以同市區或10公里距離擴張日期",
+    "navigationRouteVerified": false,
+    "mediaRechecked": false,
+    "daySummary": [
+      {
+        "day": 1,
+        "visits": 5,
+        "legs": 4,
+        "legsWithCamera": 2,
+        "cameras": 6
+      },
+      {
+        "day": 2,
+        "visits": 14,
+        "legs": 13,
+        "legsWithCamera": 5,
+        "cameras": 19
+      },
+      {
+        "day": 3,
+        "visits": 9,
+        "legs": 8,
+        "legsWithCamera": 2,
+        "cameras": 5
+      },
+      {
+        "day": 4,
+        "visits": 46,
+        "legs": 45,
+        "legsWithCamera": 2,
+        "cameras": 7
+      },
+      {
+        "day": 5,
+        "visits": 18,
+        "legs": 17,
+        "legsWithCamera": 7,
+        "cameras": 10
+      },
+      {
+        "day": 6,
+        "visits": 15,
+        "legs": 14,
+        "legsWithCamera": 2,
+        "cameras": 10
+      },
+      {
+        "day": 7,
+        "visits": 21,
+        "legs": 20,
+        "legsWithCamera": 5,
+        "cameras": 15
+      },
+      {
+        "day": 8,
+        "visits": 23,
+        "legs": 22,
+        "legsWithCamera": 7,
+        "cameras": 16
+      },
+      {
+        "day": 9,
+        "visits": 3,
+        "legs": 2,
+        "legsWithCamera": 2,
+        "cameras": 6
+      }
+    ]
+  },
+  "cameras": [
+    {
+      "id": "daisen-north-wall",
+      "title": "大山北壁・國家公園中心",
+      "days": [
+        6,
+        7
+      ],
+      "previousDays": [
+        6,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-daisen-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "大山寺・奧宮散步與大山住宿",
+          "start": "10:15",
+          "end": "19:31",
+          "visitIds": [
+            "visit-101",
+            "visit-102",
+            "visit-103",
+            "visit-104",
+            "visit-105",
+            "visit-106",
+            "visit-107",
+            "visit-108",
+            "visit-109",
+            "visit-110",
+            "visit-111",
+            "visit-112",
+            "visit-113",
+            "visit-114"
+          ],
+          "placeIds": [
+            "place-084",
+            "place-085",
+            "place-086",
+            "place-087",
+            "place-088",
+            "place-089",
+            "place-090",
+            "place-091",
+            "place-092",
+            "place-093",
+            "place-094"
+          ],
+          "purpose": "大山山體與寺院周邊能見度／雪覆參考；不能確認大神山神社奧宮石階或整條步道。",
+          "qualification": "大山現地景觀參考",
+          "order": 9255,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-daisen-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "大山参道ホテル頂出發",
+          "start": "08:50",
+          "end": "08:50",
+          "visitIds": [
+            "visit-115"
+          ],
+          "placeIds": [
+            "place-084"
+          ],
+          "purpose": "大山山體與寺院周邊能見度／雪覆參考；不能確認大神山神社奧宮石階或整條步道。",
+          "qualification": "大山現地景觀參考",
+          "order": 10610,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "daisenji-road-158",
+      "title": "大山寺橋・上山道路",
+      "days": [
+        6,
+        7
+      ],
+      "previousDays": [
+        6,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-100-visit-101",
+          "kind": "route",
+          "legId": "leg-visit-100-visit-101",
+          "day": 6,
+          "title": "皆生溫泉海の四季～大山参道ホテル頂",
+          "start": "09:30",
+          "end": "10:15",
+          "mode": "開車",
+          "duration": "45分",
+          "visitIds": [
+            "visit-100",
+            "visit-101"
+          ],
+          "placeIds": [
+            "place-081",
+            "place-084"
+          ],
+          "purpose": "大山槙原與大山寺橋附近的上山端道路／能見度；不能確認奧宮步道，實際上山路線視導航。",
+          "qualification": "大山上山端道路參考",
+          "order": 9210,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-101-visit-102",
+          "kind": "route",
+          "legId": "leg-visit-101-visit-102",
+          "day": 6,
+          "title": "大山参道ホテル頂～大山寺",
+          "start": "10:25",
+          "end": "10:39",
+          "mode": "步行",
+          "duration": "14分",
+          "visitIds": [
+            "visit-101",
+            "visit-102"
+          ],
+          "placeIds": [
+            "place-084",
+            "place-085"
+          ],
+          "purpose": "大山寺橋周邊路面供停車後步行至大山寺參考；不能確認寺院階梯。",
+          "qualification": "步行出發區附近道路",
+          "order": 9265,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-daisen-bridge-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "大山寺橋拍照",
+          "start": "15:04",
+          "end": "15:14",
+          "visitIds": [
+            "visit-109"
+          ],
+          "placeIds": [
+            "place-091"
+          ],
+          "purpose": "大山寺橋與附近道路路面；不是奧宮石階。",
+          "qualification": "拍照點附近道路",
+          "order": 9544,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "leg-visit-115-visit-116",
+          "kind": "route",
+          "legId": "leg-visit-115-visit-116",
+          "day": 7,
+          "title": "大山参道ホテル頂～道之驛大栄",
+          "start": "08:50",
+          "end": "09:52",
+          "mode": "開車",
+          "duration": "62分",
+          "visitIds": [
+            "visit-115",
+            "visit-116"
+          ],
+          "placeIds": [
+            "place-084",
+            "place-095"
+          ],
+          "purpose": "離開大山住宿區時的下山端道路路面與能見度，不代表整段到北榮的路況。",
+          "qualification": "大山下山端道路參考",
+          "order": 10610,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "makihara-road-24",
+      "title": "大山槙原・米子大山線",
+      "days": [
+        6,
+        7
+      ],
+      "previousDays": [
+        6,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-100-visit-101",
+          "kind": "route",
+          "legId": "leg-visit-100-visit-101",
+          "day": 6,
+          "title": "皆生溫泉海の四季～大山参道ホテル頂",
+          "start": "09:30",
+          "end": "10:15",
+          "mode": "開車",
+          "duration": "45分",
+          "visitIds": [
+            "visit-100",
+            "visit-101"
+          ],
+          "placeIds": [
+            "place-081",
+            "place-084"
+          ],
+          "purpose": "大山槙原與大山寺橋附近的上山端道路／能見度；不能確認奧宮步道，實際上山路線視導航。",
+          "qualification": "大山上山端道路參考",
+          "order": 9210,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-115-visit-116",
+          "kind": "route",
+          "legId": "leg-visit-115-visit-116",
+          "day": 7,
+          "title": "大山参道ホテル頂～道之驛大栄",
+          "start": "08:50",
+          "end": "09:52",
+          "mode": "開車",
+          "duration": "62分",
+          "visitIds": [
+            "visit-115",
+            "visit-116"
+          ],
+          "placeIds": [
+            "place-084",
+            "place-095"
+          ],
+          "purpose": "離開大山住宿區時的下山端道路路面與能見度，不代表整段到北榮的路況。",
+          "qualification": "大山下山端道路參考",
+          "order": 10610,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "daisen-tourism-camera",
+      "title": "大山觀光案內所",
+      "days": [
+        6,
+        7
+      ],
+      "previousDays": [
+        6,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-daisen-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "大山寺・奧宮散步與大山住宿",
+          "start": "10:15",
+          "end": "19:31",
+          "visitIds": [
+            "visit-101",
+            "visit-102",
+            "visit-103",
+            "visit-104",
+            "visit-105",
+            "visit-106",
+            "visit-107",
+            "visit-108",
+            "visit-109",
+            "visit-110",
+            "visit-111",
+            "visit-112",
+            "visit-113",
+            "visit-114"
+          ],
+          "placeIds": [
+            "place-084",
+            "place-085",
+            "place-086",
+            "place-087",
+            "place-088",
+            "place-089",
+            "place-090",
+            "place-091",
+            "place-092",
+            "place-093",
+            "place-094"
+          ],
+          "purpose": "大山山體與寺院周邊能見度／雪覆參考；不能確認大神山神社奧宮石階或整條步道。",
+          "qualification": "大山現地景觀參考",
+          "order": 9255,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-daisen-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "大山参道ホテル頂出發",
+          "start": "08:50",
+          "end": "08:50",
+          "visitIds": [
+            "visit-115"
+          ],
+          "placeIds": [
+            "place-084"
+          ],
+          "purpose": "大山山體與寺院周邊能見度／雪覆參考；不能確認大神山神社奧宮石階或整條步道。",
+          "qualification": "大山現地景觀參考",
+          "order": 10610,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "tottori-sakyu",
+      "title": "鳥取砂丘・馬之背",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-sand-dunes-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "鳥取砂丘・砂丘商店區",
+          "start": "09:55",
+          "end": "13:29",
+          "visitIds": [
+            "visit-016",
+            "visit-017",
+            "visit-018",
+            "visit-019",
+            "visit-020",
+            "visit-021",
+            "visit-022"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-012",
+            "place-013",
+            "place-014",
+            "place-015",
+            "place-016"
+          ],
+          "purpose": "砂丘表面、能見度與周邊天候；不能確認咖啡店門口或各停車格。",
+          "qualification": "景點與周邊天候",
+          "order": 3475,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "misasa-road",
+      "title": "三朝溫泉周邊道路",
+      "days": [
+        7,
+        8
+      ],
+      "previousDays": [
+        7,
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-128-visit-129",
+          "kind": "route",
+          "legId": "leg-visit-128-visit-129",
+          "day": 7,
+          "title": "倉吉赤瓦觀光停車場～Lawson 三朝溫泉店",
+          "start": "14:42",
+          "end": "14:59",
+          "mode": "開車",
+          "duration": "17分",
+          "visitIds": [
+            "visit-128",
+            "visit-129"
+          ],
+          "placeIds": [
+            "place-100",
+            "place-106"
+          ],
+          "purpose": "倉吉市區出發端與三朝抵達端道路，對應白壁行程結束後前往三朝補給。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 10962,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-misasa-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "三朝萬翠樓入住・溫泉街散步與晚餐",
+          "start": "14:59",
+          "end": "18:25",
+          "visitIds": [
+            "visit-129",
+            "visit-130",
+            "visit-131",
+            "visit-132",
+            "visit-133",
+            "visit-134",
+            "visit-135"
+          ],
+          "placeIds": [
+            "place-106",
+            "place-107",
+            "place-108",
+            "place-109",
+            "place-110"
+          ],
+          "purpose": "三朝周邊道路／溫泉街資訊，不能確認萬翠樓專屬停車格；橋梁鏡頭仍待確認。",
+          "qualification": "周邊天氣參考",
+          "order": 10979,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "leg-visit-129-visit-130",
+          "kind": "route",
+          "legId": "leg-visit-129-visit-130",
+          "day": 7,
+          "title": "Lawson 三朝溫泉店～三朝溫泉萬翠樓",
+          "start": "15:14",
+          "end": "15:20",
+          "mode": "開車",
+          "duration": "6分",
+          "visitIds": [
+            "visit-129",
+            "visit-130"
+          ],
+          "placeIds": [
+            "place-106",
+            "place-107"
+          ],
+          "purpose": "三朝縣道21號附近路面，對應 Lawson 補給後前往萬翠樓；不是旅館停車場。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 10994,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-136-visit-137",
+          "kind": "route",
+          "legId": "leg-visit-136-visit-137",
+          "day": 8,
+          "title": "三朝溫泉萬翠樓～Lawson 湯梨浜松崎店",
+          "start": "08:00",
+          "end": "08:24",
+          "mode": "開車",
+          "duration": "24分",
+          "visitIds": [
+            "visit-136",
+            "visit-137"
+          ],
+          "placeIds": [
+            "place-107",
+            "place-111"
+          ],
+          "purpose": "三朝出發端與松崎抵達端附近道路，對應離開萬翠樓前往 Lawson 松崎店補給。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12000,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-misasa-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "三朝溫泉萬翠樓出發",
+          "start": "08:00",
+          "end": "08:00",
+          "visitIds": [
+            "visit-136"
+          ],
+          "placeIds": [
+            "place-107"
+          ],
+          "purpose": "三朝周邊道路／溫泉街資訊，不能確認萬翠樓專屬停車格；橋梁鏡頭仍待確認。",
+          "qualification": "周邊天氣參考",
+          "order": 12000,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "masumizu-slope",
+      "title": "桝水高原・大山西側坡面",
+      "days": [],
+      "previousDays": [
+        6,
+        7
+      ],
+      "tripMatches": [],
+      "unassignedReason": "行程沒有桝水高原停留；它是大山西側坡面，不能當作大山寺參道或奧宮石階。"
+    },
+    {
+      "id": "kurayoshi-road",
+      "title": "倉吉市區道路",
+      "days": [
+        7
+      ],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-128-visit-129",
+          "kind": "route",
+          "legId": "leg-visit-128-visit-129",
+          "day": 7,
+          "title": "倉吉赤瓦觀光停車場～Lawson 三朝溫泉店",
+          "start": "14:42",
+          "end": "14:59",
+          "mode": "開車",
+          "duration": "17分",
+          "visitIds": [
+            "visit-128",
+            "visit-129"
+          ],
+          "placeIds": [
+            "place-100",
+            "place-106"
+          ],
+          "purpose": "倉吉市區出發端與三朝抵達端道路，對應白壁行程結束後前往三朝補給。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 10962,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "kaike-coast",
+      "title": "皆生海岸・海濱公園",
+      "days": [
+        5,
+        6
+      ],
+      "previousDays": [
+        5,
+        6
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-kaike-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "皆生海の四季入住・湯ノ塩與晚餐",
+          "start": "14:46",
+          "end": "19:33",
+          "visitIds": [
+            "visit-095",
+            "visit-096",
+            "visit-097",
+            "visit-099"
+          ],
+          "placeIds": [
+            "place-080",
+            "place-081",
+            "place-082"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 8086,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-kaike-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "皆生海の四季出發",
+          "start": "09:30",
+          "end": "09:30",
+          "visitIds": [
+            "visit-100"
+          ],
+          "placeIds": [
+            "place-081"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 9210,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "yonago-ou",
+      "title": "皆生溫泉・OU LAND",
+      "days": [
+        5,
+        6
+      ],
+      "previousDays": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-kaike-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "皆生海の四季入住・湯ノ塩與晚餐",
+          "start": "14:46",
+          "end": "19:33",
+          "visitIds": [
+            "visit-095",
+            "visit-096",
+            "visit-097",
+            "visit-099"
+          ],
+          "placeIds": [
+            "place-080",
+            "place-081",
+            "place-082"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 8086,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-kaike-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "皆生海の四季出發",
+          "start": "09:30",
+          "end": "09:30",
+          "visitIds": [
+            "visit-100"
+          ],
+          "placeIds": [
+            "place-081"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 9210,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "yonago-station",
+      "title": "米子車站前",
+      "days": [
+        2,
+        3,
+        4
+      ],
+      "previousDays": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-yonago-station-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "Green Rich Hotel 米子站前入住",
+          "start": "19:06",
+          "end": "19:06",
+          "visitIds": [
+            "visit-026"
+          ],
+          "placeIds": [
+            "place-020"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 4026,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-yonago-station-d3",
+          "kind": "stop",
+          "day": 3,
+          "title": "米子站前住宿・Shamine 與鳥メロ晚餐",
+          "start": "08:00",
+          "end": "19:22",
+          "visitIds": [
+            "visit-027",
+            "visit-032",
+            "visit-033",
+            "visit-034",
+            "visit-035"
+          ],
+          "placeIds": [
+            "place-020",
+            "place-025",
+            "place-026"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 4800,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-yonago-station-d4",
+          "kind": "stop",
+          "day": 4,
+          "title": "Green Rich Hotel 米子站前出發",
+          "start": "08:00",
+          "end": "08:00",
+          "visitIds": [
+            "visit-036"
+          ],
+          "placeIds": [
+            "place-020"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 6240,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "sakaiminato-city",
+      "title": "境港市役所周邊",
+      "days": [
+        4,
+        5
+      ],
+      "previousDays": [
+        4,
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-sakaiminato-d4",
+          "kind": "stop",
+          "day": 4,
+          "title": "境港市區・水木茂之路與野乃住宿",
+          "start": "09:23",
+          "end": "19:07",
+          "visitIds": [
+            "visit-038",
+            "visit-039",
+            "visit-040",
+            "visit-041",
+            "visit-042",
+            "visit-043",
+            "visit-044",
+            "visit-045",
+            "visit-046",
+            "visit-047",
+            "visit-048",
+            "visit-049",
+            "visit-050",
+            "visit-051",
+            "visit-052",
+            "visit-053",
+            "visit-054",
+            "visit-055",
+            "visit-056",
+            "visit-057",
+            "visit-058",
+            "visit-059",
+            "visit-060",
+            "visit-061",
+            "visit-062",
+            "visit-063",
+            "visit-064",
+            "visit-065",
+            "visit-066",
+            "visit-067",
+            "visit-068",
+            "visit-069",
+            "visit-070",
+            "visit-071",
+            "visit-072",
+            "visit-073",
+            "visit-074",
+            "visit-075",
+            "visit-076",
+            "visit-077",
+            "visit-078",
+            "visit-079",
+            "visit-080",
+            "visit-081"
+          ],
+          "placeIds": [
+            "place-028",
+            "place-029",
+            "place-030",
+            "place-031",
+            "place-032",
+            "place-033",
+            "place-034",
+            "place-035",
+            "place-036",
+            "place-037",
+            "place-038",
+            "place-039",
+            "place-040",
+            "place-041",
+            "place-042",
+            "place-043",
+            "place-044",
+            "place-045",
+            "place-046",
+            "place-047",
+            "place-048",
+            "place-049",
+            "place-050",
+            "place-051",
+            "place-052",
+            "place-053",
+            "place-054",
+            "place-055",
+            "place-056",
+            "place-057",
+            "place-058",
+            "place-059",
+            "place-060",
+            "place-061",
+            "place-062",
+            "place-063",
+            "place-064",
+            "place-065",
+            "place-066",
+            "place-067",
+            "place-068"
+          ],
+          "purpose": "境港市役所附近街區天候，對應當日市區行程；不是飯店或每家店前實景。",
+          "qualification": "周邊天氣參考",
+          "order": 6323,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "leg-visit-038-visit-039",
+          "kind": "route",
+          "legId": "leg-visit-038-visit-039",
+          "day": 4,
+          "title": "境港水產直營中心～御宿野乃境港",
+          "start": "09:58",
+          "end": "10:04",
+          "mode": "開車",
+          "duration": "6分",
+          "visitIds": [
+            "visit-038",
+            "visit-039"
+          ],
+          "placeIds": [
+            "place-028",
+            "place-029"
+          ],
+          "purpose": "境港市役所附近市街方向，供魚市場到野乃住宿停車段天候參考，非全線監看。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 6358,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-082-visit-083",
+          "kind": "route",
+          "legId": "leg-visit-082-visit-083",
+          "day": 5,
+          "title": "御宿野乃境港～寿物産停車點",
+          "start": "08:00",
+          "end": "08:23",
+          "mode": "開車",
+          "duration": "23分",
+          "visitIds": [
+            "visit-082",
+            "visit-083"
+          ],
+          "placeIds": [
+            "place-029",
+            "place-069"
+          ],
+          "purpose": "境港出發端市街天候，對應野乃離開後前往江島大橋拍照停車點。",
+          "qualification": "境港出發端周邊參考",
+          "order": 7680,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-sakaiminato-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "御宿野乃境港出發",
+          "start": "08:00",
+          "end": "08:00",
+          "visitIds": [
+            "visit-082"
+          ],
+          "placeIds": [
+            "place-029"
+          ],
+          "purpose": "境港市役所附近街區天候，對應當日市區行程；不是飯店或每家店前實景。",
+          "qualification": "周邊天氣參考",
+          "order": 7680,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "sanindo-takakusa",
+      "title": "山陰道・高草隧道",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2,
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-022-visit-023",
+          "kind": "route",
+          "legId": "leg-visit-022-visit-023",
+          "day": 2,
+          "title": "鳥取砂丘停車場～Cowy's Milk House",
+          "start": "13:29",
+          "end": "14:44",
+          "mode": "開車",
+          "duration": "75分",
+          "visitIds": [
+            "visit-022",
+            "visit-023"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-017"
+          ],
+          "purpose": "山陰道方向幹線路面參考，對應砂丘離開後前往琴浦乳業；Excel未列實際採用匝道或道路。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3689,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "r9-hakuto",
+      "title": "國道9號・白兔",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        2,
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-137-visit-138",
+          "kind": "route",
+          "legId": "leg-visit-137-visit-138",
+          "day": 8,
+          "title": "Lawson 湯梨浜松崎店～道之驛神話之里白兔",
+          "start": "08:39",
+          "end": "09:15",
+          "mode": "開車",
+          "duration": "36分",
+          "visitIds": [
+            "visit-137",
+            "visit-138"
+          ],
+          "placeIds": [
+            "place-111",
+            "place-112"
+          ],
+          "purpose": "白兔抵達端國道9號路面與能見度，不代表從松崎出發的全程。",
+          "qualification": "白兔抵達端道路參考",
+          "order": 12039,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-hakuto-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "白兔神社・道之驛神話之里白兔",
+          "start": "09:15",
+          "end": "10:43",
+          "visitIds": [
+            "visit-138",
+            "visit-139",
+            "visit-140",
+            "visit-141"
+          ],
+          "placeIds": [
+            "place-112",
+            "place-113",
+            "place-114"
+          ],
+          "purpose": "白兔隧道端點、海岸進出道路與天候；不能確認神社階梯。",
+          "qualification": "景點進出道路參考",
+          "order": 12075,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "leg-visit-141-visit-142",
+          "kind": "route",
+          "legId": "leg-visit-141-visit-142",
+          "day": 8,
+          "title": "道之驛神話之里白兔～ちよ志賀露本店",
+          "start": "10:43",
+          "end": "10:53",
+          "mode": "開車",
+          "duration": "10分",
+          "visitIds": [
+            "visit-141",
+            "visit-142"
+          ],
+          "placeIds": [
+            "place-112",
+            "place-115"
+          ],
+          "purpose": "白兔出發端與賀露／千代水抵達端道路，對應前往ちよ志午餐；鏡頭不是整段連續監控。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12163,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "matsue-tsk",
+      "title": "松江・國引大橋前",
+      "days": [],
+      "previousDays": [
+        3
+      ],
+      "tripMatches": [],
+      "unassignedReason": "松江市區鏡頭與花鳥園是不同位置，未確認在實際行駛路線上；不再因同在松江市而配給 D3。"
+    },
+    {
+      "id": "yumeminato-port",
+      "title": "境港・夢港塔港灣",
+      "days": [
+        4
+      ],
+      "previousDays": [
+        4,
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-nakaura-d4",
+          "kind": "stop",
+          "day": 4,
+          "title": "なかうら大漁市場周邊",
+          "start": "08:38",
+          "end": "09:13",
+          "visitIds": [
+            "visit-037"
+          ],
+          "placeIds": [
+            "place-027"
+          ],
+          "purpose": "夢港塔港灣與市場所在竹內團地附近天候；不是市場門前或停車格。",
+          "qualification": "周邊天氣參考",
+          "order": 6278,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "tottori-airport-approach",
+      "title": "鳥取機場周邊・空港布勢線",
+      "days": [
+        1,
+        9
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-008-visit-009",
+          "kind": "route",
+          "legId": "leg-visit-008-visit-009",
+          "day": 1,
+          "title": "鳥取機場～鳥取站",
+          "start": "20:45",
+          "end": "21:05",
+          "mode": "巴士",
+          "duration": "20分",
+          "visitIds": [
+            "visit-008",
+            "visit-009"
+          ],
+          "placeIds": [
+            "place-006",
+            "place-007"
+          ],
+          "purpose": "機場聯外道路參考，對應到達後搭巴士前往鳥取站；鏡頭不是跑道。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 2685,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-160-visit-161",
+          "kind": "route",
+          "legId": "leg-visit-160-visit-161",
+          "day": 9,
+          "title": "鳥取站～鳥取機場",
+          "start": "07:45",
+          "end": "08:05",
+          "mode": "巴士",
+          "duration": "20分",
+          "visitIds": [
+            "visit-160",
+            "visit-161"
+          ],
+          "placeIds": [
+            "place-007",
+            "place-006"
+          ],
+          "purpose": "鳥取站出發端與機場聯外道路天候；不代表巴士全程或機場跑道。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 13425,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "yonago-wakou",
+      "title": "天滿屋周邊・國道9號",
+      "days": [
+        5
+      ],
+      "previousDays": [
+        2,
+        3,
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-tenmaya-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "天滿屋・遊樂場・LOFT 與午餐",
+          "start": "09:54",
+          "end": "13:40",
+          "visitIds": [
+            "visit-085",
+            "visit-086",
+            "visit-087",
+            "visit-088",
+            "visit-089",
+            "visit-090",
+            "visit-091",
+            "visit-092"
+          ],
+          "placeIds": [
+            "place-071",
+            "place-072",
+            "place-073",
+            "place-074",
+            "place-075",
+            "place-076",
+            "place-077"
+          ],
+          "purpose": "天滿屋東福原附近屋頂／道路天候；不顯示遊樂場內部，也沒有確認商場餘位。",
+          "qualification": "周邊天氣參考",
+          "order": 7794,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "sanindo-shigeyama",
+      "title": "山陰道・重山隧道",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2,
+        7,
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-022-visit-023",
+          "kind": "route",
+          "legId": "leg-visit-022-visit-023",
+          "day": 2,
+          "title": "鳥取砂丘停車場～Cowy's Milk House",
+          "start": "13:29",
+          "end": "14:44",
+          "mode": "開車",
+          "duration": "75分",
+          "visitIds": [
+            "visit-022",
+            "visit-023"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-017"
+          ],
+          "purpose": "山陰道方向幹線路面參考，對應砂丘離開後前往琴浦乳業；Excel未列實際採用匝道或道路。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3689,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "matsue-bridge",
+      "title": "松江・宍道湖大橋",
+      "days": [],
+      "previousDays": [
+        3
+      ],
+      "tripMatches": [],
+      "unassignedReason": "宍道湖大橋與花鳥園是不同位置，未確認實際經過；保留為松江市區參考。"
+    },
+    {
+      "id": "tottori-airport-runway",
+      "title": "鳥取機場・跑道影像（未驗證）",
+      "days": [
+        1,
+        9
+      ],
+      "previousDays": [
+        1,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-airport-d1",
+          "kind": "stop",
+          "day": 1,
+          "title": "鳥取機場：到達／返程",
+          "start": "20:35",
+          "end": "20:45",
+          "visitIds": [
+            "visit-008"
+          ],
+          "placeIds": [
+            "place-006"
+          ],
+          "purpose": "官方機場資訊入口；跑道影像未確認，不能用來看實際起降。",
+          "qualification": "官方資訊，非已確認影像",
+          "order": 2675,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-airport-d9",
+          "kind": "stop",
+          "day": 9,
+          "title": "鳥取機場：到達／返程",
+          "start": "08:05",
+          "end": "08:55",
+          "visitIds": [
+            "visit-161"
+          ],
+          "placeIds": [
+            "place-006"
+          ],
+          "purpose": "官方機場資訊入口；跑道影像未確認，不能用來看實際起降。",
+          "qualification": "官方資訊，非已確認影像",
+          "order": 13445,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "misasa-bridge-unverified",
+      "title": "三朝橋・溫泉街（未驗證）",
+      "days": [
+        7,
+        8
+      ],
+      "previousDays": [
+        7,
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-misasa-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "三朝萬翠樓入住・溫泉街散步與晚餐",
+          "start": "14:59",
+          "end": "18:25",
+          "visitIds": [
+            "visit-129",
+            "visit-130",
+            "visit-131",
+            "visit-132",
+            "visit-133",
+            "visit-134",
+            "visit-135"
+          ],
+          "placeIds": [
+            "place-106",
+            "place-107",
+            "place-108",
+            "place-109",
+            "place-110"
+          ],
+          "purpose": "三朝周邊道路／溫泉街資訊，不能確認萬翠樓專屬停車格；橋梁鏡頭仍待確認。",
+          "qualification": "周邊天氣參考",
+          "order": 10979,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-misasa-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "三朝溫泉萬翠樓出發",
+          "start": "08:00",
+          "end": "08:00",
+          "visitIds": [
+            "visit-136"
+          ],
+          "placeIds": [
+            "place-107"
+          ],
+          "purpose": "三朝周邊道路／溫泉街資訊，不能確認萬翠樓專屬停車格；橋梁鏡頭仍待確認。",
+          "qualification": "周邊天氣參考",
+          "order": 12000,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "old-white-resort-cameras",
+      "title": "舊 White Resort 滑雪場鏡頭",
+      "days": [],
+      "previousDays": [
+        6,
+        7
+      ],
+      "tripMatches": [],
+      "unassignedReason": "行程沒有 White Resort 滑雪場停留，且此為舊鏡頭入口；不套用到大山寺散步。"
+    },
+    {
+      "id": "sanindo-nawa-maintenance",
+      "title": "山陰道・名和淀江（維護中）",
+      "days": [
+        2,
+        7
+      ],
+      "previousDays": [
+        2,
+        3,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-023-visit-024",
+          "kind": "route",
+          "legId": "leg-visit-023-visit-024",
+          "day": 2,
+          "title": "Cowy's Milk House～MEGA唐吉軻德米子店",
+          "start": "15:24",
+          "end": "16:20",
+          "mode": "開車",
+          "duration": "56分",
+          "visitIds": [
+            "visit-023",
+            "visit-024"
+          ],
+          "placeIds": [
+            "place-017",
+            "place-018"
+          ],
+          "purpose": "往米子方向的名和淀江幹線參考；來源維護狀態另見卡片，不保證此段實際經過。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3804,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-115-visit-116",
+          "kind": "route",
+          "legId": "leg-visit-115-visit-116",
+          "day": 7,
+          "title": "大山参道ホテル頂～道之驛大栄",
+          "start": "08:50",
+          "end": "09:52",
+          "mode": "開車",
+          "duration": "62分",
+          "visitIds": [
+            "visit-115",
+            "visit-116"
+          ],
+          "placeIds": [
+            "place-084",
+            "place-095"
+          ],
+          "purpose": "大山離開後往北榮方向的山陰道幹線參考，實際道路／匝道未由行程表指定。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 10610,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "sanindo-tomari-maintenance",
+      "title": "山陰道・泊東鄉 IC（維護中）",
+      "days": [
+        2,
+        8
+      ],
+      "previousDays": [
+        2,
+        7,
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-022-visit-023",
+          "kind": "route",
+          "legId": "leg-visit-022-visit-023",
+          "day": 2,
+          "title": "鳥取砂丘停車場～Cowy's Milk House",
+          "start": "13:29",
+          "end": "14:44",
+          "mode": "開車",
+          "duration": "75分",
+          "visitIds": [
+            "visit-022",
+            "visit-023"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-017"
+          ],
+          "purpose": "山陰道方向幹線路面參考，對應砂丘離開後前往琴浦乳業；Excel未列實際採用匝道或道路。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3689,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-137-visit-138",
+          "kind": "route",
+          "legId": "leg-visit-137-visit-138",
+          "day": 8,
+          "title": "Lawson 湯梨浜松崎店～道之驛神話之里白兔",
+          "start": "08:39",
+          "end": "09:15",
+          "mode": "開車",
+          "duration": "36分",
+          "visitIds": [
+            "visit-137",
+            "visit-138"
+          ],
+          "placeIds": [
+            "place-111",
+            "place-112"
+          ],
+          "purpose": "湯梨浜前往白兔方向可參考的山陰道幹線；是否使用高速與匝道視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12039,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "eshima-bridge-weather",
+      "title": "江島大橋・天氣與道路入口",
+      "days": [
+        5
+      ],
+      "previousDays": [
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-eshima-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "江島大橋拍照・寿物産停車點",
+          "start": "08:23",
+          "end": "09:08",
+          "visitIds": [
+            "visit-083",
+            "visit-084"
+          ],
+          "placeIds": [
+            "place-069",
+            "place-070"
+          ],
+          "purpose": "江島大橋道路與天氣資訊入口；未確認拍照停車區視野，不使用全家舊錯誤座標。",
+          "qualification": "官方／原始資訊入口",
+          "order": 7703,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "hiezu-aeon-east",
+      "title": "AEON 日吉津東側・附近天氣",
+      "days": [
+        3
+      ],
+      "previousDays": [
+        3
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-hiezu-d3",
+          "kind": "stop",
+          "day": 3,
+          "title": "日吉津甜甜圈・AEON 購物",
+          "start": "13:19",
+          "end": "16:12",
+          "visitIds": [
+            "visit-030",
+            "visit-031"
+          ],
+          "placeIds": [
+            "place-023",
+            "place-024"
+          ],
+          "purpose": "AEON 日吉津東側排水路與周邊天氣；停車格是否入鏡未確認。",
+          "qualification": "周邊天氣參考",
+          "order": 5119,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "vogel-ogaki-r431",
+      "title": "花鳥園附近・大垣町道路",
+      "days": [
+        3
+      ],
+      "previousDays": [
+        3
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-027-visit-028",
+          "kind": "route",
+          "legId": "leg-visit-027-visit-028",
+          "day": 3,
+          "title": "Green Rich Hotel 米子站前～松江花鳥園",
+          "start": "08:00",
+          "end": "08:57",
+          "mode": "開車",
+          "duration": "57分",
+          "visitIds": [
+            "visit-027",
+            "visit-028"
+          ],
+          "placeIds": [
+            "place-020",
+            "place-021"
+          ],
+          "purpose": "抵達花鳥園前的大垣町國道431號入口附近，並非整條米子到松江路線。",
+          "qualification": "抵達端入口附近道路",
+          "order": 4800,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-vogel-d3",
+          "kind": "stop",
+          "day": 3,
+          "title": "松江花鳥園・不昧庵",
+          "start": "08:57",
+          "end": "12:08",
+          "visitIds": [
+            "visit-028",
+            "visit-029"
+          ],
+          "placeIds": [
+            "place-021",
+            "place-022"
+          ],
+          "purpose": "花鳥園約340公尺外的大垣町道路，可參考入口附近天候；看不到園內或確認停車餘位。",
+          "qualification": "景點入口周邊道路",
+          "order": 4857,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "leg-visit-029-visit-030",
+          "kind": "route",
+          "legId": "leg-visit-029-visit-030",
+          "day": 3,
+          "title": "不昧庵～TRUFFLE DONUT 日吉津",
+          "start": "12:08",
+          "end": "13:19",
+          "mode": "開車",
+          "duration": "71分",
+          "visitIds": [
+            "visit-029",
+            "visit-030"
+          ],
+          "placeIds": [
+            "place-022",
+            "place-023"
+          ],
+          "purpose": "離開花鳥園／不昧庵前的入口道路，對應接著前往日吉津。",
+          "qualification": "出發端入口附近道路",
+          "order": 5048,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-153",
+      "title": "鳥取北部・秋里道路",
+      "days": [
+        2,
+        8
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-015-visit-016",
+          "kind": "route",
+          "legId": "leg-visit-015-visit-016",
+          "day": 2,
+          "title": "Green Rich Hotel 鳥取站前～鳥取砂丘停車場",
+          "start": "09:40",
+          "end": "09:55",
+          "mode": "開車",
+          "duration": "15分",
+          "visitIds": [
+            "visit-015",
+            "visit-016"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-011"
+          ],
+          "purpose": "鳥取市區出發端路面／能見度參考；實際往砂丘的道路以導航為準。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3460,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-146-visit-147",
+          "kind": "route",
+          "legId": "leg-visit-146-visit-147",
+          "day": 8,
+          "title": "UNIQLO 鳥取千代水店～Green Rich Hotel 鳥取站前",
+          "start": "14:31",
+          "end": "14:42",
+          "mode": "開車",
+          "duration": "11分",
+          "visitIds": [
+            "visit-146",
+            "visit-147"
+          ],
+          "placeIds": [
+            "place-119",
+            "place-008"
+          ],
+          "purpose": "鳥取北購物區到站前飯店的市內道路參考；沿用來源標示位置，實際行駛街道視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12391,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-159",
+      "title": "鳥取站前・東品治町",
+      "days": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-009-visit-010",
+          "kind": "route",
+          "legId": "leg-visit-009-visit-010",
+          "day": 1,
+          "title": "鳥取站～Green Rich Hotel 鳥取站前",
+          "start": "21:10",
+          "end": "21:16",
+          "mode": "步行",
+          "duration": "6分",
+          "visitIds": [
+            "visit-009",
+            "visit-010"
+          ],
+          "placeIds": [
+            "place-007",
+            "place-008"
+          ],
+          "purpose": "鳥取站前出發／抵達端路面參考，對應走往站前飯店。",
+          "qualification": "站前周邊道路，非步行全線",
+          "order": 2710,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-013-visit-014",
+          "kind": "route",
+          "legId": "leg-visit-013-visit-014",
+          "day": 2,
+          "title": "Green Rich Hotel 鳥取站前～豐田租車鳥取站前店",
+          "start": "08:50",
+          "end": "08:58",
+          "mode": "步行",
+          "duration": "8分",
+          "visitIds": [
+            "visit-013",
+            "visit-014"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-010"
+          ],
+          "purpose": "鳥取站前道路，對應飯店出發步行取車；不是租車店專用鏡頭。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3410,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-014-visit-015",
+          "kind": "route",
+          "legId": "leg-visit-014-visit-015",
+          "day": 2,
+          "title": "豐田租車鳥取站前店～Green Rich Hotel 鳥取站前",
+          "start": "09:18",
+          "end": "09:20",
+          "mode": "開車",
+          "duration": "2分",
+          "visitIds": [
+            "visit-014",
+            "visit-015"
+          ],
+          "placeIds": [
+            "place-010",
+            "place-008"
+          ],
+          "purpose": "鳥取站前道路，對應取車後回飯店載行李。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3438,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-015-visit-016",
+          "kind": "route",
+          "legId": "leg-visit-015-visit-016",
+          "day": 2,
+          "title": "Green Rich Hotel 鳥取站前～鳥取砂丘停車場",
+          "start": "09:40",
+          "end": "09:55",
+          "mode": "開車",
+          "duration": "15分",
+          "visitIds": [
+            "visit-015",
+            "visit-016"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-011"
+          ],
+          "purpose": "鳥取市區出發端路面／能見度參考；實際往砂丘的道路以導航為準。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 3460,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-146-visit-147",
+          "kind": "route",
+          "legId": "leg-visit-146-visit-147",
+          "day": 8,
+          "title": "UNIQLO 鳥取千代水店～Green Rich Hotel 鳥取站前",
+          "start": "14:31",
+          "end": "14:42",
+          "mode": "開車",
+          "duration": "11分",
+          "visitIds": [
+            "visit-146",
+            "visit-147"
+          ],
+          "placeIds": [
+            "place-119",
+            "place-008"
+          ],
+          "purpose": "鳥取北購物區到站前飯店的市內道路參考；沿用來源標示位置，實際行駛街道視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12391,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-147-visit-148",
+          "kind": "route",
+          "legId": "leg-visit-147-visit-148",
+          "day": 8,
+          "title": "Green Rich Hotel 鳥取站前～ENEOS 鳥取站南",
+          "start": "14:52",
+          "end": "14:55",
+          "mode": "開車",
+          "duration": "3分",
+          "visitIds": [
+            "visit-147",
+            "visit-148"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-120"
+          ],
+          "purpose": "鳥取站前出發端道路，對應飯店放行李後往站南加油。",
+          "qualification": "站前區周邊道路",
+          "order": 12412,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-148-visit-149",
+          "kind": "route",
+          "legId": "leg-visit-148-visit-149",
+          "day": 8,
+          "title": "ENEOS 鳥取站南～豐田租車鳥取站前店",
+          "start": "15:10",
+          "end": "15:12",
+          "mode": "開車",
+          "duration": "2分",
+          "visitIds": [
+            "visit-148",
+            "visit-149"
+          ],
+          "placeIds": [
+            "place-120",
+            "place-010"
+          ],
+          "purpose": "鳥取站前租車區附近路面，對應加油後還車；不是加油站或租車店專用鏡頭。",
+          "qualification": "還車抵達端周邊道路",
+          "order": 12430,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-159-visit-160",
+          "kind": "route",
+          "legId": "leg-visit-159-visit-160",
+          "day": 9,
+          "title": "Green Rich Hotel 鳥取站前～鳥取站",
+          "start": "07:20",
+          "end": "07:30",
+          "mode": "步行",
+          "duration": "10分",
+          "visitIds": [
+            "visit-159",
+            "visit-160"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-007"
+          ],
+          "purpose": "鳥取站前路面與天候，對應從飯店步行去搭機場巴士。",
+          "qualification": "站前周邊道路，非步行全線",
+          "order": 13400,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-160-visit-161",
+          "kind": "route",
+          "legId": "leg-visit-160-visit-161",
+          "day": 9,
+          "title": "鳥取站～鳥取機場",
+          "start": "07:45",
+          "end": "08:05",
+          "mode": "巴士",
+          "duration": "20分",
+          "visitIds": [
+            "visit-160",
+            "visit-161"
+          ],
+          "placeIds": [
+            "place-007",
+            "place-006"
+          ],
+          "purpose": "鳥取站出發端與機場聯外道路天候；不代表巴士全程或機場跑道。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 13425,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-158",
+      "title": "鳥取站西側・幸町道路",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-146-visit-147",
+          "kind": "route",
+          "legId": "leg-visit-146-visit-147",
+          "day": 8,
+          "title": "UNIQLO 鳥取千代水店～Green Rich Hotel 鳥取站前",
+          "start": "14:31",
+          "end": "14:42",
+          "mode": "開車",
+          "duration": "11分",
+          "visitIds": [
+            "visit-146",
+            "visit-147"
+          ],
+          "placeIds": [
+            "place-119",
+            "place-008"
+          ],
+          "purpose": "鳥取北購物區到站前飯店的市內道路參考；沿用來源標示位置，實際行駛街道視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12391,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-257",
+      "title": "鳥取北購物區・千代水",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-141-visit-142",
+          "kind": "route",
+          "legId": "leg-visit-141-visit-142",
+          "day": 8,
+          "title": "道之驛神話之里白兔～ちよ志賀露本店",
+          "start": "10:43",
+          "end": "10:53",
+          "mode": "開車",
+          "duration": "10分",
+          "visitIds": [
+            "visit-141",
+            "visit-142"
+          ],
+          "placeIds": [
+            "place-112",
+            "place-115"
+          ],
+          "purpose": "白兔出發端與賀露／千代水抵達端道路，對應前往ちよ志午餐；鏡頭不是整段連續監控。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12163,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-142-visit-143",
+          "kind": "route",
+          "legId": "leg-visit-142-visit-143",
+          "day": 8,
+          "title": "ちよ志賀露本店～McDonald’s 鳥取北店",
+          "start": "11:43",
+          "end": "11:48",
+          "mode": "開車",
+          "duration": "5分",
+          "visitIds": [
+            "visit-142",
+            "visit-143"
+          ],
+          "placeIds": [
+            "place-115",
+            "place-116"
+          ],
+          "purpose": "賀露／千代水附近路面，對應午餐後前往鳥取北 McDonald’s。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12223,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-tottori-north-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "鳥取北購物・Trinity Mall 與千代水",
+          "start": "11:48",
+          "end": "14:31",
+          "visitIds": [
+            "visit-143",
+            "visit-144",
+            "visit-145",
+            "visit-146"
+          ],
+          "placeIds": [
+            "place-116",
+            "place-117",
+            "place-118",
+            "place-119"
+          ],
+          "purpose": "千代水／鳥取北購物區周邊道路，對應購物行程；不是各店停車場實況。",
+          "qualification": "周邊天氣參考",
+          "order": 12228,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-265",
+      "title": "鳥取市區・秋里至幸町",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-146-visit-147",
+          "kind": "route",
+          "legId": "leg-visit-146-visit-147",
+          "day": 8,
+          "title": "UNIQLO 鳥取千代水店～Green Rich Hotel 鳥取站前",
+          "start": "14:31",
+          "end": "14:42",
+          "mode": "開車",
+          "duration": "11分",
+          "visitIds": [
+            "visit-146",
+            "visit-147"
+          ],
+          "placeIds": [
+            "place-119",
+            "place-008"
+          ],
+          "purpose": "鳥取北購物區到站前飯店的市內道路參考；沿用來源標示位置，實際行駛街道視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12391,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-264",
+      "title": "鳥取市區・吉方町道路",
+      "days": [],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [],
+      "unassignedReason": "吉方町路口未核定為實際步行或行車路線，保留在地區來源。"
+    },
+    {
+      "id": "navi-211",
+      "title": "倉吉西側・福光道路",
+      "days": [],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [],
+      "unassignedReason": "倉吉福光路段未核定為北條到白壁或白壁到三朝的實際路線。"
+    },
+    {
+      "id": "navi-087",
+      "title": "湯梨浜・長瀨道路",
+      "days": [],
+      "previousDays": [
+        8
+      ],
+      "tripMatches": [],
+      "unassignedReason": "湯梨浜長瀨路段未核定為三朝到松崎或松崎到白兔的實際路線。"
+    },
+    {
+      "id": "navi-047",
+      "title": "湯梨浜・原道路",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-137-visit-138",
+          "kind": "route",
+          "legId": "leg-visit-137-visit-138",
+          "day": 8,
+          "title": "Lawson 湯梨浜松崎店～道之驛神話之里白兔",
+          "start": "08:39",
+          "end": "09:15",
+          "mode": "開車",
+          "duration": "36分",
+          "visitIds": [
+            "visit-137",
+            "visit-138"
+          ],
+          "placeIds": [
+            "place-111",
+            "place-112"
+          ],
+          "purpose": "松崎／東鄉湖往東側的一般道路參考；沒有證據證明導航一定經過這兩個路口。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12039,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-050",
+      "title": "北條倉吉道路・米里",
+      "days": [
+        7
+      ],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-121-visit-122",
+          "kind": "route",
+          "legId": "leg-visit-121-visit-122",
+          "day": 7,
+          "title": "道之驛北條～倉吉赤瓦觀光停車場",
+          "start": "12:24",
+          "end": "12:46",
+          "mode": "開車",
+          "duration": "22分",
+          "visitIds": [
+            "visit-121",
+            "visit-122"
+          ],
+          "placeIds": [
+            "place-099",
+            "place-100"
+          ],
+          "purpose": "北條倉吉道路／倉吉北側道路，對應北條前往倉吉赤瓦停車區；兩支為不同道路參考，實際路線視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 10824,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-203",
+      "title": "倉吉・上井道路",
+      "days": [],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [],
+      "unassignedReason": "倉吉上井路段未核定為本次倉吉／三朝的實際移動路線。"
+    },
+    {
+      "id": "navi-205",
+      "title": "倉吉北側・上神道路",
+      "days": [
+        7
+      ],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-121-visit-122",
+          "kind": "route",
+          "legId": "leg-visit-121-visit-122",
+          "day": 7,
+          "title": "道之驛北條～倉吉赤瓦觀光停車場",
+          "start": "12:24",
+          "end": "12:46",
+          "mode": "開車",
+          "duration": "22分",
+          "visitIds": [
+            "visit-121",
+            "visit-122"
+          ],
+          "placeIds": [
+            "place-099",
+            "place-100"
+          ],
+          "purpose": "北條倉吉道路／倉吉北側道路，對應北條前往倉吉赤瓦停車區；兩支為不同道路參考，實際路線視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 10824,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-005",
+      "title": "湯梨浜松崎・東鄉湖附近",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-136-visit-137",
+          "kind": "route",
+          "legId": "leg-visit-136-visit-137",
+          "day": 8,
+          "title": "三朝溫泉萬翠樓～Lawson 湯梨浜松崎店",
+          "start": "08:00",
+          "end": "08:24",
+          "mode": "開車",
+          "duration": "24分",
+          "visitIds": [
+            "visit-136",
+            "visit-137"
+          ],
+          "placeIds": [
+            "place-107",
+            "place-111"
+          ],
+          "purpose": "三朝出發端與松崎抵達端附近道路，對應離開萬翠樓前往 Lawson 松崎店補給。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12000,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-matsuzaki-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "Lawson 湯梨浜松崎店補給",
+          "start": "08:24",
+          "end": "08:39",
+          "visitIds": [
+            "visit-137"
+          ],
+          "placeIds": [
+            "place-111"
+          ],
+          "purpose": "松崎道路與東鄉湖周邊天候；不是 Lawson 專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 12024,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-089",
+      "title": "大山乳業周邊・上伊勢",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-022-visit-023",
+          "kind": "route",
+          "legId": "leg-visit-022-visit-023",
+          "day": 2,
+          "title": "鳥取砂丘停車場～Cowy's Milk House",
+          "start": "13:29",
+          "end": "14:44",
+          "mode": "開車",
+          "duration": "75分",
+          "visitIds": [
+            "visit-022",
+            "visit-023"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-017"
+          ],
+          "purpose": "抵達琴浦端的逢束／上伊勢一般道路天候；不是 Cowy’s 店外，也不代表山陰道本線。",
+          "qualification": "琴浦端周邊道路參考",
+          "order": 3689,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-209",
+      "title": "道之驛北條周邊・下神",
+      "days": [
+        7
+      ],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-hojo-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "道之驛北條・購物及遊樂區",
+          "start": "11:44",
+          "end": "12:24",
+          "visitIds": [
+            "visit-121"
+          ],
+          "placeIds": [
+            "place-099"
+          ],
+          "purpose": "北條周邊出入道路與天候；看不到室內遊樂區，停車格涵蓋未確認。",
+          "qualification": "周邊天氣參考",
+          "order": 10784,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-267",
+      "title": "道之驛北條周邊・江北",
+      "days": [
+        7
+      ],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-hojo-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "道之驛北條・購物及遊樂區",
+          "start": "11:44",
+          "end": "12:24",
+          "visitIds": [
+            "visit-121"
+          ],
+          "placeIds": [
+            "place-099"
+          ],
+          "purpose": "北條周邊出入道路與天候；看不到室內遊樂區，停車格涵蓋未確認。",
+          "qualification": "周邊天氣參考",
+          "order": 10784,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-024",
+      "title": "柯南小鎮周邊・由良宿",
+      "days": [
+        7
+      ],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-conan-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "道之驛大栄・柯南小鎮與米花商店街",
+          "start": "09:52",
+          "end": "11:43",
+          "visitIds": [
+            "visit-116",
+            "visit-117",
+            "visit-118",
+            "visit-119",
+            "visit-120"
+          ],
+          "placeIds": [
+            "place-095",
+            "place-096",
+            "place-097",
+            "place-098"
+          ],
+          "purpose": "北榮由良宿道路天候，對應柯南小鎮行程；不是館內或商店門口。",
+          "qualification": "周邊天氣參考",
+          "order": 10672,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "leg-visit-119-visit-120",
+          "kind": "route",
+          "legId": "leg-visit-119-visit-120",
+          "day": 7,
+          "title": "道之驛大栄～とりどりベーカリー",
+          "start": "11:04",
+          "end": "11:13",
+          "mode": "開車",
+          "duration": "9分",
+          "visitIds": [
+            "visit-119",
+            "visit-120"
+          ],
+          "placeIds": [
+            "place-095",
+            "place-098"
+          ],
+          "purpose": "北榮由良宿一般道路，對應道之驛大栄取車後前往麵包店。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 10744,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-199",
+      "title": "湯梨浜・宮內道路",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-137-visit-138",
+          "kind": "route",
+          "legId": "leg-visit-137-visit-138",
+          "day": 8,
+          "title": "Lawson 湯梨浜松崎店～道之驛神話之里白兔",
+          "start": "08:39",
+          "end": "09:15",
+          "mode": "開車",
+          "duration": "36分",
+          "visitIds": [
+            "visit-137",
+            "visit-138"
+          ],
+          "placeIds": [
+            "place-111",
+            "place-112"
+          ],
+          "purpose": "松崎／東鄉湖往東側的一般道路參考；沒有證據證明導航一定經過這兩個路口。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 12039,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-220",
+      "title": "境港南側・高松町道路",
+      "days": [
+        4,
+        5
+      ],
+      "previousDays": [
+        4,
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-036-visit-037",
+          "kind": "route",
+          "legId": "leg-visit-036-visit-037",
+          "day": 4,
+          "title": "Green Rich Hotel 米子站前～なかうら大漁市場",
+          "start": "08:00",
+          "end": "08:38",
+          "mode": "開車",
+          "duration": "38分",
+          "visitIds": [
+            "visit-036",
+            "visit-037"
+          ],
+          "placeIds": [
+            "place-020",
+            "place-027"
+          ],
+          "purpose": "境港南側國道431號路面參考，對應米子離開後前往竹內團地市場；實際採用道路視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 6240,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-084-visit-085",
+          "kind": "route",
+          "legId": "leg-visit-084-visit-085",
+          "day": 5,
+          "title": "全家江島大橋店～天滿屋停車區",
+          "start": "09:08",
+          "end": "09:54",
+          "mode": "開車",
+          "duration": "46分",
+          "visitIds": [
+            "visit-084",
+            "visit-085"
+          ],
+          "placeIds": [
+            "place-070",
+            "place-071"
+          ],
+          "purpose": "境港南側／米子東福原周邊道路參考，對應江島大橋行程後前往天滿屋；不宣稱每支鏡頭都在實際導航路線。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 7748,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-006",
+      "title": "大山乳業周邊・逢束",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-022-visit-023",
+          "kind": "route",
+          "legId": "leg-visit-022-visit-023",
+          "day": 2,
+          "title": "鳥取砂丘停車場～Cowy's Milk House",
+          "start": "13:29",
+          "end": "14:44",
+          "mode": "開車",
+          "duration": "75分",
+          "visitIds": [
+            "visit-022",
+            "visit-023"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-017"
+          ],
+          "purpose": "抵達琴浦端的逢束／上伊勢一般道路天候；不是 Cowy’s 店外，也不代表山陰道本線。",
+          "qualification": "琴浦端周邊道路參考",
+          "order": 3689,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-224",
+      "title": "天滿屋東側・東福原道路",
+      "days": [
+        5
+      ],
+      "previousDays": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-084-visit-085",
+          "kind": "route",
+          "legId": "leg-visit-084-visit-085",
+          "day": 5,
+          "title": "全家江島大橋店～天滿屋停車區",
+          "start": "09:08",
+          "end": "09:54",
+          "mode": "開車",
+          "duration": "46分",
+          "visitIds": [
+            "visit-084",
+            "visit-085"
+          ],
+          "placeIds": [
+            "place-070",
+            "place-071"
+          ],
+          "purpose": "境港南側／米子東福原周邊道路參考，對應江島大橋行程後前往天滿屋；不宣稱每支鏡頭都在實際導航路線。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 7748,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "stop-tenmaya-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "天滿屋・遊樂場・LOFT 與午餐",
+          "start": "09:54",
+          "end": "13:40",
+          "visitIds": [
+            "visit-085",
+            "visit-086",
+            "visit-087",
+            "visit-088",
+            "visit-089",
+            "visit-090",
+            "visit-091",
+            "visit-092"
+          ],
+          "placeIds": [
+            "place-071",
+            "place-072",
+            "place-073",
+            "place-074",
+            "place-075",
+            "place-076",
+            "place-077"
+          ],
+          "purpose": "天滿屋東福原附近屋頂／道路天候；不顯示遊樂場內部，也沒有確認商場餘位。",
+          "qualification": "周邊天氣參考",
+          "order": 7794,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "leg-visit-092-visit-093",
+          "kind": "route",
+          "legId": "leg-visit-092-visit-093",
+          "day": 5,
+          "title": "天滿屋停車區～もち吉米子店",
+          "start": "13:40",
+          "end": "13:46",
+          "mode": "開車",
+          "duration": "6分",
+          "visitIds": [
+            "visit-092",
+            "visit-093"
+          ],
+          "placeIds": [
+            "place-071",
+            "place-078"
+          ],
+          "purpose": "天滿屋取車出發端周邊道路，接著前往もち吉。",
+          "qualification": "出發端周邊道路",
+          "order": 8020,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "navi-223",
+      "title": "米子・皆生國道431號",
+      "days": [
+        5,
+        6
+      ],
+      "previousDays": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "tripMatches": [
+        {
+          "id": "leg-visit-084-visit-085",
+          "kind": "route",
+          "legId": "leg-visit-084-visit-085",
+          "day": 5,
+          "title": "全家江島大橋店～天滿屋停車區",
+          "start": "09:08",
+          "end": "09:54",
+          "mode": "開車",
+          "duration": "46分",
+          "visitIds": [
+            "visit-084",
+            "visit-085"
+          ],
+          "placeIds": [
+            "place-070",
+            "place-071"
+          ],
+          "purpose": "境港南側／米子東福原周邊道路參考，對應江島大橋行程後前往天滿屋；不宣稱每支鏡頭都在實際導航路線。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 7748,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-093-visit-094",
+          "kind": "route",
+          "legId": "leg-visit-093-visit-094",
+          "day": 5,
+          "title": "もち吉米子店～UNIQLO 米子新開店",
+          "start": "14:06",
+          "end": "14:10",
+          "mode": "開車",
+          "duration": "4分",
+          "visitIds": [
+            "visit-093",
+            "visit-094"
+          ],
+          "placeIds": [
+            "place-078",
+            "place-079"
+          ],
+          "purpose": "新開／皆生國道431號附近路面，供市內移動段參考，實際街道視導航。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 8046,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-094-visit-095",
+          "kind": "route",
+          "legId": "leg-visit-094-visit-095",
+          "day": 5,
+          "title": "UNIQLO 米子新開店～湯ノ塩",
+          "start": "14:40",
+          "end": "14:46",
+          "mode": "開車",
+          "duration": "6分",
+          "visitIds": [
+            "visit-094",
+            "visit-095"
+          ],
+          "placeIds": [
+            "place-079",
+            "place-080"
+          ],
+          "purpose": "往皆生溫泉方向的附近道路天候，對應 UNIQLO 購物後去湯ノ塩。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 8080,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-097-visit-098",
+          "kind": "route",
+          "legId": "leg-visit-097-visit-098",
+          "day": 5,
+          "title": "RESTAURANT レンガ屋～LAMU 米子北店",
+          "start": "18:33",
+          "end": "18:44",
+          "mode": "開車",
+          "duration": "11分",
+          "visitIds": [
+            "visit-097",
+            "visit-098"
+          ],
+          "placeIds": [
+            "place-082",
+            "place-083"
+          ],
+          "purpose": "皆生／米子北一帶道路天候，對應晚餐後去 LAMU 補給；不是超市停車場。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 8313,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-098-visit-099",
+          "kind": "route",
+          "legId": "leg-visit-098-visit-099",
+          "day": 5,
+          "title": "LAMU 米子北店～皆生溫泉海の四季",
+          "start": "19:24",
+          "end": "19:33",
+          "mode": "開車",
+          "duration": "9分",
+          "visitIds": [
+            "visit-098",
+            "visit-099"
+          ],
+          "placeIds": [
+            "place-083",
+            "place-081"
+          ],
+          "purpose": "皆生／米子北一帶道路天候，對應超市補給後返回海の四季。",
+          "qualification": "道路參考，非導航路線證明",
+          "order": 8364,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        },
+        {
+          "id": "leg-visit-100-visit-101",
+          "kind": "route",
+          "legId": "leg-visit-100-visit-101",
+          "day": 6,
+          "title": "皆生溫泉海の四季～大山参道ホテル頂",
+          "start": "09:30",
+          "end": "10:15",
+          "mode": "開車",
+          "duration": "45分",
+          "visitIds": [
+            "visit-100",
+            "visit-101"
+          ],
+          "placeIds": [
+            "place-081",
+            "place-084"
+          ],
+          "purpose": "皆生住宿區出發端附近道路，接著前往大山；不代表山上積雪。",
+          "qualification": "皆生出發端周邊道路",
+          "order": 9210,
+          "basis": "Excel相鄰到訪點與移動列；鏡頭為出發端、抵達端或可選幹線參考；未核定實際導航路徑"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "yonago-yuuyuu",
+      "title": "米子皆生・ゆうゆう壱番館",
+      "days": [
+        5,
+        6
+      ],
+      "previousDays": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-kaike-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "皆生海の四季入住・湯ノ塩與晚餐",
+          "start": "14:46",
+          "end": "19:33",
+          "visitIds": [
+            "visit-095",
+            "visit-096",
+            "visit-097",
+            "visit-099"
+          ],
+          "placeIds": [
+            "place-080",
+            "place-081",
+            "place-082"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 8086,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-kaike-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "皆生海の四季出發",
+          "start": "09:30",
+          "end": "09:30",
+          "visitIds": [
+            "visit-100"
+          ],
+          "placeIds": [
+            "place-081"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 9210,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "yonago-agenda",
+      "title": "米子市區・ホテルアジェンダ",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-yonago-shopping-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "米子市街購物・為セバ成ル晚餐",
+          "start": "16:20",
+          "end": "18:50",
+          "visitIds": [
+            "visit-024",
+            "visit-025"
+          ],
+          "placeIds": [
+            "place-018",
+            "place-019"
+          ],
+          "purpose": "米子市街方向天氣／路面參考，不是唐吉軻德或餐廳門口。",
+          "qualification": "周邊天氣參考",
+          "order": 3860,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "nkt-yonago-station",
+      "title": "JR米子站・日本海電視入口",
+      "days": [
+        2,
+        3,
+        4
+      ],
+      "previousDays": [
+        2,
+        3,
+        4
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-yonago-station-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "Green Rich Hotel 米子站前入住",
+          "start": "19:06",
+          "end": "19:06",
+          "visitIds": [
+            "visit-026"
+          ],
+          "placeIds": [
+            "place-020"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 4026,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-yonago-station-d3",
+          "kind": "stop",
+          "day": 3,
+          "title": "米子站前住宿・Shamine 與鳥メロ晚餐",
+          "start": "08:00",
+          "end": "19:22",
+          "visitIds": [
+            "visit-027",
+            "visit-032",
+            "visit-033",
+            "visit-034",
+            "visit-035"
+          ],
+          "placeIds": [
+            "place-020",
+            "place-025",
+            "place-026"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 4800,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-yonago-station-d4",
+          "kind": "stop",
+          "day": 4,
+          "title": "Green Rich Hotel 米子站前出發",
+          "start": "08:00",
+          "end": "08:00",
+          "visitIds": [
+            "visit-036"
+          ],
+          "placeIds": [
+            "place-020"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 6240,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "nkt-kurayoshi-utsubuki",
+      "title": "倉吉白壁土藏群・打吹山",
+      "days": [
+        7
+      ],
+      "previousDays": [
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-kurayoshi-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "倉吉白壁土藏群・赤瓦與點心",
+          "start": "12:46",
+          "end": "14:42",
+          "visitIds": [
+            "visit-122",
+            "visit-123",
+            "visit-124",
+            "visit-125",
+            "visit-126",
+            "visit-127",
+            "visit-128"
+          ],
+          "placeIds": [
+            "place-100",
+            "place-101",
+            "place-102",
+            "place-103",
+            "place-104",
+            "place-105"
+          ],
+          "purpose": "白壁土藏群與打吹山景觀、附近天候；不代表每家店或停車位。",
+          "qualification": "景點景觀參考",
+          "order": 10846,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "tottori-station-city-preview",
+      "title": "鳥取站前・市政府圖片入口",
+      "days": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-tottori-station-d1",
+          "kind": "stop",
+          "day": 1,
+          "title": "鳥取站前飯店入住・便利商店",
+          "start": "21:05",
+          "end": "21:47",
+          "visitIds": [
+            "visit-009",
+            "visit-010",
+            "visit-011",
+            "visit-012"
+          ],
+          "placeIds": [
+            "place-007",
+            "place-008",
+            "place-009"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 2705,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "鳥取站前飯店出發・取車與載行李",
+          "start": "08:50",
+          "end": "09:40",
+          "visitIds": [
+            "visit-013",
+            "visit-014",
+            "visit-015"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-010"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 3410,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "鳥取站前飯店・加油還車與站前購物",
+          "start": "14:42",
+          "end": "20:10",
+          "visitIds": [
+            "visit-147",
+            "visit-148",
+            "visit-149",
+            "visit-150",
+            "visit-151",
+            "visit-152",
+            "visit-153",
+            "visit-154",
+            "visit-155",
+            "visit-156",
+            "visit-157",
+            "visit-158"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-120",
+            "place-010",
+            "place-121",
+            "place-122",
+            "place-123",
+            "place-124",
+            "place-125",
+            "place-126",
+            "place-127",
+            "place-128"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 12402,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d9",
+          "kind": "stop",
+          "day": 9,
+          "title": "鳥取站前飯店出發・機場巴士",
+          "start": "07:20",
+          "end": "07:45",
+          "visitIds": [
+            "visit-159",
+            "visit-160"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-007"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 13400,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "tottori-karo-city-preview",
+      "title": "賀露港周邊・市政府圖片入口",
+      "days": [
+        8
+      ],
+      "previousDays": [
+        8
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-karo-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "賀露午餐",
+          "start": "10:53",
+          "end": "11:43",
+          "visitIds": [
+            "visit-142"
+          ],
+          "placeIds": [
+            "place-115"
+          ],
+          "purpose": "賀露港附近天候參考，不是烏龍麵店內或店前。",
+          "qualification": "周邊天氣參考",
+          "order": 12173,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "tottori-sakyu-city-preview",
+      "title": "鳥取砂丘道路・市政府圖片入口",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-sand-dunes-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "鳥取砂丘・砂丘商店區",
+          "start": "09:55",
+          "end": "13:29",
+          "visitIds": [
+            "visit-016",
+            "visit-017",
+            "visit-018",
+            "visit-019",
+            "visit-020",
+            "visit-021",
+            "visit-022"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-012",
+            "place-013",
+            "place-014",
+            "place-015",
+            "place-016"
+          ],
+          "purpose": "砂丘表面、能見度與周邊天候；不能確認咖啡店門口或各停車格。",
+          "qualification": "景點與周邊天候",
+          "order": 3475,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "tottori-sakyu-parking-info",
+      "title": "鳥取砂丘・官方交通與停車入口",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        2
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-sand-parking-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "鳥取砂丘停車與進出",
+          "start": "09:55",
+          "end": "13:29",
+          "visitIds": [
+            "visit-016",
+            "visit-022"
+          ],
+          "placeIds": [
+            "place-011"
+          ],
+          "purpose": "官方交通與停車資訊；不是即時剩餘車位數。",
+          "qualification": "官方停車資訊",
+          "order": 3475,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "yokai-garden-legacy",
+      "title": "妖怪樂園・舊園內鏡頭入口",
+      "days": [
+        4
+      ],
+      "previousDays": [
+        4,
+        5
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-yokai-garden-d4",
+          "kind": "stop",
+          "day": 4,
+          "title": "妖怪樂園",
+          "start": "12:30",
+          "end": "12:50",
+          "visitIds": [
+            "visit-047"
+          ],
+          "placeIds": [
+            "place-037"
+          ],
+          "purpose": "原園內鏡頭已停用，保留官方入口；不是目前即時園景。",
+          "qualification": "舊鏡頭入口",
+          "order": 6510,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "daisen-env-paused",
+      "title": "大山・環境省影像（暫停公開）",
+      "days": [
+        6,
+        7
+      ],
+      "previousDays": [
+        6,
+        7
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-daisen-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "大山寺・奧宮散步與大山住宿",
+          "start": "10:15",
+          "end": "19:31",
+          "visitIds": [
+            "visit-101",
+            "visit-102",
+            "visit-103",
+            "visit-104",
+            "visit-105",
+            "visit-106",
+            "visit-107",
+            "visit-108",
+            "visit-109",
+            "visit-110",
+            "visit-111",
+            "visit-112",
+            "visit-113",
+            "visit-114"
+          ],
+          "placeIds": [
+            "place-084",
+            "place-085",
+            "place-086",
+            "place-087",
+            "place-088",
+            "place-089",
+            "place-090",
+            "place-091",
+            "place-092",
+            "place-093",
+            "place-094"
+          ],
+          "purpose": "大山山體與寺院周邊能見度／雪覆參考；不能確認大神山神社奧宮石階或整條步道。",
+          "qualification": "大山現地景觀參考",
+          "order": 9255,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-daisen-d7",
+          "kind": "stop",
+          "day": 7,
+          "title": "大山参道ホテル頂出發",
+          "start": "08:50",
+          "end": "08:50",
+          "visitIds": [
+            "visit-115"
+          ],
+          "placeIds": [
+            "place-084"
+          ],
+          "purpose": "大山山體與寺院周邊能見度／雪覆參考；不能確認大神山神社奧宮石階或整條步道。",
+          "qualification": "大山現地景觀參考",
+          "order": 10610,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "nkt-kaike-history",
+      "title": "皆生海遊灘・電視台舊鏡頭線索",
+      "days": [
+        5,
+        6
+      ],
+      "previousDays": [
+        5,
+        6
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-kaike-d5",
+          "kind": "stop",
+          "day": 5,
+          "title": "皆生海の四季入住・湯ノ塩與晚餐",
+          "start": "14:46",
+          "end": "19:33",
+          "visitIds": [
+            "visit-095",
+            "visit-096",
+            "visit-097",
+            "visit-099"
+          ],
+          "placeIds": [
+            "place-080",
+            "place-081",
+            "place-082"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 8086,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-kaike-d6",
+          "kind": "stop",
+          "day": 6,
+          "title": "皆生海の四季出發",
+          "start": "09:30",
+          "end": "09:30",
+          "visitIds": [
+            "visit-100"
+          ],
+          "placeIds": [
+            "place-081"
+          ],
+          "purpose": "皆生住宿區周邊天候；OU LAND、內陸方向與海岸是不同視角，不能當作海の四季門口實景。",
+          "qualification": "周邊天氣參考",
+          "order": 9210,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "github-eFAa1Ku7HLo",
+      "title": "鳥取市街地（日本海テレビ）",
+      "days": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-tottori-station-d1",
+          "kind": "stop",
+          "day": 1,
+          "title": "鳥取站前飯店入住・便利商店",
+          "start": "21:05",
+          "end": "21:47",
+          "visitIds": [
+            "visit-009",
+            "visit-010",
+            "visit-011",
+            "visit-012"
+          ],
+          "placeIds": [
+            "place-007",
+            "place-008",
+            "place-009"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 2705,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "鳥取站前飯店出發・取車與載行李",
+          "start": "08:50",
+          "end": "09:40",
+          "visitIds": [
+            "visit-013",
+            "visit-014",
+            "visit-015"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-010"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 3410,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "鳥取站前飯店・加油還車與站前購物",
+          "start": "14:42",
+          "end": "20:10",
+          "visitIds": [
+            "visit-147",
+            "visit-148",
+            "visit-149",
+            "visit-150",
+            "visit-151",
+            "visit-152",
+            "visit-153",
+            "visit-154",
+            "visit-155",
+            "visit-156",
+            "visit-157",
+            "visit-158"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-120",
+            "place-010",
+            "place-121",
+            "place-122",
+            "place-123",
+            "place-124",
+            "place-125",
+            "place-126",
+            "place-127",
+            "place-128"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 12402,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d9",
+          "kind": "stop",
+          "day": 9,
+          "title": "鳥取站前飯店出發・機場巴士",
+          "start": "07:20",
+          "end": "07:45",
+          "visitIds": [
+            "visit-159",
+            "visit-160"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-007"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 13400,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "github-K0Mj74T94TY",
+      "title": "鳥取市（Plusbits）",
+      "days": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-tottori-station-d1",
+          "kind": "stop",
+          "day": 1,
+          "title": "鳥取站前飯店入住・便利商店",
+          "start": "21:05",
+          "end": "21:47",
+          "visitIds": [
+            "visit-009",
+            "visit-010",
+            "visit-011",
+            "visit-012"
+          ],
+          "placeIds": [
+            "place-007",
+            "place-008",
+            "place-009"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 2705,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "鳥取站前飯店出發・取車與載行李",
+          "start": "08:50",
+          "end": "09:40",
+          "visitIds": [
+            "visit-013",
+            "visit-014",
+            "visit-015"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-010"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 3410,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d8",
+          "kind": "stop",
+          "day": 8,
+          "title": "鳥取站前飯店・加油還車與站前購物",
+          "start": "14:42",
+          "end": "20:10",
+          "visitIds": [
+            "visit-147",
+            "visit-148",
+            "visit-149",
+            "visit-150",
+            "visit-151",
+            "visit-152",
+            "visit-153",
+            "visit-154",
+            "visit-155",
+            "visit-156",
+            "visit-157",
+            "visit-158"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-120",
+            "place-010",
+            "place-121",
+            "place-122",
+            "place-123",
+            "place-124",
+            "place-125",
+            "place-126",
+            "place-127",
+            "place-128"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 12402,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-tottori-station-d9",
+          "kind": "stop",
+          "day": 9,
+          "title": "鳥取站前飯店出發・機場巴士",
+          "start": "07:20",
+          "end": "07:45",
+          "visitIds": [
+            "visit-159",
+            "visit-160"
+          ],
+          "placeIds": [
+            "place-008",
+            "place-007"
+          ],
+          "purpose": "鳥取站前市區天候參考；不是各店門口或專用停車場。",
+          "qualification": "周邊天氣參考",
+          "order": 13400,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "github-7T3SV0zMQVI",
+      "title": "鳥取砂丘",
+      "days": [
+        2
+      ],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-sand-dunes-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "鳥取砂丘・砂丘商店區",
+          "start": "09:55",
+          "end": "13:29",
+          "visitIds": [
+            "visit-016",
+            "visit-017",
+            "visit-018",
+            "visit-019",
+            "visit-020",
+            "visit-021",
+            "visit-022"
+          ],
+          "placeIds": [
+            "place-011",
+            "place-012",
+            "place-013",
+            "place-014",
+            "place-015",
+            "place-016"
+          ],
+          "purpose": "砂丘表面、能見度與周邊天候；不能確認咖啡店門口或各停車格。",
+          "qualification": "景點與周邊天候",
+          "order": 3475,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "github-oN2TvtMyDak",
+      "title": "鳥取市伏野海岸",
+      "days": [],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [],
+      "unassignedReason": "行程沒有伏野海岸，距離圈不能證明機場／白兔／砂丘的實際視野。"
+    },
+    {
+      "id": "github-849SJO-DAg8",
+      "title": "湖山池（鳥取大学周辺）",
+      "days": [],
+      "previousDays": [
+        1,
+        2,
+        8,
+        9
+      ],
+      "tripMatches": [],
+      "unassignedReason": "行程沒有湖山池；不再套用到鳥取站、砂丘或機場。"
+    },
+    {
+      "id": "github-QjNzHxGgKb4",
+      "title": "大山 ますみず高原",
+      "days": [],
+      "previousDays": [
+        3,
+        6,
+        7
+      ],
+      "tripMatches": [],
+      "unassignedReason": "桝水高原不是 AEON 日吉津，也沒有列入本次到訪點；保留在全部來源，不由10公里距離自動配日期。"
+    },
+    {
+      "id": "github-jX4ezjIYI_I",
+      "title": "JR米子駅",
+      "days": [
+        2,
+        3,
+        4
+      ],
+      "previousDays": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tripMatches": [
+        {
+          "id": "stop-yonago-station-d2",
+          "kind": "stop",
+          "day": 2,
+          "title": "Green Rich Hotel 米子站前入住",
+          "start": "19:06",
+          "end": "19:06",
+          "visitIds": [
+            "visit-026"
+          ],
+          "placeIds": [
+            "place-020"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 4026,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-yonago-station-d3",
+          "kind": "stop",
+          "day": 3,
+          "title": "米子站前住宿・Shamine 與鳥メロ晚餐",
+          "start": "08:00",
+          "end": "19:22",
+          "visitIds": [
+            "visit-027",
+            "visit-032",
+            "visit-033",
+            "visit-034",
+            "visit-035"
+          ],
+          "placeIds": [
+            "place-020",
+            "place-025",
+            "place-026"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 4800,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        },
+        {
+          "id": "stop-yonago-station-d4",
+          "kind": "stop",
+          "day": 4,
+          "title": "Green Rich Hotel 米子站前出發",
+          "start": "08:00",
+          "end": "08:00",
+          "visitIds": [
+            "visit-036"
+          ],
+          "placeIds": [
+            "place-020"
+          ],
+          "purpose": "米子站前道路與天候，對應站前住宿及車站周邊行程；不代表皆生。",
+          "qualification": "周邊天氣參考",
+          "order": 6240,
+          "basis": "原行程到訪點＋來源已記錄位置；不由同市區或10公里圈自動延伸"
+        }
+      ],
+      "unassignedReason": null
+    },
+    {
+      "id": "github-qN6Xwpi-lnA",
+      "title": "米子水鳥公園",
+      "days": [],
+      "previousDays": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tripMatches": [],
+      "unassignedReason": "行程沒有米子水鳥公園；不再用10公里範圍把它套到米子／境港購物。"
+    },
+    {
+      "id": "github-yhfgYQvn2-I",
+      "title": "米子市両三柳",
+      "days": [],
+      "previousDays": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tripMatches": [],
+      "unassignedReason": "両三柳約略座標不能證明拍到米子商場或位於實際行車路線，不自動配置日期。"
+    },
+    {
+      "id": "github-iVxzEyeCvrM",
+      "title": "八頭町",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-8gaNddXwack",
+      "title": "黒坂（JR伯備線）",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-VYaWdldfU4Q",
+      "title": "黒坂 広島街道踏切",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-rTViPLUmYAc",
+      "title": "松江 宍道湖",
+      "days": [],
+      "previousDays": [
+        3
+      ],
+      "tripMatches": [],
+      "unassignedReason": "宍道湖廣域景觀不能代表花鳥園；未據此安排日期。"
+    },
+    {
+      "id": "github-JEFoqOUDUI4",
+      "title": "くにびき大橋",
+      "days": [],
+      "previousDays": [
+        3
+      ],
+      "tripMatches": [],
+      "unassignedReason": "國引大橋未列入到訪點，也未核定為當日行車道路。"
+    },
+    {
+      "id": "github-GaKp6Mofepc",
+      "title": "西郷港（隠岐の島）",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-QLD5CwcIBH0",
+      "title": "道の駅 ゆうひパーク浜田",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-360w9C78Pi8",
+      "title": "出雲大社前駅 神門通り",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-0S3m-h3r_ZI",
+      "title": "三瓶山 西の原",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-Tpxj6KwYAqE",
+      "title": "美郷町 粕渕市街地",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-_61oLL-8Gt0",
+      "title": "美郷町 野間雲海ビュースポット",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    },
+    {
+      "id": "github-yZYiBmrlFwc",
+      "title": "安来駅前",
+      "days": [],
+      "previousDays": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "tripMatches": [],
+      "unassignedReason": "行程沒有安来站，往松江的車程也不等於會經過安来站前。"
+    },
+    {
+      "id": "github-nqF2QiB-LAo",
+      "title": "TSKライブカメラ（松江）",
+      "days": [],
+      "previousDays": [
+        3
+      ],
+      "tripMatches": [],
+      "unassignedReason": "TSK 松江市區鏡頭不因同市區自動成為花鳥園行程鏡頭。"
+    },
+    {
+      "id": "github-tS7IJCDfalk",
+      "title": "益田市三宅町",
+      "days": [],
+      "previousDays": [],
+      "tripMatches": [],
+      "unassignedReason": "此來源先保留，沒有可確認的本次到訪點／移動段對應，因此不自動列入任何一天。"
+    }
+  ],
+  "legs": [
+    {
+      "id": "leg-visit-008-visit-009",
+      "day": 1,
+      "fromVisitId": "visit-008",
+      "toVisitId": "visit-009",
+      "fromPlaceId": "place-006",
+      "toPlaceId": "place-007",
+      "fromTitle": "鳥取機場 (鳥取砂丘柯南機場)",
+      "toTitle": "鳥取駅2號站台",
+      "title": "鳥取機場～鳥取站",
+      "start": "20:45",
+      "end": "21:05",
+      "mode": "巴士",
+      "duration": "20分",
+      "sourceRows": [
+        18
+      ],
+      "cameraIds": [
+        "tottori-airport-approach"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-009-visit-010",
+      "day": 1,
+      "fromVisitId": "visit-009",
+      "toVisitId": "visit-010",
+      "fromPlaceId": "place-007",
+      "toPlaceId": "place-008",
+      "fromTitle": "鳥取駅2號站台",
+      "toTitle": "Green Rich Hotel 鳥取站前 入住",
+      "title": "鳥取站～Green Rich Hotel 鳥取站前",
+      "start": "21:10",
+      "end": "21:16",
+      "mode": "步行",
+      "duration": "6分",
+      "sourceRows": [
+        20
+      ],
+      "cameraIds": [
+        "navi-159"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-010-visit-011",
+      "day": 1,
+      "fromVisitId": "visit-010",
+      "toVisitId": "visit-011",
+      "fromPlaceId": "place-008",
+      "toPlaceId": "place-009",
+      "fromTitle": "Green Rich Hotel 鳥取站前 入住",
+      "toTitle": "7-Eleven 鳥取永楽温泉町店",
+      "title": "Green Rich Hotel 鳥取站前～7-Eleven 鳥取永楽温泉町店",
+      "start": "21:31",
+      "end": "21:34",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        22
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-011-visit-012",
+      "day": 1,
+      "fromVisitId": "visit-011",
+      "toVisitId": "visit-012",
+      "fromPlaceId": "place-009",
+      "toPlaceId": "place-008",
+      "fromTitle": "7-Eleven 鳥取永楽温泉町店",
+      "toTitle": "Green Rich Hotel 鳥取站前 睡覺",
+      "title": "7-Eleven 鳥取永楽温泉町店～Green Rich Hotel 鳥取站前",
+      "start": "21:44",
+      "end": "21:47",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        24
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-013-visit-014",
+      "day": 2,
+      "fromVisitId": "visit-013",
+      "toVisitId": "visit-014",
+      "fromPlaceId": "place-008",
+      "toPlaceId": "place-010",
+      "fromTitle": "Green Rich Hotel 鳥取站前 出發",
+      "toTitle": "豐田租車 鳥取站前店 租車 雪胎",
+      "title": "Green Rich Hotel 鳥取站前～豐田租車鳥取站前店",
+      "start": "08:50",
+      "end": "08:58",
+      "mode": "步行",
+      "duration": "8分",
+      "sourceRows": [
+        28
+      ],
+      "cameraIds": [
+        "navi-159"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-014-visit-015",
+      "day": 2,
+      "fromVisitId": "visit-014",
+      "toVisitId": "visit-015",
+      "fromPlaceId": "place-010",
+      "toPlaceId": "place-008",
+      "fromTitle": "豐田租車 鳥取站前店 租車 雪胎",
+      "toTitle": "Green Rich Hotel 鳥取站前 載行李",
+      "title": "豐田租車鳥取站前店～Green Rich Hotel 鳥取站前",
+      "start": "09:18",
+      "end": "09:20",
+      "mode": "開車",
+      "duration": "2分",
+      "sourceRows": [
+        30
+      ],
+      "cameraIds": [
+        "navi-159"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-015-visit-016",
+      "day": 2,
+      "fromVisitId": "visit-015",
+      "toVisitId": "visit-016",
+      "fromPlaceId": "place-008",
+      "toPlaceId": "place-011",
+      "fromTitle": "Green Rich Hotel 鳥取站前 載行李",
+      "toTitle": "鳥取沙丘停車場 停車",
+      "title": "Green Rich Hotel 鳥取站前～鳥取砂丘停車場",
+      "start": "09:40",
+      "end": "09:55",
+      "mode": "開車",
+      "duration": "15分",
+      "sourceRows": [
+        32
+      ],
+      "cameraIds": [
+        "navi-159",
+        "navi-153"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-016-visit-017",
+      "day": 2,
+      "fromVisitId": "visit-016",
+      "toVisitId": "visit-017",
+      "fromPlaceId": "place-011",
+      "toPlaceId": "place-012",
+      "fromTitle": "鳥取沙丘停車場 停車",
+      "toTitle": "鳥取沙丘",
+      "title": "鳥取砂丘停車場～鳥取沙丘",
+      "start": "10:05",
+      "end": "10:06",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        34
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-017-visit-018",
+      "day": 2,
+      "fromVisitId": "visit-017",
+      "toVisitId": "visit-018",
+      "fromPlaceId": "place-012",
+      "toPlaceId": "place-013",
+      "fromTitle": "鳥取沙丘",
+      "toTitle": "Takahama Café 午餐",
+      "title": "鳥取沙丘～Takahama Café 午餐",
+      "start": "11:06",
+      "end": "11:14",
+      "mode": "步行",
+      "duration": "8分",
+      "sourceRows": [
+        36
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-018-visit-019",
+      "day": 2,
+      "fromVisitId": "visit-018",
+      "toVisitId": "visit-019",
+      "fromPlaceId": "place-013",
+      "toPlaceId": "place-014",
+      "fromTitle": "Takahama Café 午餐",
+      "toTitle": "Rakudaya 紀念品店",
+      "title": "Takahama Café 午餐～Rakudaya 紀念品店",
+      "start": "12:14",
+      "end": "12:16",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        38
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-019-visit-020",
+      "day": 2,
+      "fromVisitId": "visit-019",
+      "toVisitId": "visit-020",
+      "fromPlaceId": "place-014",
+      "toPlaceId": "place-015",
+      "fromTitle": "Rakudaya 紀念品店",
+      "toTitle": "布丁專賣店 Totto PURIN。",
+      "title": "Rakudaya 紀念品店～布丁專賣店 Totto PURIN。",
+      "start": "12:36",
+      "end": "12:38",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        40
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-020-visit-021",
+      "day": 2,
+      "fromVisitId": "visit-020",
+      "toVisitId": "visit-021",
+      "fromPlaceId": "place-015",
+      "toPlaceId": "place-016",
+      "fromTitle": "布丁專賣店 Totto PURIN。",
+      "toTitle": "いずみおじさんのソフトクリーム 冰淇淋店",
+      "title": "布丁專賣店 Totto PURIN。～いずみおじさんのソフトクリーム 冰淇淋店",
+      "start": "12:58",
+      "end": "12:59",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        42
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-021-visit-022",
+      "day": 2,
+      "fromVisitId": "visit-021",
+      "toVisitId": "visit-022",
+      "fromPlaceId": "place-016",
+      "toPlaceId": "place-011",
+      "fromTitle": "いずみおじさんのソフトクリーム 冰淇淋店",
+      "toTitle": "鳥取沙丘停車場 取車",
+      "title": "いずみおじさんのソフトクリーム 冰淇淋店～鳥取砂丘停車場",
+      "start": "13:19",
+      "end": "13:24",
+      "mode": "步行",
+      "duration": "5分",
+      "sourceRows": [
+        44
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-022-visit-023",
+      "day": 2,
+      "fromVisitId": "visit-022",
+      "toVisitId": "visit-023",
+      "fromPlaceId": "place-011",
+      "toPlaceId": "place-017",
+      "fromTitle": "鳥取沙丘停車場 取車",
+      "toTitle": "Cowy's Milk House",
+      "title": "鳥取砂丘停車場～Cowy's Milk House",
+      "start": "13:29",
+      "end": "14:44",
+      "mode": "開車",
+      "duration": "75分",
+      "sourceRows": [
+        46
+      ],
+      "cameraIds": [
+        "sanindo-takakusa",
+        "sanindo-shigeyama",
+        "sanindo-tomari-maintenance",
+        "navi-006",
+        "navi-089"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-023-visit-024",
+      "day": 2,
+      "fromVisitId": "visit-023",
+      "toVisitId": "visit-024",
+      "fromPlaceId": "place-017",
+      "toPlaceId": "place-018",
+      "fromTitle": "Cowy's Milk House",
+      "toTitle": "MEGA唐吉軻德 米子店",
+      "title": "Cowy's Milk House～MEGA唐吉軻德米子店",
+      "start": "15:24",
+      "end": "16:20",
+      "mode": "開車",
+      "duration": "56分",
+      "sourceRows": [
+        48
+      ],
+      "cameraIds": [
+        "sanindo-nawa-maintenance"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-024-visit-025",
+      "day": 2,
+      "fromVisitId": "visit-024",
+      "toVisitId": "visit-025",
+      "fromPlaceId": "place-018",
+      "toPlaceId": "place-019",
+      "fromTitle": "MEGA唐吉軻德 米子店",
+      "toTitle": "元祖　牛肉そばつけ麺　為セバ成ル 沾麵",
+      "title": "MEGA唐吉軻德米子店～為セバ成ル晚餐",
+      "start": "18:10",
+      "end": "18:10",
+      "mode": "原表未另列移動方式",
+      "duration": "",
+      "sourceRows": [],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-025-visit-026",
+      "day": 2,
+      "fromVisitId": "visit-025",
+      "toVisitId": "visit-026",
+      "fromPlaceId": "place-019",
+      "toPlaceId": "place-020",
+      "fromTitle": "元祖　牛肉そばつけ麺　為セバ成ル 沾麵",
+      "toTitle": "Green Rich Hotel 米子站前 入住 停車 睡覺",
+      "title": "為セバ成ル晚餐～Green Rich Hotel 米子站前",
+      "start": "18:50",
+      "end": "19:06",
+      "mode": "開車",
+      "duration": "16分",
+      "sourceRows": [
+        51
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-027-visit-028",
+      "day": 3,
+      "fromVisitId": "visit-027",
+      "toVisitId": "visit-028",
+      "fromPlaceId": "place-020",
+      "toPlaceId": "place-021",
+      "fromTitle": "Green Rich Hotel 米子站前 出發",
+      "toTitle": "松江花鳥園",
+      "title": "Green Rich Hotel 米子站前～松江花鳥園",
+      "start": "08:00",
+      "end": "08:57",
+      "mode": "開車",
+      "duration": "57分",
+      "sourceRows": [
+        55
+      ],
+      "cameraIds": [
+        "vogel-ogaki-r431"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-028-visit-029",
+      "day": 3,
+      "fromVisitId": "visit-028",
+      "toVisitId": "visit-029",
+      "fromPlaceId": "place-021",
+      "toPlaceId": "place-022",
+      "fromTitle": "松江花鳥園",
+      "toTitle": "蕎麥麵亭 不昧庵 蕎麥麵",
+      "title": "松江花鳥園～不昧庵",
+      "start": "11:27",
+      "end": "11:28",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        57
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-029-visit-030",
+      "day": 3,
+      "fromVisitId": "visit-029",
+      "toVisitId": "visit-030",
+      "fromPlaceId": "place-022",
+      "toPlaceId": "place-023",
+      "fromTitle": "蕎麥麵亭 不昧庵 蕎麥麵",
+      "toTitle": "TRUFFLE DONUT日吉津店 甜甜圈",
+      "title": "不昧庵～TRUFFLE DONUT 日吉津",
+      "start": "12:08",
+      "end": "13:19",
+      "mode": "開車",
+      "duration": "71分",
+      "sourceRows": [
+        59
+      ],
+      "cameraIds": [
+        "vogel-ogaki-r431"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-030-visit-031",
+      "day": 3,
+      "fromVisitId": "visit-030",
+      "toVisitId": "visit-031",
+      "fromPlaceId": "place-023",
+      "toPlaceId": "place-024",
+      "fromTitle": "TRUFFLE DONUT日吉津店 甜甜圈",
+      "toTitle": "AEON MALL HIEZU 逛街",
+      "title": "TRUFFLE DONUT 日吉津～AEON 日吉津",
+      "start": "13:39",
+      "end": "13:42",
+      "mode": "開車",
+      "duration": "3分",
+      "sourceRows": [
+        61
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-031-visit-032",
+      "day": 3,
+      "fromVisitId": "visit-031",
+      "toVisitId": "visit-032",
+      "fromPlaceId": "place-024",
+      "toPlaceId": "place-020",
+      "fromTitle": "AEON MALL HIEZU 逛街",
+      "toTitle": "Green Rich Hotel 米子站前 停車 放戰利品",
+      "title": "AEON 日吉津～Green Rich Hotel 米子站前",
+      "start": "16:12",
+      "end": "16:32",
+      "mode": "開車",
+      "duration": "20分",
+      "sourceRows": [
+        63
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-032-visit-033",
+      "day": 3,
+      "fromVisitId": "visit-032",
+      "toVisitId": "visit-033",
+      "fromPlaceId": "place-020",
+      "toPlaceId": "place-025",
+      "fromTitle": "Green Rich Hotel 米子站前 停車 放戰利品",
+      "toTitle": "Shamine 米子 車站購物中心",
+      "title": "Green Rich Hotel 米子站前～Shamine 米子 車站購物中心",
+      "start": "16:52",
+      "end": "16:56",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        65
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-033-visit-034",
+      "day": 3,
+      "fromVisitId": "visit-033",
+      "toVisitId": "visit-034",
+      "fromPlaceId": "place-025",
+      "toPlaceId": "place-026",
+      "fromTitle": "Shamine 米子 車站購物中心",
+      "toTitle": "三代目鳥メロ 燒鳥店 Tabelog訂位18:00",
+      "title": "Shamine 米子 車站購物中心～三代目鳥メロ 燒鳥店 Tabelog訂位18:00",
+      "start": "17:46",
+      "end": "17:50",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        67
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-034-visit-035",
+      "day": 3,
+      "fromVisitId": "visit-034",
+      "toVisitId": "visit-035",
+      "fromPlaceId": "place-026",
+      "toPlaceId": "place-020",
+      "fromTitle": "三代目鳥メロ 燒鳥店 Tabelog訂位18:00",
+      "toTitle": "Green Rich Hotel 米子站前 睡覺",
+      "title": "三代目鳥メロ 燒鳥店 Tabelog訂位18:00～Green Rich Hotel 米子站前",
+      "start": "19:20",
+      "end": "19:22",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        69
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-036-visit-037",
+      "day": 4,
+      "fromVisitId": "visit-036",
+      "toVisitId": "visit-037",
+      "fromPlaceId": "place-020",
+      "toPlaceId": "place-027",
+      "fromTitle": "Green Rich Hotel 米子站前 出發",
+      "toTitle": "なかうら大漁市場通販部",
+      "title": "Green Rich Hotel 米子站前～なかうら大漁市場",
+      "start": "08:00",
+      "end": "08:38",
+      "mode": "開車",
+      "duration": "38分",
+      "sourceRows": [
+        73
+      ],
+      "cameraIds": [
+        "navi-220"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-037-visit-038",
+      "day": 4,
+      "fromVisitId": "visit-037",
+      "toVisitId": "visit-038",
+      "fromPlaceId": "place-027",
+      "toPlaceId": "place-028",
+      "fromTitle": "なかうら大漁市場通販部",
+      "toTitle": "境港水產直營中心",
+      "title": "なかうら大漁市場～境港水產直營中心",
+      "start": "09:13",
+      "end": "09:23",
+      "mode": "開車",
+      "duration": "10分",
+      "sourceRows": [
+        75
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-038-visit-039",
+      "day": 4,
+      "fromVisitId": "visit-038",
+      "toVisitId": "visit-039",
+      "fromPlaceId": "place-028",
+      "toPlaceId": "place-029",
+      "fromTitle": "境港水產直營中心",
+      "toTitle": "御宿 野乃境港 停車",
+      "title": "境港水產直營中心～御宿野乃境港",
+      "start": "09:58",
+      "end": "10:04",
+      "mode": "開車",
+      "duration": "6分",
+      "sourceRows": [
+        77
+      ],
+      "cameraIds": [
+        "sakaiminato-city"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-039-visit-040",
+      "day": 4,
+      "fromVisitId": "visit-039",
+      "toVisitId": "visit-040",
+      "fromPlaceId": "place-029",
+      "toPlaceId": "place-030",
+      "fromTitle": "御宿 野乃境港 停車",
+      "toTitle": "境港市観光案内所 買收集冊",
+      "title": "御宿野乃境港～境港市観光案内所 買收集冊",
+      "start": "10:14",
+      "end": "10:16",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        79
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-040-visit-041",
+      "day": 4,
+      "fromVisitId": "visit-040",
+      "toVisitId": "visit-041",
+      "fromPlaceId": "place-030",
+      "toPlaceId": "place-031",
+      "fromTitle": "境港市観光案内所 買收集冊",
+      "toTitle": "㉟ 鬼太郎妖怪倉庫 (みなとさかい交流館２Ｆ)",
+      "title": "境港市観光案内所 買收集冊～㉟ 鬼太郎妖怪倉庫 (みなとさかい交流館２Ｆ)",
+      "start": "10:26",
+      "end": "10:27",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        81
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-041-visit-042",
+      "day": 4,
+      "fromVisitId": "visit-041",
+      "toVisitId": "visit-042",
+      "fromPlaceId": "place-031",
+      "toPlaceId": "place-032",
+      "fromTitle": "㉟ 鬼太郎妖怪倉庫 (みなとさかい交流館２Ｆ)",
+      "toTitle": "①② 千代むすび 岡空本店",
+      "title": "㉟ 鬼太郎妖怪倉庫 (みなとさかい交流館２Ｆ)～①② 千代むすび 岡空本店",
+      "start": "10:29",
+      "end": "10:33",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        83
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-042-visit-043",
+      "day": 4,
+      "fromVisitId": "visit-042",
+      "toVisitId": "visit-043",
+      "fromPlaceId": "place-032",
+      "toPlaceId": "place-033",
+      "fromTitle": "①② 千代むすび 岡空本店",
+      "toTitle": "③ 鬼太郎はうす",
+      "title": "①② 千代むすび 岡空本店～③ 鬼太郎はうす",
+      "start": "10:35",
+      "end": "10:37",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        85
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-043-visit-044",
+      "day": 4,
+      "fromVisitId": "visit-043",
+      "toVisitId": "visit-044",
+      "fromPlaceId": "place-033",
+      "toPlaceId": "place-034",
+      "fromTitle": "③ 鬼太郎はうす",
+      "toTitle": "④ いけびんストーア",
+      "title": "③ 鬼太郎はうす～④ いけびんストーア",
+      "start": "10:39",
+      "end": "10:41",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        87
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-044-visit-045",
+      "day": 4,
+      "fromVisitId": "visit-044",
+      "toVisitId": "visit-045",
+      "fromPlaceId": "place-034",
+      "toPlaceId": "place-035",
+      "fromTitle": "④ いけびんストーア",
+      "toTitle": "㉚ はまゆう",
+      "title": "④ いけびんストーア～㉚ はまゆう",
+      "start": "10:43",
+      "end": "10:44",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        89
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-045-visit-046",
+      "day": 4,
+      "fromVisitId": "visit-045",
+      "toVisitId": "visit-046",
+      "fromPlaceId": "place-035",
+      "toPlaceId": "place-036",
+      "fromTitle": "㉚ はまゆう",
+      "toTitle": "漁港迴轉壽司 鮨かば EPARK受付/11:00入店目標",
+      "title": "㉚ はまゆう～漁港迴轉壽司 鮨かば EPARK受付/11:00入店目標",
+      "start": "10:46",
+      "end": "10:57",
+      "mode": "步行",
+      "duration": "11分",
+      "sourceRows": [
+        91
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-046-visit-047",
+      "day": 4,
+      "fromVisitId": "visit-046",
+      "toVisitId": "visit-047",
+      "fromPlaceId": "place-036",
+      "toPlaceId": "place-037",
+      "fromTitle": "漁港迴轉壽司 鮨かば EPARK受付/11:00入店目標",
+      "toTitle": "㉑ ゲゲゲの妖怪楽園",
+      "title": "漁港迴轉壽司 鮨かば EPARK受付/11:00入店目標～㉑ ゲゲゲの妖怪楽園",
+      "start": "12:27",
+      "end": "12:30",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        93
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-047-visit-048",
+      "day": 4,
+      "fromVisitId": "visit-047",
+      "toVisitId": "visit-048",
+      "fromPlaceId": "place-037",
+      "toPlaceId": "place-038",
+      "fromTitle": "㉑ ゲゲゲの妖怪楽園",
+      "toTitle": "⑲⑳＋記念館章 水木しげる記念館（不入館／館外可蓋章）",
+      "title": "㉑ ゲゲゲの妖怪楽園～⑲⑳＋記念館章 水木しげる記念館（不入館／館外可蓋章）",
+      "start": "12:50",
+      "end": "12:53",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        95
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-048-visit-049",
+      "day": 4,
+      "fromVisitId": "visit-048",
+      "toVisitId": "visit-049",
+      "fromPlaceId": "place-038",
+      "toPlaceId": "place-039",
+      "fromTitle": "⑲⑳＋記念館章 水木しげる記念館（不入館／館外可蓋章）",
+      "toTitle": "⑱ さかいみなと銀座市場",
+      "title": "⑲⑳＋記念館章 水木しげる記念館（不入館／館外可蓋章）～⑱ さかいみなと銀座市場",
+      "start": "12:57",
+      "end": "12:59",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        97
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-049-visit-050",
+      "day": 4,
+      "fromVisitId": "visit-049",
+      "toVisitId": "visit-050",
+      "fromPlaceId": "place-039",
+      "toPlaceId": "place-040",
+      "fromTitle": "⑱ さかいみなと銀座市場",
+      "toTitle": "妖怪食品研究所",
+      "title": "⑱ さかいみなと銀座市場～妖怪食品研究所",
+      "start": "13:01",
+      "end": "13:03",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        99
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-050-visit-051",
+      "day": 4,
+      "fromVisitId": "visit-050",
+      "toVisitId": "visit-051",
+      "fromPlaceId": "place-040",
+      "toPlaceId": "place-041",
+      "fromTitle": "妖怪食品研究所",
+      "toTitle": "⑰ 八木橋呉服店",
+      "title": "妖怪食品研究所～⑰ 八木橋呉服店",
+      "start": "13:13",
+      "end": "13:14",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        101
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-051-visit-052",
+      "day": 4,
+      "fromVisitId": "visit-051",
+      "toVisitId": "visit-052",
+      "fromPlaceId": "place-041",
+      "toPlaceId": "place-042",
+      "fromTitle": "⑰ 八木橋呉服店",
+      "toTitle": "⑯ かにじまん",
+      "title": "⑰ 八木橋呉服店～⑯ かにじまん",
+      "start": "13:16",
+      "end": "13:17",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        103
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-052-visit-053",
+      "day": 4,
+      "fromVisitId": "visit-052",
+      "toVisitId": "visit-053",
+      "fromPlaceId": "place-042",
+      "toPlaceId": "place-043",
+      "fromTitle": "⑯ かにじまん",
+      "toTitle": "⑮ ゲゲゲのようかい村",
+      "title": "⑯ かにじまん～⑮ ゲゲゲのようかい村",
+      "start": "13:19",
+      "end": "13:20",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        105
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-053-visit-054",
+      "day": 4,
+      "fromVisitId": "visit-053",
+      "toVisitId": "visit-054",
+      "fromPlaceId": "place-043",
+      "toPlaceId": "place-044",
+      "fromTitle": "⑮ ゲゲゲのようかい村",
+      "toTitle": "⑭ 妖菓堂（本町）",
+      "title": "⑮ ゲゲゲのようかい村～⑭ 妖菓堂（本町）",
+      "start": "13:22",
+      "end": "13:23",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        107
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-054-visit-055",
+      "day": 4,
+      "fromVisitId": "visit-054",
+      "toVisitId": "visit-055",
+      "fromPlaceId": "place-044",
+      "toPlaceId": "place-045",
+      "fromTitle": "⑭ 妖菓堂（本町）",
+      "toTitle": "㉒ 妖怪饅頭 総本店",
+      "title": "⑭ 妖菓堂（本町）～㉒ 妖怪饅頭 総本店",
+      "start": "13:25",
+      "end": "13:26",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        109
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-055-visit-056",
+      "day": 4,
+      "fromVisitId": "visit-055",
+      "toVisitId": "visit-056",
+      "fromPlaceId": "place-045",
+      "toPlaceId": "place-046",
+      "fromTitle": "㉒ 妖怪饅頭 総本店",
+      "toTitle": "㉓ もののけ本舗",
+      "title": "㉒ 妖怪饅頭 総本店～㉓ もののけ本舗",
+      "start": "13:36",
+      "end": "13:37",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        111
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-056-visit-057",
+      "day": 4,
+      "fromVisitId": "visit-056",
+      "toVisitId": "visit-057",
+      "fromPlaceId": "place-046",
+      "toPlaceId": "place-047",
+      "fromTitle": "㉓ もののけ本舗",
+      "toTitle": "⑫⑬ 鬼太郎の里 わたなべ",
+      "title": "㉓ もののけ本舗～⑫⑬ 鬼太郎の里 わたなべ",
+      "start": "13:39",
+      "end": "13:41",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        113
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-057-visit-058",
+      "day": 4,
+      "fromVisitId": "visit-057",
+      "toVisitId": "visit-058",
+      "fromPlaceId": "place-047",
+      "toPlaceId": "place-048",
+      "fromTitle": "⑫⑬ 鬼太郎の里 わたなべ",
+      "toTitle": "㉔ ぬりかべ商店",
+      "title": "⑫⑬ 鬼太郎の里 わたなべ～㉔ ぬりかべ商店",
+      "start": "13:43",
+      "end": "13:44",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        115
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-058-visit-059",
+      "day": 4,
+      "fromVisitId": "visit-058",
+      "toVisitId": "visit-059",
+      "fromPlaceId": "place-048",
+      "toPlaceId": "place-049",
+      "fromTitle": "㉔ ぬりかべ商店",
+      "toTitle": "㉕ 辰巳屋商店",
+      "title": "㉔ ぬりかべ商店～㉕ 辰巳屋商店",
+      "start": "13:46",
+      "end": "13:47",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        117
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-059-visit-060",
+      "day": 4,
+      "fromVisitId": "visit-059",
+      "toVisitId": "visit-060",
+      "fromPlaceId": "place-049",
+      "toPlaceId": "place-050",
+      "fromTitle": "㉕ 辰巳屋商店",
+      "toTitle": "⑪ 柏木商会",
+      "title": "㉕ 辰巳屋商店～⑪ 柏木商会",
+      "start": "13:49",
+      "end": "13:50",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        119
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-060-visit-061",
+      "day": 4,
+      "fromVisitId": "visit-060",
+      "toVisitId": "visit-061",
+      "fromPlaceId": "place-050",
+      "toPlaceId": "place-051",
+      "fromTitle": "⑪ 柏木商会",
+      "toTitle": "⑩ 妖菓堂（松ヶ枝町）",
+      "title": "⑪ 柏木商会～⑩ 妖菓堂（松ヶ枝町）",
+      "start": "13:52",
+      "end": "13:53",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        121
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-061-visit-062",
+      "day": 4,
+      "fromVisitId": "visit-061",
+      "toVisitId": "visit-062",
+      "fromPlaceId": "place-051",
+      "toPlaceId": "place-052",
+      "fromTitle": "⑩ 妖菓堂（松ヶ枝町）",
+      "toTitle": "㉖㉗ ぱど妖",
+      "title": "⑩ 妖菓堂（松ヶ枝町）～㉖㉗ ぱど妖",
+      "start": "14:03",
+      "end": "14:04",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        123
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-062-visit-063",
+      "day": 4,
+      "fromVisitId": "visit-062",
+      "toVisitId": "visit-063",
+      "fromPlaceId": "place-052",
+      "toPlaceId": "place-053",
+      "fromTitle": "㉖㉗ ぱど妖",
+      "toTitle": "㉘ ウインドショップ とだ",
+      "title": "㉖㉗ ぱど妖～㉘ ウインドショップ とだ",
+      "start": "14:06",
+      "end": "14:07",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        125
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-063-visit-064",
+      "day": 4,
+      "fromVisitId": "visit-063",
+      "toVisitId": "visit-064",
+      "fromPlaceId": "place-053",
+      "toPlaceId": "place-054",
+      "fromTitle": "㉘ ウインドショップ とだ",
+      "toTitle": "⑦⑧ 妖怪がまぐち",
+      "title": "㉘ ウインドショップ とだ～⑦⑧ 妖怪がまぐち",
+      "start": "14:09",
+      "end": "14:10",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        127
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-064-visit-065",
+      "day": 4,
+      "fromVisitId": "visit-064",
+      "toVisitId": "visit-065",
+      "fromPlaceId": "place-054",
+      "toPlaceId": "place-055",
+      "fromTitle": "⑦⑧ 妖怪がまぐち",
+      "toTitle": "⑨ 黄金カフェ",
+      "title": "⑦⑧ 妖怪がまぐち～⑨ 黄金カフェ",
+      "start": "14:20",
+      "end": "14:21",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        129
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-065-visit-066",
+      "day": 4,
+      "fromVisitId": "visit-065",
+      "toVisitId": "visit-066",
+      "fromPlaceId": "place-055",
+      "toPlaceId": "place-056",
+      "fromTitle": "⑨ 黄金カフェ",
+      "toTitle": "妖怪工房 手作明信片",
+      "title": "⑨ 黄金カフェ～妖怪工房 手作明信片",
+      "start": "14:23",
+      "end": "14:24",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        131
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-066-visit-067",
+      "day": 4,
+      "fromVisitId": "visit-066",
+      "toVisitId": "visit-067",
+      "fromPlaceId": "place-056",
+      "toPlaceId": "place-057",
+      "fromTitle": "妖怪工房 手作明信片",
+      "toTitle": "⑥ 千代むすび 大正橋店",
+      "title": "妖怪工房 手作明信片～⑥ 千代むすび 大正橋店",
+      "start": "14:49",
+      "end": "14:50",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        133
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-067-visit-068",
+      "day": 4,
+      "fromVisitId": "visit-067",
+      "toVisitId": "visit-068",
+      "fromPlaceId": "place-057",
+      "toPlaceId": "place-058",
+      "fromTitle": "⑥ 千代むすび 大正橋店",
+      "toTitle": "⑤ じげの物産館",
+      "title": "⑥ 千代むすび 大正橋店～⑤ じげの物産館",
+      "start": "14:52",
+      "end": "14:53",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        135
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-068-visit-069",
+      "day": 4,
+      "fromVisitId": "visit-068",
+      "toVisitId": "visit-069",
+      "fromPlaceId": "place-058",
+      "toPlaceId": "place-059",
+      "fromTitle": "⑤ じげの物産館",
+      "toTitle": "㉙ 苺一縁",
+      "title": "⑤ じげの物産館～㉙ 苺一縁",
+      "start": "14:55",
+      "end": "14:57",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        137
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-069-visit-070",
+      "day": 4,
+      "fromVisitId": "visit-069",
+      "toVisitId": "visit-070",
+      "fromPlaceId": "place-059",
+      "toPlaceId": "place-060",
+      "fromTitle": "㉙ 苺一縁",
+      "toTitle": "㉛ むじゃら",
+      "title": "㉙ 苺一縁～㉛ むじゃら",
+      "start": "15:17",
+      "end": "15:19",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        139
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-070-visit-071",
+      "day": 4,
+      "fromVisitId": "visit-070",
+      "toVisitId": "visit-071",
+      "fromPlaceId": "place-060",
+      "toPlaceId": "place-061",
+      "fromTitle": "㉛ むじゃら",
+      "toTitle": "妖怪神社",
+      "title": "㉛ むじゃら～妖怪神社",
+      "start": "15:29",
+      "end": "15:30",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        141
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-071-visit-072",
+      "day": 4,
+      "fromVisitId": "visit-071",
+      "toVisitId": "visit-072",
+      "fromPlaceId": "place-061",
+      "toPlaceId": "place-062",
+      "fromTitle": "妖怪神社",
+      "toTitle": "㉜ 三平茶屋",
+      "title": "妖怪神社～㉜ 三平茶屋",
+      "start": "15:40",
+      "end": "15:42",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        143
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-072-visit-073",
+      "day": 4,
+      "fromVisitId": "visit-072",
+      "toVisitId": "visit-073",
+      "fromPlaceId": "place-062",
+      "toPlaceId": "place-063",
+      "fromTitle": "㉜ 三平茶屋",
+      "toTitle": "妖怪廣場",
+      "title": "㉜ 三平茶屋～妖怪廣場",
+      "start": "15:44",
+      "end": "15:45",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        145
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-073-visit-074",
+      "day": 4,
+      "fromVisitId": "visit-073",
+      "toVisitId": "visit-074",
+      "fromPlaceId": "place-063",
+      "toPlaceId": "place-064",
+      "fromTitle": "妖怪廣場",
+      "toTitle": "㉝ 元気亭。",
+      "title": "妖怪廣場～㉝ 元気亭。",
+      "start": "15:55",
+      "end": "15:57",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        147
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-074-visit-075",
+      "day": 4,
+      "fromVisitId": "visit-074",
+      "toVisitId": "visit-075",
+      "fromPlaceId": "place-064",
+      "toPlaceId": "place-065",
+      "fromTitle": "㉝ 元気亭。",
+      "toTitle": "㉞ 鬼太郎交番",
+      "title": "㉝ 元気亭。～㉞ 鬼太郎交番",
+      "start": "15:59",
+      "end": "16:02",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        149
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-075-visit-076",
+      "day": 4,
+      "fromVisitId": "visit-075",
+      "toVisitId": "visit-076",
+      "fromPlaceId": "place-065",
+      "toPlaceId": "place-030",
+      "fromTitle": "㉞ 鬼太郎交番",
+      "toTitle": "境港市観光案内所 換獎勵",
+      "title": "㉞ 鬼太郎交番～境港市観光案内所 買收集冊",
+      "start": "16:04",
+      "end": "16:05",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        151
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-076-visit-077",
+      "day": 4,
+      "fromVisitId": "visit-076",
+      "toVisitId": "visit-077",
+      "fromPlaceId": "place-030",
+      "toPlaceId": "place-029",
+      "fromTitle": "境港市観光案内所 換獎勵",
+      "toTitle": "御宿 野乃境港 入住",
+      "title": "境港市観光案内所 買收集冊～御宿野乃境港",
+      "start": "16:15",
+      "end": "16:17",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        153
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-077-visit-078",
+      "day": 4,
+      "fromVisitId": "visit-077",
+      "toVisitId": "visit-078",
+      "fromPlaceId": "place-029",
+      "toPlaceId": "place-066",
+      "fromTitle": "御宿 野乃境港 入住",
+      "toTitle": "お好み焼き古都 廣島燒",
+      "title": "御宿野乃境港～お好み焼き古都 廣島燒",
+      "start": "16:47",
+      "end": "16:54",
+      "mode": "步行",
+      "duration": "7分",
+      "sourceRows": [
+        155
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-078-visit-079",
+      "day": 4,
+      "fromVisitId": "visit-078",
+      "toVisitId": "visit-079",
+      "fromPlaceId": "place-066",
+      "toPlaceId": "place-067",
+      "fromTitle": "お好み焼き古都 廣島燒",
+      "toTitle": "MARUGO 超市",
+      "title": "お好み焼き古都 廣島燒～MARUGO 超市",
+      "start": "18:04",
+      "end": "18:12",
+      "mode": "步行",
+      "duration": "8分",
+      "sourceRows": [
+        157
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-079-visit-080",
+      "day": 4,
+      "fromVisitId": "visit-079",
+      "toVisitId": "visit-080",
+      "fromPlaceId": "place-067",
+      "toPlaceId": "place-068",
+      "fromTitle": "MARUGO 超市",
+      "toTitle": "境港車站 蓋JR紀念章",
+      "title": "MARUGO 超市～境港車站 蓋JR紀念章",
+      "start": "18:42",
+      "end": "18:45",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        159
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-080-visit-081",
+      "day": 4,
+      "fromVisitId": "visit-080",
+      "toVisitId": "visit-081",
+      "fromPlaceId": "place-068",
+      "toPlaceId": "place-029",
+      "fromTitle": "境港車站 蓋JR紀念章",
+      "toTitle": "御宿 野乃境港 睡覺",
+      "title": "境港車站 蓋JR紀念章～御宿野乃境港",
+      "start": "19:05",
+      "end": "19:07",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        161
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-082-visit-083",
+      "day": 5,
+      "fromVisitId": "visit-082",
+      "toVisitId": "visit-083",
+      "fromPlaceId": "place-029",
+      "toPlaceId": "place-069",
+      "fromTitle": "御宿 野乃境港 出發",
+      "toTitle": "寿物産 旁停車點",
+      "title": "御宿野乃境港～寿物産停車點",
+      "start": "08:00",
+      "end": "08:23",
+      "mode": "開車",
+      "duration": "23分",
+      "sourceRows": [
+        165
+      ],
+      "cameraIds": [
+        "sakaiminato-city"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-083-visit-084",
+      "day": 5,
+      "fromVisitId": "visit-083",
+      "toVisitId": "visit-084",
+      "fromPlaceId": "place-069",
+      "toPlaceId": "place-070",
+      "fromTitle": "寿物産 旁停車點",
+      "toTitle": "全家便利商店 江島大橋店",
+      "title": "寿物産停車點～全家江島大橋店",
+      "start": "08:43",
+      "end": "08:48",
+      "mode": "開車",
+      "duration": "5分",
+      "sourceRows": [
+        167
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-084-visit-085",
+      "day": 5,
+      "fromVisitId": "visit-084",
+      "toVisitId": "visit-085",
+      "fromPlaceId": "place-070",
+      "toPlaceId": "place-071",
+      "fromTitle": "全家便利商店 江島大橋店",
+      "toTitle": "天満屋前（停車）",
+      "title": "全家江島大橋店～天滿屋停車區",
+      "start": "09:08",
+      "end": "09:54",
+      "mode": "開車",
+      "duration": "46分",
+      "sourceRows": [
+        169
+      ],
+      "cameraIds": [
+        "navi-220",
+        "navi-223",
+        "navi-224"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-085-visit-086",
+      "day": 5,
+      "fromVisitId": "visit-085",
+      "toVisitId": "visit-086",
+      "fromPlaceId": "place-071",
+      "toPlaceId": "place-072",
+      "fromTitle": "天満屋前（停車）",
+      "toTitle": "ザキッズ 米子しんまち天満屋店 遊樂場",
+      "title": "天滿屋停車區～ザキッズ 米子しんまち天満屋店 遊樂場",
+      "start": "10:04",
+      "end": "10:06",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        171
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-086-visit-087",
+      "day": 5,
+      "fromVisitId": "visit-086",
+      "toVisitId": "visit-087",
+      "fromPlaceId": "place-072",
+      "toPlaceId": "place-073",
+      "fromTitle": "ザキッズ 米子しんまち天満屋店 遊樂場",
+      "toTitle": "ガチャ専門店 TOYS SPOT PALO 扭蛋店",
+      "title": "ザキッズ 米子しんまち天満屋店 遊樂場～ガチャ専門店 TOYS SPOT PALO 扭蛋店",
+      "start": "12:06",
+      "end": "12:08",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        173
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-087-visit-088",
+      "day": 5,
+      "fromVisitId": "visit-087",
+      "toVisitId": "visit-088",
+      "fromPlaceId": "place-073",
+      "toPlaceId": "place-074",
+      "fromTitle": "ガチャ専門店 TOYS SPOT PALO 扭蛋店",
+      "toTitle": "Seria",
+      "title": "ガチャ専門店 TOYS SPOT PALO 扭蛋店～Seria",
+      "start": "12:18",
+      "end": "12:21",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        175
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-088-visit-089",
+      "day": 5,
+      "fromVisitId": "visit-088",
+      "toVisitId": "visit-089",
+      "fromPlaceId": "place-074",
+      "toPlaceId": "place-075",
+      "fromTitle": "Seria",
+      "toTitle": "米子LOFT",
+      "title": "Seria～米子LOFT",
+      "start": "12:26",
+      "end": "12:29",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        177
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-089-visit-090",
+      "day": 5,
+      "fromVisitId": "visit-089",
+      "toVisitId": "visit-090",
+      "fromPlaceId": "place-075",
+      "toPlaceId": "place-076",
+      "fromTitle": "米子LOFT",
+      "toTitle": "今を粋ろ 米子店 午餐分流",
+      "title": "米子LOFT～今を粋ろ 米子店 午餐分流",
+      "start": "12:34",
+      "end": "12:40",
+      "mode": "步行",
+      "duration": "6分",
+      "sourceRows": [
+        179
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-090-visit-091",
+      "day": 5,
+      "fromVisitId": "visit-090",
+      "toVisitId": "visit-091",
+      "fromPlaceId": "place-076",
+      "toPlaceId": "place-077",
+      "fromTitle": "今を粋ろ 米子店 午餐分流",
+      "toTitle": "すき家Sukiya 米子中央店 午餐分流",
+      "title": "今を粋ろ 米子店 午餐分流～すき家Sukiya 米子中央店 午餐分流",
+      "start": "12:40",
+      "end": "12:42",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        181
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-091-visit-092",
+      "day": 5,
+      "fromVisitId": "visit-091",
+      "toVisitId": "visit-092",
+      "fromPlaceId": "place-077",
+      "toPlaceId": "place-071",
+      "fromTitle": "すき家Sukiya 米子中央店 午餐分流",
+      "toTitle": "天満屋前（取車）",
+      "title": "すき家Sukiya 米子中央店 午餐分流～天滿屋停車區",
+      "start": "13:32",
+      "end": "13:35",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        183
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-092-visit-093",
+      "day": 5,
+      "fromVisitId": "visit-092",
+      "toVisitId": "visit-093",
+      "fromPlaceId": "place-071",
+      "toPlaceId": "place-078",
+      "fromTitle": "天満屋前（取車）",
+      "toTitle": "もち吉 米子店 米果店",
+      "title": "天滿屋停車區～もち吉米子店",
+      "start": "13:40",
+      "end": "13:46",
+      "mode": "開車",
+      "duration": "6分",
+      "sourceRows": [
+        185
+      ],
+      "cameraIds": [
+        "navi-224"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-093-visit-094",
+      "day": 5,
+      "fromVisitId": "visit-093",
+      "toVisitId": "visit-094",
+      "fromPlaceId": "place-078",
+      "toPlaceId": "place-079",
+      "fromTitle": "もち吉 米子店 米果店",
+      "toTitle": "UNIQLO 米子新開店",
+      "title": "もち吉米子店～UNIQLO 米子新開店",
+      "start": "14:06",
+      "end": "14:10",
+      "mode": "開車",
+      "duration": "4分",
+      "sourceRows": [
+        187
+      ],
+      "cameraIds": [
+        "navi-223"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-094-visit-095",
+      "day": 5,
+      "fromVisitId": "visit-094",
+      "toVisitId": "visit-095",
+      "fromPlaceId": "place-079",
+      "toPlaceId": "place-080",
+      "fromTitle": "UNIQLO 米子新開店",
+      "toTitle": "湯ノ塩 銅鑼燒 外帶",
+      "title": "UNIQLO 米子新開店～湯ノ塩",
+      "start": "14:40",
+      "end": "14:46",
+      "mode": "開車",
+      "duration": "6分",
+      "sourceRows": [
+        189
+      ],
+      "cameraIds": [
+        "navi-223"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-095-visit-096",
+      "day": 5,
+      "fromVisitId": "visit-095",
+      "toVisitId": "visit-096",
+      "fromPlaceId": "place-080",
+      "toPlaceId": "place-081",
+      "fromTitle": "湯ノ塩 銅鑼燒 外帶",
+      "toTitle": "皆生溫泉 海の四季 入住",
+      "title": "湯ノ塩～皆生溫泉海の四季",
+      "start": "15:06",
+      "end": "15:08",
+      "mode": "開車",
+      "duration": "2分",
+      "sourceRows": [
+        191
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-096-visit-097",
+      "day": 5,
+      "fromVisitId": "visit-096",
+      "toVisitId": "visit-097",
+      "fromPlaceId": "place-081",
+      "toPlaceId": "place-082",
+      "fromTitle": "皆生溫泉 海の四季 入住",
+      "toTitle": "RESTAURANT レンガ屋 洋食",
+      "title": "皆生溫泉海の四季～RESTAURANT レンガ屋",
+      "start": "17:08",
+      "end": "17:13",
+      "mode": "開車",
+      "duration": "5分",
+      "sourceRows": [
+        193
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-097-visit-098",
+      "day": 5,
+      "fromVisitId": "visit-097",
+      "toVisitId": "visit-098",
+      "fromPlaceId": "place-082",
+      "toPlaceId": "place-083",
+      "fromTitle": "RESTAURANT レンガ屋 洋食",
+      "toTitle": "LAMU 米子北店 超市補給",
+      "title": "RESTAURANT レンガ屋～LAMU 米子北店",
+      "start": "18:33",
+      "end": "18:44",
+      "mode": "開車",
+      "duration": "11分",
+      "sourceRows": [
+        195
+      ],
+      "cameraIds": [
+        "navi-223"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-098-visit-099",
+      "day": 5,
+      "fromVisitId": "visit-098",
+      "toVisitId": "visit-099",
+      "fromPlaceId": "place-083",
+      "toPlaceId": "place-081",
+      "fromTitle": "LAMU 米子北店 超市補給",
+      "toTitle": "皆生溫泉 海の四季 睡覺",
+      "title": "LAMU 米子北店～皆生溫泉海の四季",
+      "start": "19:24",
+      "end": "19:33",
+      "mode": "開車",
+      "duration": "9分",
+      "sourceRows": [
+        197
+      ],
+      "cameraIds": [
+        "navi-223"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-100-visit-101",
+      "day": 6,
+      "fromVisitId": "visit-100",
+      "toVisitId": "visit-101",
+      "fromPlaceId": "place-081",
+      "toPlaceId": "place-084",
+      "fromTitle": "皆生溫泉 海の四季",
+      "toTitle": "大山参道ホテル頂 停車",
+      "title": "皆生溫泉海の四季～大山参道ホテル頂",
+      "start": "09:30",
+      "end": "10:15",
+      "mode": "開車",
+      "duration": "45分",
+      "sourceRows": [
+        201
+      ],
+      "cameraIds": [
+        "navi-223",
+        "makihara-road-24",
+        "daisenji-road-158"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-101-visit-102",
+      "day": 6,
+      "fromVisitId": "visit-101",
+      "toVisitId": "visit-102",
+      "fromPlaceId": "place-084",
+      "toPlaceId": "place-085",
+      "fromTitle": "大山参道ホテル頂 停車",
+      "toTitle": "大山寺(穿冰爪)",
+      "title": "大山参道ホテル頂～大山寺",
+      "start": "10:25",
+      "end": "10:39",
+      "mode": "步行",
+      "duration": "14分",
+      "sourceRows": [
+        203
+      ],
+      "cameraIds": [
+        "daisenji-road-158"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-102-visit-103",
+      "day": 6,
+      "fromVisitId": "visit-102",
+      "toVisitId": "visit-103",
+      "fromPlaceId": "place-085",
+      "toPlaceId": "place-086",
+      "fromTitle": "大山寺(穿冰爪)",
+      "toTitle": "大山参道市場(午餐)",
+      "title": "大山寺～大山参道市場(午餐)",
+      "start": "10:59",
+      "end": "11:06",
+      "mode": "步行",
+      "duration": "7分",
+      "sourceRows": [
+        205
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-103-visit-104",
+      "day": 6,
+      "fromVisitId": "visit-103",
+      "toVisitId": "visit-104",
+      "fromPlaceId": "place-086",
+      "toPlaceId": "place-087",
+      "fromTitle": "大山参道市場(午餐)",
+      "toTitle": "大神山神社奧宮(穿冰爪)",
+      "title": "大山参道市場(午餐)～大神山神社奧宮(穿冰爪)",
+      "start": "12:06",
+      "end": "12:36",
+      "mode": "步行",
+      "duration": "30分",
+      "sourceRows": [
+        207
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-104-visit-105",
+      "day": 6,
+      "fromVisitId": "visit-104",
+      "toVisitId": "visit-105",
+      "fromPlaceId": "place-087",
+      "toPlaceId": "place-088",
+      "fromTitle": "大神山神社奧宮(穿冰爪)",
+      "toTitle": "大山寺 下山観音堂",
+      "title": "大神山神社奧宮(穿冰爪)～大山寺 下山観音堂",
+      "start": "12:56",
+      "end": "13:14",
+      "mode": "步行",
+      "duration": "18分",
+      "sourceRows": [
+        209
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-105-visit-106",
+      "day": 6,
+      "fromVisitId": "visit-105",
+      "toVisitId": "visit-106",
+      "fromPlaceId": "place-088",
+      "toPlaceId": "place-089",
+      "fromTitle": "大山寺 下山観音堂",
+      "toTitle": "角磐山大山寺仁王門",
+      "title": "大山寺 下山観音堂～角磐山大山寺仁王門",
+      "start": "13:19",
+      "end": "13:21",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        211
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-106-visit-107",
+      "day": 6,
+      "fromVisitId": "visit-106",
+      "toVisitId": "visit-107",
+      "fromPlaceId": "place-089",
+      "toPlaceId": "place-086",
+      "fromTitle": "角磐山大山寺仁王門",
+      "toTitle": "大山参道市場 下午茶",
+      "title": "角磐山大山寺仁王門～大山参道市場(午餐)",
+      "start": "13:26",
+      "end": "13:31",
+      "mode": "步行",
+      "duration": "5分",
+      "sourceRows": [
+        213
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-107-visit-108",
+      "day": 6,
+      "fromVisitId": "visit-107",
+      "toVisitId": "visit-108",
+      "fromPlaceId": "place-086",
+      "toPlaceId": "place-090",
+      "fromTitle": "大山参道市場 下午茶",
+      "toTitle": "Montbell",
+      "title": "大山参道市場(午餐)～Montbell",
+      "start": "14:31",
+      "end": "14:33",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        215
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-108-visit-109",
+      "day": 6,
+      "fromVisitId": "visit-108",
+      "toVisitId": "visit-109",
+      "fromPlaceId": "place-090",
+      "toPlaceId": "place-091",
+      "fromTitle": "Montbell",
+      "toTitle": "大山寺橋 拍照",
+      "title": "Montbell～大山寺橋",
+      "start": "15:03",
+      "end": "15:04",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        217
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-109-visit-110",
+      "day": 6,
+      "fromVisitId": "visit-109",
+      "toVisitId": "visit-110",
+      "fromPlaceId": "place-091",
+      "toPlaceId": "place-092",
+      "fromTitle": "大山寺橋 拍照",
+      "toTitle": "鳥取県立大山自然歴史館 室內 buffer",
+      "title": "大山寺橋～大山自然歷史館",
+      "start": "15:14",
+      "end": "15:19",
+      "mode": "步行",
+      "duration": "5分",
+      "sourceRows": [
+        219
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-110-visit-111",
+      "day": 6,
+      "fromVisitId": "visit-110",
+      "toVisitId": "visit-111",
+      "fromPlaceId": "place-092",
+      "toPlaceId": "place-093",
+      "fromTitle": "鳥取県立大山自然歴史館 室內 buffer",
+      "toTitle": "大山遊客中心 室內 buffer",
+      "title": "大山自然歷史館～大山遊客中心 室內 buffer",
+      "start": "15:39",
+      "end": "15:40",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        221
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-111-visit-112",
+      "day": 6,
+      "fromVisitId": "visit-111",
+      "toVisitId": "visit-112",
+      "fromPlaceId": "place-093",
+      "toPlaceId": "place-084",
+      "fromTitle": "大山遊客中心 室內 buffer",
+      "toTitle": "大山参道ホテル頂 入住",
+      "title": "大山遊客中心 室內 buffer～大山参道ホテル頂",
+      "start": "15:55",
+      "end": "15:58",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        223
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-112-visit-113",
+      "day": 6,
+      "fromVisitId": "visit-112",
+      "toVisitId": "visit-113",
+      "fromPlaceId": "place-084",
+      "toPlaceId": "place-094",
+      "fromTitle": "大山参道ホテル頂 入住",
+      "toTitle": "綠莊 晚餐",
+      "title": "大山参道ホテル頂～綠莊 晚餐",
+      "start": "17:53",
+      "end": "17:57",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        225
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-113-visit-114",
+      "day": 6,
+      "fromVisitId": "visit-113",
+      "toVisitId": "visit-114",
+      "fromPlaceId": "place-094",
+      "toPlaceId": "place-084",
+      "fromTitle": "綠莊 晚餐",
+      "toTitle": "大山参道ホテル頂 睡覺",
+      "title": "綠莊 晚餐～大山参道ホテル頂",
+      "start": "19:27",
+      "end": "19:31",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        227
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-115-visit-116",
+      "day": 7,
+      "fromVisitId": "visit-115",
+      "toVisitId": "visit-116",
+      "fromPlaceId": "place-084",
+      "toPlaceId": "place-095",
+      "fromTitle": "大山参道ホテル頂 出發",
+      "toTitle": "道の駅 大栄 停車",
+      "title": "大山参道ホテル頂～道之驛大栄",
+      "start": "08:50",
+      "end": "09:52",
+      "mode": "開車",
+      "duration": "62分",
+      "sourceRows": [
+        231
+      ],
+      "cameraIds": [
+        "makihara-road-24",
+        "daisenji-road-158",
+        "sanindo-nawa-maintenance"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-116-visit-117",
+      "day": 7,
+      "fromVisitId": "visit-116",
+      "toVisitId": "visit-117",
+      "fromPlaceId": "place-095",
+      "toPlaceId": "place-096",
+      "fromTitle": "道の駅 大栄 停車",
+      "toTitle": "青山剛昌故鄉館 柯南小鎮 拍照不進館",
+      "title": "道之驛大栄～青山剛昌故鄉館 柯南小鎮 拍照不進館",
+      "start": "10:12",
+      "end": "10:14",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        233
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-117-visit-118",
+      "day": 7,
+      "fromVisitId": "visit-117",
+      "toVisitId": "visit-118",
+      "fromPlaceId": "place-096",
+      "toPlaceId": "place-097",
+      "fromTitle": "青山剛昌故鄉館 柯南小鎮 拍照不進館",
+      "toTitle": "柯南之家 米花商店街",
+      "title": "青山剛昌故鄉館 柯南小鎮 拍照不進館～柯南之家 米花商店街",
+      "start": "10:24",
+      "end": "10:37",
+      "mode": "步行",
+      "duration": "13分",
+      "sourceRows": [
+        235
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-118-visit-119",
+      "day": 7,
+      "fromVisitId": "visit-118",
+      "toVisitId": "visit-119",
+      "fromPlaceId": "place-097",
+      "toPlaceId": "place-095",
+      "fromTitle": "柯南之家 米花商店街",
+      "toTitle": "道の駅 大栄 取車",
+      "title": "柯南之家 米花商店街～道之驛大栄",
+      "start": "10:47",
+      "end": "10:59",
+      "mode": "步行",
+      "duration": "12分",
+      "sourceRows": [
+        237
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-119-visit-120",
+      "day": 7,
+      "fromVisitId": "visit-119",
+      "toVisitId": "visit-120",
+      "fromPlaceId": "place-095",
+      "toPlaceId": "place-098",
+      "fromTitle": "道の駅 大栄 取車",
+      "toTitle": "とりどりベーカリー 麵包店 11/13點出爐",
+      "title": "道之驛大栄～とりどりベーカリー",
+      "start": "11:04",
+      "end": "11:13",
+      "mode": "開車",
+      "duration": "9分",
+      "sourceRows": [
+        239
+      ],
+      "cameraIds": [
+        "navi-024"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-120-visit-121",
+      "day": 7,
+      "fromVisitId": "visit-120",
+      "toVisitId": "visit-121",
+      "fromPlaceId": "place-098",
+      "toPlaceId": "place-099",
+      "fromTitle": "とりどりベーカリー 麵包店 11/13點出爐",
+      "toTitle": "道の駅 ほうじょう 購物室內遊樂區",
+      "title": "とりどりベーカリー～道之驛北條",
+      "start": "11:43",
+      "end": "11:44",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        241
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-121-visit-122",
+      "day": 7,
+      "fromVisitId": "visit-121",
+      "toVisitId": "visit-122",
+      "fromPlaceId": "place-099",
+      "toPlaceId": "place-100",
+      "fromTitle": "道の駅 ほうじょう 購物室內遊樂區",
+      "toTitle": "琴桜・赤瓦観光駐車場 停車",
+      "title": "道之驛北條～倉吉赤瓦觀光停車場",
+      "start": "12:24",
+      "end": "12:46",
+      "mode": "開車",
+      "duration": "22分",
+      "sourceRows": [
+        243
+      ],
+      "cameraIds": [
+        "navi-050",
+        "navi-205"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-122-visit-123",
+      "day": 7,
+      "fromVisitId": "visit-122",
+      "toVisitId": "visit-123",
+      "fromPlaceId": "place-100",
+      "toPlaceId": "place-101",
+      "fromTitle": "琴桜・赤瓦観光駐車場 停車",
+      "toTitle": "赤瓦五号館 久楽 咖啡店 外帶",
+      "title": "倉吉赤瓦觀光停車場～赤瓦五号館 久楽 咖啡店 外帶",
+      "start": "12:56",
+      "end": "12:59",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        245
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-123-visit-124",
+      "day": 7,
+      "fromVisitId": "visit-123",
+      "toVisitId": "visit-124",
+      "fromPlaceId": "place-101",
+      "toPlaceId": "place-102",
+      "fromTitle": "赤瓦五号館 久楽 咖啡店 外帶",
+      "toTitle": "倉吉白壁土藏群",
+      "title": "赤瓦五号館 久楽 咖啡店 外帶～倉吉白壁土藏群",
+      "start": "13:14",
+      "end": "13:15",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        247
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-124-visit-125",
+      "day": 7,
+      "fromVisitId": "visit-124",
+      "toVisitId": "visit-125",
+      "fromPlaceId": "place-102",
+      "toPlaceId": "place-103",
+      "fromTitle": "倉吉白壁土藏群",
+      "toTitle": "赤瓦一號館 買赤瓦餅乾",
+      "title": "倉吉白壁土藏群～赤瓦一號館 買赤瓦餅乾",
+      "start": "13:35",
+      "end": "13:37",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        249
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-125-visit-126",
+      "day": 7,
+      "fromVisitId": "visit-125",
+      "toVisitId": "visit-126",
+      "fromPlaceId": "place-103",
+      "toPlaceId": "place-104",
+      "fromTitle": "赤瓦一號館 買赤瓦餅乾",
+      "toTitle": "米澤鯛魚燒店 章魚燒",
+      "title": "赤瓦一號館 買赤瓦餅乾～米澤鯛魚燒店 章魚燒",
+      "start": "13:52",
+      "end": "13:56",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        251
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-126-visit-127",
+      "day": 7,
+      "fromVisitId": "visit-126",
+      "toVisitId": "visit-127",
+      "fromPlaceId": "place-104",
+      "toPlaceId": "place-105",
+      "fromTitle": "米澤鯛魚燒店 章魚燒",
+      "toTitle": "打吹公園だんご 糰子店",
+      "title": "米澤鯛魚燒店 章魚燒～打吹公園だんご 糰子店",
+      "start": "14:16",
+      "end": "14:20",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        253
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-127-visit-128",
+      "day": 7,
+      "fromVisitId": "visit-127",
+      "toVisitId": "visit-128",
+      "fromPlaceId": "place-105",
+      "toPlaceId": "place-100",
+      "fromTitle": "打吹公園だんご 糰子店",
+      "toTitle": "琴桜・赤瓦観光駐車場 取車",
+      "title": "打吹公園だんご 糰子店～倉吉赤瓦觀光停車場",
+      "start": "14:35",
+      "end": "14:37",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        255
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-128-visit-129",
+      "day": 7,
+      "fromVisitId": "visit-128",
+      "toVisitId": "visit-129",
+      "fromPlaceId": "place-100",
+      "toPlaceId": "place-106",
+      "fromTitle": "琴桜・赤瓦観光駐車場 取車",
+      "toTitle": "Lawson 三朝溫泉店",
+      "title": "倉吉赤瓦觀光停車場～Lawson 三朝溫泉店",
+      "start": "14:42",
+      "end": "14:59",
+      "mode": "開車",
+      "duration": "17分",
+      "sourceRows": [
+        257
+      ],
+      "cameraIds": [
+        "kurayoshi-road",
+        "misasa-road"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-129-visit-130",
+      "day": 7,
+      "fromVisitId": "visit-129",
+      "toVisitId": "visit-130",
+      "fromPlaceId": "place-106",
+      "toPlaceId": "place-107",
+      "fromTitle": "Lawson 三朝溫泉店",
+      "toTitle": "三朝温泉 萬翠樓 停車 入住",
+      "title": "Lawson 三朝溫泉店～三朝溫泉萬翠樓",
+      "start": "15:14",
+      "end": "15:20",
+      "mode": "開車",
+      "duration": "6分",
+      "sourceRows": [
+        259
+      ],
+      "cameraIds": [
+        "misasa-road"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-130-visit-131",
+      "day": 7,
+      "fromVisitId": "visit-130",
+      "toVisitId": "visit-131",
+      "fromPlaceId": "place-107",
+      "toPlaceId": "place-108",
+      "fromTitle": "三朝温泉 萬翠樓 停車 入住",
+      "toTitle": "三朝優格 三朝ヨーグルト",
+      "title": "三朝溫泉萬翠樓～三朝優格 三朝ヨーグルト",
+      "start": "15:40",
+      "end": "15:43",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        261
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-131-visit-132",
+      "day": 7,
+      "fromVisitId": "visit-131",
+      "toVisitId": "visit-132",
+      "fromPlaceId": "place-108",
+      "toPlaceId": "place-107",
+      "fromTitle": "三朝優格 三朝ヨーグルト",
+      "toTitle": "三朝温泉 萬翠樓 放優格 休息",
+      "title": "三朝優格 三朝ヨーグルト～三朝溫泉萬翠樓",
+      "start": "16:13",
+      "end": "16:16",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        263
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-132-visit-133",
+      "day": 7,
+      "fromVisitId": "visit-132",
+      "toVisitId": "visit-133",
+      "fromPlaceId": "place-107",
+      "toPlaceId": "place-109",
+      "fromTitle": "三朝温泉 萬翠樓 放優格 休息",
+      "toTitle": "三朝橋 溫泉街 散步",
+      "title": "三朝溫泉萬翠樓～三朝橋 溫泉街 散步",
+      "start": "16:46",
+      "end": "16:48",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        265
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-133-visit-134",
+      "day": 7,
+      "fromVisitId": "visit-133",
+      "toVisitId": "visit-134",
+      "fromPlaceId": "place-109",
+      "toPlaceId": "place-110",
+      "fromTitle": "三朝橋 溫泉街 散步",
+      "toTitle": "みささの味処 縁がわ 拉麵",
+      "title": "三朝橋 溫泉街 散步～みささの味処 縁がわ 拉麵",
+      "start": "17:18",
+      "end": "17:21",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        267
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-134-visit-135",
+      "day": 7,
+      "fromVisitId": "visit-134",
+      "toVisitId": "visit-135",
+      "fromPlaceId": "place-110",
+      "toPlaceId": "place-107",
+      "fromTitle": "みささの味処 縁がわ 拉麵",
+      "toTitle": "三朝温泉旅館 萬翠樓 睡覺",
+      "title": "みささの味処 縁がわ 拉麵～三朝溫泉萬翠樓",
+      "start": "18:21",
+      "end": "18:25",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        269
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-136-visit-137",
+      "day": 8,
+      "fromVisitId": "visit-136",
+      "toVisitId": "visit-137",
+      "fromPlaceId": "place-107",
+      "toPlaceId": "place-111",
+      "fromTitle": "三朝温泉旅館 萬翠樓 出發",
+      "toTitle": "Lawson 湯梨浜松崎店",
+      "title": "三朝溫泉萬翠樓～Lawson 湯梨浜松崎店",
+      "start": "08:00",
+      "end": "08:24",
+      "mode": "開車",
+      "duration": "24分",
+      "sourceRows": [
+        273
+      ],
+      "cameraIds": [
+        "misasa-road",
+        "navi-005"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-137-visit-138",
+      "day": 8,
+      "fromVisitId": "visit-137",
+      "toVisitId": "visit-138",
+      "fromPlaceId": "place-111",
+      "toPlaceId": "place-112",
+      "fromTitle": "Lawson 湯梨浜松崎店",
+      "toTitle": "道の駅 神話之里 白兔 停車",
+      "title": "Lawson 湯梨浜松崎店～道之驛神話之里白兔",
+      "start": "08:39",
+      "end": "09:15",
+      "mode": "開車",
+      "duration": "36分",
+      "sourceRows": [
+        275
+      ],
+      "cameraIds": [
+        "navi-047",
+        "navi-199",
+        "sanindo-tomari-maintenance",
+        "r9-hakuto"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-138-visit-139",
+      "day": 8,
+      "fromVisitId": "visit-138",
+      "toVisitId": "visit-139",
+      "fromPlaceId": "place-112",
+      "toPlaceId": "place-113",
+      "fromTitle": "道の駅 神話之里 白兔 停車",
+      "toTitle": "白兔神社",
+      "title": "道之驛神話之里白兔～白兔神社",
+      "start": "09:20",
+      "end": "09:24",
+      "mode": "步行",
+      "duration": "4分",
+      "sourceRows": [
+        277
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-139-visit-140",
+      "day": 8,
+      "fromVisitId": "visit-139",
+      "toVisitId": "visit-140",
+      "fromPlaceId": "place-113",
+      "toPlaceId": "place-114",
+      "fromTitle": "白兔神社",
+      "toTitle": "砂場咖啡 神話之里白兔休息站店",
+      "title": "白兔神社～砂場咖啡 神話之里白兔休息站店",
+      "start": "09:54",
+      "end": "10:00",
+      "mode": "步行",
+      "duration": "6分",
+      "sourceRows": [
+        279
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-140-visit-141",
+      "day": 8,
+      "fromVisitId": "visit-140",
+      "toVisitId": "visit-141",
+      "fromPlaceId": "place-114",
+      "toPlaceId": "place-112",
+      "fromTitle": "砂場咖啡 神話之里白兔休息站店",
+      "toTitle": "道の駅 神話之里 白兔 取車",
+      "title": "砂場咖啡 神話之里白兔休息站店～道之驛神話之里白兔",
+      "start": "10:20",
+      "end": "10:23",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        281
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-141-visit-142",
+      "day": 8,
+      "fromVisitId": "visit-141",
+      "toVisitId": "visit-142",
+      "fromPlaceId": "place-112",
+      "toPlaceId": "place-115",
+      "fromTitle": "道の駅 神話之里 白兔 取車",
+      "toTitle": "うどん ちよ志 賀露本店 烏龍麵店 午餐 不訂位",
+      "title": "道之驛神話之里白兔～ちよ志賀露本店",
+      "start": "10:43",
+      "end": "10:53",
+      "mode": "開車",
+      "duration": "10分",
+      "sourceRows": [
+        283
+      ],
+      "cameraIds": [
+        "r9-hakuto",
+        "navi-257"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-142-visit-143",
+      "day": 8,
+      "fromVisitId": "visit-142",
+      "toVisitId": "visit-143",
+      "fromPlaceId": "place-115",
+      "toPlaceId": "place-116",
+      "fromTitle": "うどん ちよ志 賀露本店 烏龍麵店 午餐 不訂位",
+      "toTitle": "McDonald's 鳥取北店 買奶昔/玩具",
+      "title": "ちよ志賀露本店～McDonald’s 鳥取北店",
+      "start": "11:43",
+      "end": "11:48",
+      "mode": "開車",
+      "duration": "5分",
+      "sourceRows": [
+        285
+      ],
+      "cameraIds": [
+        "navi-257"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-143-visit-144",
+      "day": 8,
+      "fromVisitId": "visit-143",
+      "toVisitId": "visit-144",
+      "fromPlaceId": "place-116",
+      "toPlaceId": "place-117",
+      "fromTitle": "McDonald's 鳥取北店 買奶昔/玩具",
+      "toTitle": "AEON MALL Tottori Kita 購物",
+      "title": "McDonald’s 鳥取北店～AEON MALL Tottori Kita 購物",
+      "start": "11:58",
+      "end": "12:03",
+      "mode": "步行",
+      "duration": "5分",
+      "sourceRows": [
+        287
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-144-visit-145",
+      "day": 8,
+      "fromVisitId": "visit-144",
+      "toVisitId": "visit-145",
+      "fromPlaceId": "place-117",
+      "toPlaceId": "place-118",
+      "fromTitle": "AEON MALL Tottori Kita 購物",
+      "toTitle": "松本清 Trinity Mall",
+      "title": "AEON MALL Tottori Kita 購物～松本清 Trinity Mall",
+      "start": "13:33",
+      "end": "13:35",
+      "mode": "開車",
+      "duration": "2分",
+      "sourceRows": [
+        289
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-145-visit-146",
+      "day": 8,
+      "fromVisitId": "visit-145",
+      "toVisitId": "visit-146",
+      "fromPlaceId": "place-118",
+      "toPlaceId": "place-119",
+      "fromTitle": "松本清 Trinity Mall",
+      "toTitle": "UNIQLO 鳥取千代水店",
+      "title": "松本清 Trinity Mall～UNIQLO 鳥取千代水店",
+      "start": "14:05",
+      "end": "14:11",
+      "mode": "開車",
+      "duration": "6分",
+      "sourceRows": [
+        291
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-146-visit-147",
+      "day": 8,
+      "fromVisitId": "visit-146",
+      "toVisitId": "visit-147",
+      "fromPlaceId": "place-119",
+      "toPlaceId": "place-008",
+      "fromTitle": "UNIQLO 鳥取千代水店",
+      "toTitle": "Green Rich Hotel 鳥取站前 放行李",
+      "title": "UNIQLO 鳥取千代水店～Green Rich Hotel 鳥取站前",
+      "start": "14:31",
+      "end": "14:42",
+      "mode": "開車",
+      "duration": "11分",
+      "sourceRows": [
+        293
+      ],
+      "cameraIds": [
+        "navi-153",
+        "navi-265",
+        "navi-158",
+        "navi-159"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-147-visit-148",
+      "day": 8,
+      "fromVisitId": "visit-147",
+      "toVisitId": "visit-148",
+      "fromPlaceId": "place-008",
+      "toPlaceId": "place-120",
+      "fromTitle": "Green Rich Hotel 鳥取站前 放行李",
+      "toTitle": "ENEOS Enejet鳥取駅南 SS (加油)",
+      "title": "Green Rich Hotel 鳥取站前～ENEOS 鳥取站南",
+      "start": "14:52",
+      "end": "14:55",
+      "mode": "開車",
+      "duration": "3分",
+      "sourceRows": [
+        295
+      ],
+      "cameraIds": [
+        "navi-159"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-148-visit-149",
+      "day": 8,
+      "fromVisitId": "visit-148",
+      "toVisitId": "visit-149",
+      "fromPlaceId": "place-120",
+      "toPlaceId": "place-010",
+      "fromTitle": "ENEOS Enejet鳥取駅南 SS (加油)",
+      "toTitle": "豐田租車 鳥取車站前店 4點前還車",
+      "title": "ENEOS 鳥取站南～豐田租車鳥取站前店",
+      "start": "15:10",
+      "end": "15:12",
+      "mode": "開車",
+      "duration": "2分",
+      "sourceRows": [
+        297
+      ],
+      "cameraIds": [
+        "navi-159"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-149-visit-150",
+      "day": 8,
+      "fromVisitId": "visit-149",
+      "toVisitId": "visit-150",
+      "fromPlaceId": "place-010",
+      "toPlaceId": "place-121",
+      "fromTitle": "豐田租車 鳥取車站前店 4點前還車",
+      "toTitle": "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+      "title": "豐田租車鳥取站前店～TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+      "start": "15:27",
+      "end": "15:37",
+      "mode": "步行",
+      "duration": "10分",
+      "sourceRows": [
+        299
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-150-visit-151",
+      "day": 8,
+      "fromVisitId": "visit-150",
+      "toVisitId": "visit-151",
+      "fromPlaceId": "place-121",
+      "toPlaceId": "place-122",
+      "fromTitle": "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+      "toTitle": "丸由百貨 無印良品",
+      "title": "TRUFFLE DONUT 丸由鳥取店 甜甜圈～丸由百貨 無印良品",
+      "start": "15:57",
+      "end": "15:58",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        301
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-151-visit-152",
+      "day": 8,
+      "fromVisitId": "visit-151",
+      "toVisitId": "visit-152",
+      "fromPlaceId": "place-122",
+      "toPlaceId": "place-123",
+      "fromTitle": "丸由百貨 無印良品",
+      "toTitle": "Shamine 鳥取 車站購物中心",
+      "title": "丸由百貨 無印良品～Shamine 鳥取 車站購物中心",
+      "start": "16:38",
+      "end": "16:43",
+      "mode": "步行",
+      "duration": "5分",
+      "sourceRows": [
+        303
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-152-visit-153",
+      "day": 8,
+      "fromVisitId": "visit-152",
+      "toVisitId": "visit-153",
+      "fromPlaceId": "place-123",
+      "toPlaceId": "place-124",
+      "fromTitle": "Shamine 鳥取 車站購物中心",
+      "toTitle": "扭蛋ドリームカプセルシャミネ鳥取店",
+      "title": "Shamine 鳥取 車站購物中心～扭蛋ドリームカプセルシャミネ鳥取店",
+      "start": "17:13",
+      "end": "17:14",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        305
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-153-visit-154",
+      "day": 8,
+      "fromVisitId": "visit-153",
+      "toVisitId": "visit-154",
+      "fromPlaceId": "place-124",
+      "toPlaceId": "place-125",
+      "fromTitle": "扭蛋ドリームカプセルシャミネ鳥取店",
+      "toTitle": "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+      "title": "扭蛋ドリームカプセルシャミネ鳥取店～焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+      "start": "17:24",
+      "end": "17:27",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        307
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-154-visit-155",
+      "day": 8,
+      "fromVisitId": "visit-154",
+      "toVisitId": "visit-155",
+      "fromPlaceId": "place-125",
+      "toPlaceId": "place-126",
+      "fromTitle": "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+      "toTitle": "PLAZA シャミネ鳥取店",
+      "title": "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30～PLAZA シャミネ鳥取店",
+      "start": "18:57",
+      "end": "19:00",
+      "mode": "步行",
+      "duration": "3分",
+      "sourceRows": [
+        309
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-155-visit-156",
+      "day": 8,
+      "fromVisitId": "visit-155",
+      "toVisitId": "visit-156",
+      "fromPlaceId": "place-126",
+      "toPlaceId": "place-127",
+      "fromTitle": "PLAZA シャミネ鳥取店",
+      "toTitle": "KoKuMiN Shamine鳥取店 藥妝店",
+      "title": "PLAZA シャミネ鳥取店～KoKuMiN Shamine鳥取店 藥妝店",
+      "start": "19:20",
+      "end": "19:21",
+      "mode": "步行",
+      "duration": "1分",
+      "sourceRows": [
+        311
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-156-visit-157",
+      "day": 8,
+      "fromVisitId": "visit-156",
+      "toVisitId": "visit-157",
+      "fromPlaceId": "place-127",
+      "toPlaceId": "place-128",
+      "fromTitle": "KoKuMiN Shamine鳥取店 藥妝店",
+      "toTitle": "伴手禮樂市 鳥取店",
+      "title": "KoKuMiN Shamine鳥取店 藥妝店～伴手禮樂市 鳥取店",
+      "start": "19:41",
+      "end": "19:43",
+      "mode": "步行",
+      "duration": "2分",
+      "sourceRows": [
+        313
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-157-visit-158",
+      "day": 8,
+      "fromVisitId": "visit-157",
+      "toVisitId": "visit-158",
+      "fromPlaceId": "place-128",
+      "toPlaceId": "place-008",
+      "fromTitle": "伴手禮樂市 鳥取店",
+      "toTitle": "Green Rich Hotel 鳥取站前 睡覺",
+      "title": "伴手禮樂市 鳥取店～Green Rich Hotel 鳥取站前",
+      "start": "20:03",
+      "end": "20:10",
+      "mode": "步行",
+      "duration": "7分",
+      "sourceRows": [
+        315
+      ],
+      "cameraIds": [],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-159-visit-160",
+      "day": 9,
+      "fromVisitId": "visit-159",
+      "toVisitId": "visit-160",
+      "fromPlaceId": "place-008",
+      "toPlaceId": "place-007",
+      "fromTitle": "Green Rich Hotel 鳥取站前 出發",
+      "toTitle": "鳥取駅2號站台 機場巴士 7:45發車",
+      "title": "Green Rich Hotel 鳥取站前～鳥取站",
+      "start": "07:20",
+      "end": "07:30",
+      "mode": "步行",
+      "duration": "10分",
+      "sourceRows": [
+        319
+      ],
+      "cameraIds": [
+        "navi-159"
+      ],
+      "navigationVerified": false
+    },
+    {
+      "id": "leg-visit-160-visit-161",
+      "day": 9,
+      "fromVisitId": "visit-160",
+      "toVisitId": "visit-161",
+      "fromPlaceId": "place-007",
+      "toPlaceId": "place-006",
+      "fromTitle": "鳥取駅2號站台 機場巴士 7:45發車",
+      "toTitle": "鳥取機場 (鳥取砂丘柯南機場)",
+      "title": "鳥取站～鳥取機場",
+      "start": "07:45",
+      "end": "08:05",
+      "mode": "巴士",
+      "duration": "20分",
+      "sourceRows": [
+        321
+      ],
+      "cameraIds": [
+        "navi-159",
+        "tottori-airport-approach"
+      ],
+      "navigationVerified": false
+    }
+  ]
+}

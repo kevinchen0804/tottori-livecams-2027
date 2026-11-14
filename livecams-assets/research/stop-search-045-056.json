@@ -1,0 +1,181 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-045",
+        "place-046",
+        "place-047"
+      ],
+      "queries": [
+        {
+          "id": "place-045",
+          "name": "㉒ 妖怪饅頭 総本店",
+          "q": "妖怪饅頭 総本店 境港 ライブカメラ"
+        },
+        {
+          "id": "place-046",
+          "name": "㉓ もののけ本舗",
+          "q": "もののけ本舗 境港 ライブカメラ"
+        },
+        {
+          "id": "place-047",
+          "name": "⑫⑬ 鬼太郎の里 わたなべ",
+          "q": "鬼太郎の里 わたなべ 境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0218",
+        "source-0145",
+        "source-0219",
+        "source-0220",
+        "source-0221",
+        "source-0222",
+        "source-0223",
+        "source-0224",
+        "source-0146",
+        "source-0225",
+        "source-0226",
+        "source-0154",
+        "source-0136",
+        "source-0227",
+        "source-0228",
+        "source-0229"
+      ]
+    },
+    {
+      "ids": [
+        "place-048",
+        "place-049",
+        "place-050"
+      ],
+      "queries": [
+        {
+          "id": "place-048",
+          "name": "㉔ ぬりかべ商店",
+          "q": "ぬりかべ商店 境港 ライブカメラ"
+        },
+        {
+          "id": "place-049",
+          "name": "㉕ 辰巳屋商店",
+          "q": "辰巳屋商店 境港 ライブカメラ"
+        },
+        {
+          "id": "place-050",
+          "name": "⑪ 柏木商会",
+          "q": "柏木商会 境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0218",
+        "source-0230",
+        "source-0231",
+        "source-0232",
+        "source-0233",
+        "source-0234",
+        "source-0146",
+        "source-0235",
+        "source-0236",
+        "source-0237",
+        "source-0238",
+        "source-0239",
+        "source-0137",
+        "source-0240",
+        "source-0241"
+      ]
+    },
+    {
+      "ids": [
+        "place-051",
+        "place-052",
+        "place-053"
+      ],
+      "queries": [
+        {
+          "id": "place-051",
+          "name": "⑩ 妖菓堂（松ヶ枝町）",
+          "q": "妖菓堂 松ケ枝町 境港 ライブカメラ"
+        },
+        {
+          "id": "place-052",
+          "name": "㉖㉗ ぱど妖",
+          "q": "ぱど妖 境港 ライブカメラ"
+        },
+        {
+          "id": "place-053",
+          "name": "㉘ ウインドショップ とだ",
+          "q": "ウインドショップ とだ 境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0218",
+        "source-0242",
+        "source-0145",
+        "source-0243",
+        "source-0244",
+        "source-0245",
+        "source-0228",
+        "source-0146",
+        "source-0246",
+        "source-0247",
+        "source-0239",
+        "source-0248",
+        "source-0249",
+        "source-0250",
+        "source-0251",
+        "source-0154",
+        "source-0252",
+        "source-0184"
+      ]
+    },
+    {
+      "ids": [
+        "place-054",
+        "place-055",
+        "place-056"
+      ],
+      "queries": [
+        {
+          "id": "place-054",
+          "name": "⑦⑧ 妖怪がまぐち",
+          "q": "妖怪がまぐち 境港 ライブカメラ"
+        },
+        {
+          "id": "place-055",
+          "name": "⑨ 黄金カフェ",
+          "q": "黄金カフェ 境港 ライブカメラ"
+        },
+        {
+          "id": "place-056",
+          "name": "妖怪工房 手作明信片",
+          "q": "妖怪工房 境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0253",
+        "source-0226",
+        "source-0172",
+        "source-0218",
+        "source-0254",
+        "source-0146",
+        "source-0255",
+        "source-0256",
+        "source-0257",
+        "source-0258",
+        "source-0247",
+        "source-0228",
+        "source-0154",
+        "source-0239",
+        "source-0259",
+        "source-0184",
+        "source-0260",
+        "source-0261",
+        "source-0262"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

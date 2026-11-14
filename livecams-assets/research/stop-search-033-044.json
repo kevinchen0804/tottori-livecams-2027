@@ -1,0 +1,182 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-033",
+        "place-034",
+        "place-035"
+      ],
+      "queries": [
+        {
+          "id": "place-033",
+          "name": "③ 鬼太郎はうす",
+          "q": "鬼太郎はうす ライブカメラ"
+        },
+        {
+          "id": "place-034",
+          "name": "④ いけびんストーア",
+          "q": "いけびんストーア ライブカメラ"
+        },
+        {
+          "id": "place-035",
+          "name": "㉚ はまゆう",
+          "q": "はまゆう 水木しげるロード ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0157",
+        "source-0158",
+        "source-0159",
+        "source-0160",
+        "source-0161",
+        "source-0162",
+        "source-0163",
+        "source-0164",
+        "source-0165",
+        "source-0166",
+        "source-0167",
+        "source-0168",
+        "source-0169",
+        "source-0170"
+      ]
+    },
+    {
+      "ids": [
+        "place-036",
+        "place-037",
+        "place-038"
+      ],
+      "queries": [
+        {
+          "id": "place-036",
+          "name": "漁港迴轉壽司 鮨かば EPARK受付/11:00入店目標",
+          "q": "鮨かば 境港 ライブカメラ"
+        },
+        {
+          "id": "place-037",
+          "name": "㉑ ゲゲゲの妖怪楽園",
+          "q": "ゲゲゲの妖怪楽園 ライブカメラ"
+        },
+        {
+          "id": "place-038",
+          "name": "⑲⑳＋記念館章 水木しげる記念館（不入館／館外可蓋章）",
+          "q": "水木しげる記念館 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0171",
+        "source-0172",
+        "source-0173",
+        "source-0174",
+        "source-0175",
+        "source-0146",
+        "source-0176",
+        "source-0177",
+        "source-0178",
+        "source-0179",
+        "source-0180",
+        "source-0181",
+        "source-0136",
+        "source-0182",
+        "source-0183",
+        "source-0184",
+        "source-0145",
+        "source-0185",
+        "source-0186"
+      ]
+    },
+    {
+      "ids": [
+        "place-039",
+        "place-040",
+        "place-041"
+      ],
+      "queries": [
+        {
+          "id": "place-039",
+          "name": "⑱ さかいみなと銀座市場",
+          "q": "さかいみなと銀座市場 ライブカメラ"
+        },
+        {
+          "id": "place-040",
+          "name": "妖怪食品研究所",
+          "q": "妖怪食品研究所 ライブカメラ"
+        },
+        {
+          "id": "place-041",
+          "name": "⑰ 八木橋呉服店",
+          "q": "八木橋呉服店 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0187",
+        "source-0188",
+        "source-0189",
+        "source-0190",
+        "source-0191",
+        "source-0192",
+        "source-0193",
+        "source-0194",
+        "source-0066",
+        "source-0195",
+        "source-0196",
+        "source-0197",
+        "source-0170",
+        "source-0198",
+        "source-0199",
+        "source-0200",
+        "source-0201",
+        "source-0202"
+      ]
+    },
+    {
+      "ids": [
+        "place-042",
+        "place-043",
+        "place-044"
+      ],
+      "queries": [
+        {
+          "id": "place-042",
+          "name": "⑯ かにじまん",
+          "q": "かにじまん ライブカメラ"
+        },
+        {
+          "id": "place-043",
+          "name": "⑮ ゲゲゲのようかい村",
+          "q": "ゲゲゲのようかい村 ライブカメラ"
+        },
+        {
+          "id": "place-044",
+          "name": "⑭ 妖菓堂（本町）",
+          "q": "妖菓堂 本町 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0163",
+        "source-0166",
+        "source-0164",
+        "source-0203",
+        "source-0204",
+        "source-0205",
+        "source-0206",
+        "source-0207",
+        "source-0208",
+        "source-0209",
+        "source-0210",
+        "source-0211",
+        "source-0212",
+        "source-0213",
+        "source-0214",
+        "source-0215",
+        "source-0216",
+        "source-0217"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

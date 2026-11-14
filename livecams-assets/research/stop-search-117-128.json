@@ -1,0 +1,183 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-117",
+        "place-118",
+        "place-119"
+      ],
+      "queries": [
+        {
+          "id": "place-117",
+          "name": "AEON MALL Tottori Kita 購物",
+          "q": "イオンモール鳥取北 ライブカメラ"
+        },
+        {
+          "id": "place-118",
+          "name": "松本清 Trinity Mall",
+          "q": "マツモトキヨシ トリニティモール 鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-119",
+          "name": "UNIQLO 鳥取千代水店",
+          "q": "ユニクロ 鳥取千代水 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0543",
+        "source-0544",
+        "source-0545",
+        "source-0546",
+        "source-0547",
+        "source-0548",
+        "source-0549",
+        "source-0550",
+        "source-0551",
+        "source-0552",
+        "source-0553",
+        "source-0554",
+        "source-0555",
+        "source-0556",
+        "source-0557",
+        "source-0558",
+        "source-0368"
+      ]
+    },
+    {
+      "ids": [
+        "place-120",
+        "place-121",
+        "place-122"
+      ],
+      "queries": [
+        {
+          "id": "place-120",
+          "name": "ENEOS Enejet鳥取駅南 SS (加油)",
+          "q": "ENEOS EneJet 鳥取駅南 ライブカメラ"
+        },
+        {
+          "id": "place-121",
+          "name": "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+          "q": "TRUFFLE DONUT 丸由鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-122",
+          "name": "丸由百貨 無印良品",
+          "q": "丸由百貨店 鳥取 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0092",
+        "source-0559",
+        "source-0560",
+        "source-0561",
+        "source-0562",
+        "source-0563",
+        "source-0564",
+        "source-0565",
+        "source-0001",
+        "source-0566",
+        "source-0567",
+        "source-0568",
+        "source-0569",
+        "source-0570",
+        "source-0571",
+        "source-0572",
+        "source-0368"
+      ]
+    },
+    {
+      "ids": [
+        "place-123",
+        "place-124",
+        "place-125"
+      ],
+      "queries": [
+        {
+          "id": "place-123",
+          "name": "Shamine 鳥取 車站購物中心",
+          "q": "シャミネ鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-124",
+          "name": "扭蛋ドリームカプセルシャミネ鳥取店",
+          "q": "ドリームカプセル シャミネ鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-125",
+          "name": "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+          "q": "焼肉牛王 鳥取駅北口 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0573",
+        "source-0574",
+        "source-0575",
+        "source-0576",
+        "source-0577",
+        "source-0578",
+        "source-0579",
+        "source-0580",
+        "source-0581",
+        "source-0582",
+        "source-0583",
+        "source-0130",
+        "source-0584",
+        "source-0289",
+        "source-0585",
+        "source-0586",
+        "source-0587",
+        "source-0588"
+      ]
+    },
+    {
+      "ids": [
+        "place-126",
+        "place-127",
+        "place-128"
+      ],
+      "queries": [
+        {
+          "id": "place-126",
+          "name": "PLAZA シャミネ鳥取店",
+          "q": "PLAZA シャミネ鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-127",
+          "name": "KoKuMiN Shamine鳥取店 藥妝店",
+          "q": "コクミン シャミネ鳥取 ライブカメラ"
+        },
+        {
+          "id": "place-128",
+          "name": "伴手禮樂市 鳥取店",
+          "q": "おみやげ楽市 鳥取 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0589",
+        "source-0590",
+        "source-0576",
+        "source-0579",
+        "source-0591",
+        "source-0592",
+        "source-0593",
+        "source-0472",
+        "source-0594",
+        "source-0595",
+        "source-0596",
+        "source-0597",
+        "source-0598",
+        "source-0599",
+        "source-0600",
+        "source-0601",
+        "source-0368",
+        "source-0602"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

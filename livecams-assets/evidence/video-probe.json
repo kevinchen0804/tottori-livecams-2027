@@ -1,0 +1,216 @@
+{
+  "at": "2026-10-24T22:04:13.271Z",
+  "hlsUrl": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+  "youtube": "https://www.youtube.com/embed/g2ks-Q4IEj0?autoplay=1&mute=1&enablejsapi=1",
+  "requests": [
+    {
+      "url": "https://www.youtube.com/embed/g2ks-Q4IEj0?autoplay=1&mute=1&playsinline=1&origin=http%3A%2F%2F127.0.0.1%3A8766&enablejsapi=1&widgetid=1&forigin=http%3A%2F%2F127.0.0.1%3A8766%2F&aoriginsup=1&vf=6",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "status": 206,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "800",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:04:14 GMT"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/embed/establish_zw",
+      "status": 204,
+      "headers": {
+        "content-length": "0",
+        "content-type": "text/html; charset=utf-8",
+        "x-frame-options": "SAMEORIGIN"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01400.ts",
+      "error": "net::ERR_BLOCKED_BY_ORB"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/qoe?cpn=_VDNyn14qLTV69lA&el=embedded&ns=yt&fexp=v1%2C100673025%2C-76668381%2C27058999%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C35405%2C65297%2C15105%2C25059%2C4174%2C30446%2C18706%2C26008%2C9675%2C3340%2C16088%2C6621%2C2783%2C23826%2C9500%2C1840%2C24118%2C29514%2C41206%2C20588%2C34313%2C9181%2C59015%2C1168%2C4165%2C3965%2C1539%2C32782%2C11462%2C41922%2C4366%2C9717%2C3613%2C26539%2C3844%2C1433%2C11807%2C5258%2C31489%2C34472%2C2417%2C654%2C17303%2C3464%2C8966%2C20175%2C1656%2C4595%2C9279%2C760%2C2877%2C5327%2C2266%2C713%2C4070%2C8892%2C5413%2C1397%2C3926%2C5253%2C8416%2C8899%2C3421%2C1814%2C4269%2C165%2C286%2C3619%2C939%2C2072%2C4821%2C974%2C1796%2C734%2C1083%2C1695%2C62%2C283%2C1646%2C2078%2C1475%2C7215%2C6728%2C5299%2C3089%2C13764&cl=1003072181&seq=1&event=streamingstats&docid=g2ks-Q4IEj0&cbr=HeadlessChrome&cbrver=156.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261023.01.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.000:ER&cmt=0.000:0.000,0.000:0.000&error=0.000:auth::0.000:0;a6s.0;r.______&vis=0.000:0&bh=0.000:0.000&qclc=ChBfVkROeW4xNHFMVFY2OWxBEAE",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/embed/establish_zw",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "console": [],
+  "samples": [
+    {
+      "at": "2026-10-24T22:04:22.679Z",
+      "hls": {
+        "time": 0,
+        "width": 0,
+        "height": 0,
+        "readyState": 0,
+        "paused": true,
+        "frames": 0,
+        "error": ""
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "error",
+          "time": 0,
+          "error": 4
+        },
+        {
+          "type": "play-error",
+          "message": "Failed to load because no supported source was found."
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    },
+    {
+      "at": "2026-10-24T22:04:30.712Z",
+      "hls": {
+        "time": 0,
+        "width": 0,
+        "height": 0,
+        "readyState": 0,
+        "paused": true,
+        "frames": 0,
+        "error": ""
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "error",
+          "time": 0,
+          "error": 4
+        },
+        {
+          "type": "play-error",
+          "message": "Failed to load because no supported source was found."
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    },
+    {
+      "at": "2026-10-24T22:04:38.725Z",
+      "hls": {
+        "time": 0,
+        "width": 0,
+        "height": 0,
+        "readyState": 0,
+        "paused": true,
+        "frames": 0,
+        "error": ""
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "error",
+          "time": 0,
+          "error": 4
+        },
+        {
+          "type": "play-error",
+          "message": "Failed to load because no supported source was found."
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    },
+    {
+      "at": "2026-10-24T22:04:46.742Z",
+      "hls": {
+        "time": 0,
+        "width": 0,
+        "height": 0,
+        "readyState": 0,
+        "paused": true,
+        "frames": 0,
+        "error": ""
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "error",
+          "time": 0,
+          "error": 4
+        },
+        {
+          "type": "play-error",
+          "message": "Failed to load because no supported source was found."
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    }
+  ],
+  "url": "http://127.0.0.1:8766",
+  "youtubeFrame": {
+    "text": "無法播放影片\n無法播放影片\n影片擁有者已禁止在其他網站上播放這部影片\n在 YouTube 上觀看",
+    "videos": [
+      {
+        "time": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true,
+        "frames": 0
+      }
+    ]
+  },
+  "serverClosed": true
+}

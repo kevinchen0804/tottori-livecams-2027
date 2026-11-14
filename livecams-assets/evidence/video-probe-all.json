@@ -1,0 +1,878 @@
+{
+  "at": "2026-10-24T22:06:39.948Z",
+  "cameras": [
+    {
+      "id": "ou",
+      "name": "皆生 OU LAND",
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8"
+    },
+    {
+      "id": "station",
+      "name": "米子駅前ロータリー",
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation.m3u8"
+    },
+    {
+      "id": "wakou",
+      "name": "ホテルわこう",
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou.m3u8"
+    }
+  ],
+  "ytCameras": [
+    {
+      "id": "sakyu",
+      "name": "鳥取砂丘",
+      "videoId": "u7Zib_9HbUU"
+    },
+    {
+      "id": "matsue",
+      "name": "松江 宍道湖大橋",
+      "videoId": "mspMbWuEbxk"
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "800",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:06:44 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "204",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:06:34 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "180",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:06:33 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou-19386.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "911612",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:09 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01429.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "313208",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:05:54 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation-19386.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "889992",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:10 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01430.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "548960",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:11 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou-19387.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "907664",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:21 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation-19387.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "890556",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:22 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01431.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "324488",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:19 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "last-modified": "Sat, 24 Oct 2026 22:06:44 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "180",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:06:45 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "204",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:06:46 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou-19388.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "905220",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:33 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation-19388.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "898076",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:34 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01432.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "293092",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:27 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "800",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:07:01 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01433.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "383332",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:36 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "204",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:06:58 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "180",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:06:57 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou-19389.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "861416",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:45 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation-19389.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "875704",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:46 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01434.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "325992",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:06:44 GMT"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "console": [],
+  "pageErrors": [
+    "TypeError: p.mute is not a function"
+  ],
+  "samples": [
+    {
+      "at": "2026-10-24T22:06:49.532Z",
+      "hls": [
+        {
+          "id": "ou",
+          "time": 156.4194,
+          "width": 640,
+          "height": 480,
+          "readyState": 4,
+          "paused": false,
+          "frames": 446
+        },
+        {
+          "id": "station",
+          "time": 6.96752,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 74
+        },
+        {
+          "id": "wakou",
+          "time": 7.013314,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 74
+        }
+      ],
+      "youtube": [
+        {
+          "id": "sakyu",
+          "state": 1,
+          "time": 8533128.577336006
+        },
+        {
+          "id": "matsue",
+          "state": 1,
+          "time": 2524346.239339219
+        }
+      ],
+      "events": [
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.0192
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-ready"
+        },
+        {
+          "id": "wakou",
+          "type": "playing",
+          "time": 0.017266
+        },
+        {
+          "id": "station",
+          "type": "playing",
+          "time": 0.033899
+        },
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 149.4825
+        },
+        {
+          "id": "ou",
+          "type": "hls-error",
+          "fatal": false,
+          "details": "bufferStalledError"
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.4833
+        },
+        {
+          "id": "matsue",
+          "type": "yt-ready"
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 3
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "at": "2026-10-24T22:06:57.590Z",
+      "hls": [
+        {
+          "id": "ou",
+          "time": 164.4772,
+          "width": 640,
+          "height": 480,
+          "readyState": 4,
+          "paused": false,
+          "frames": 688
+        },
+        {
+          "id": "station",
+          "time": 15.024488,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 154
+        },
+        {
+          "id": "wakou",
+          "time": 15.071706,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 154
+        }
+      ],
+      "youtube": [
+        {
+          "id": "sakyu",
+          "state": 1,
+          "time": 8533136.635287832
+        },
+        {
+          "id": "matsue",
+          "state": 1,
+          "time": 2524354.293119261
+        }
+      ],
+      "events": [
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.0192
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-ready"
+        },
+        {
+          "id": "wakou",
+          "type": "playing",
+          "time": 0.017266
+        },
+        {
+          "id": "station",
+          "type": "playing",
+          "time": 0.033899
+        },
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 149.4825
+        },
+        {
+          "id": "ou",
+          "type": "hls-error",
+          "fatal": false,
+          "details": "bufferStalledError"
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.4833
+        },
+        {
+          "id": "matsue",
+          "type": "yt-ready"
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 3
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "at": "2026-10-24T22:07:05.599Z",
+      "hls": [
+        {
+          "id": "ou",
+          "time": 172.4856,
+          "width": 640,
+          "height": 480,
+          "readyState": 4,
+          "paused": false,
+          "frames": 929
+        },
+        {
+          "id": "station",
+          "time": 23.032991,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 234
+        },
+        {
+          "id": "wakou",
+          "time": 23.078534,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 235
+        }
+      ],
+      "youtube": [
+        {
+          "id": "sakyu",
+          "state": 1,
+          "time": 8533144.641813006
+        },
+        {
+          "id": "matsue",
+          "state": 1,
+          "time": 2524362.3034312283
+        }
+      ],
+      "events": [
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.0192
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-ready"
+        },
+        {
+          "id": "wakou",
+          "type": "playing",
+          "time": 0.017266
+        },
+        {
+          "id": "station",
+          "type": "playing",
+          "time": 0.033899
+        },
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 149.4825
+        },
+        {
+          "id": "ou",
+          "type": "hls-error",
+          "fatal": false,
+          "details": "bufferStalledError"
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.4833
+        },
+        {
+          "id": "matsue",
+          "type": "yt-ready"
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 3
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "at": "2026-10-24T22:07:13.609Z",
+      "hls": [
+        {
+          "id": "ou",
+          "time": 180.4955,
+          "width": 640,
+          "height": 480,
+          "readyState": 4,
+          "paused": false,
+          "frames": 1169
+        },
+        {
+          "id": "station",
+          "time": 31.042616,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 315
+        },
+        {
+          "id": "wakou",
+          "time": 31.088885,
+          "width": 768,
+          "height": 432,
+          "readyState": 4,
+          "paused": false,
+          "frames": 315
+        }
+      ],
+      "youtube": [
+        {
+          "id": "sakyu",
+          "state": 1,
+          "time": 8533152.653389076
+        },
+        {
+          "id": "matsue",
+          "state": 1,
+          "time": 2524369.902986242
+        }
+      ],
+      "events": [
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "wakou",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "station",
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.0192
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-ready"
+        },
+        {
+          "id": "wakou",
+          "type": "playing",
+          "time": 0.017266
+        },
+        {
+          "id": "station",
+          "type": "playing",
+          "time": 0.033899
+        },
+        {
+          "id": "ou",
+          "type": "waiting",
+          "time": 149.4825
+        },
+        {
+          "id": "ou",
+          "type": "hls-error",
+          "fatal": false,
+          "details": "bufferStalledError"
+        },
+        {
+          "id": "ou",
+          "type": "playing",
+          "time": 149.4833
+        },
+        {
+          "id": "matsue",
+          "type": "yt-ready"
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": -1
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 3
+        },
+        {
+          "id": "sakyu",
+          "type": "yt-state",
+          "value": 1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": 1
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": 3
+        },
+        {
+          "id": "matsue",
+          "type": "yt-state",
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "url": "http://127.0.0.1:8766",
+  "frames": [
+    {
+      "url": "https://www.youtube.com/embed/u7Zib_9HbUU",
+      "text": "",
+      "videos": [
+        {
+          "time": 46819.261459,
+          "width": 854,
+          "height": 480,
+          "paused": false,
+          "frames": 883
+        }
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/embed/mspMbWuEbxk",
+      "text": "",
+      "videos": [
+        {
+          "time": 46828.779594,
+          "width": 854,
+          "height": 480,
+          "paused": false,
+          "frames": 868
+        }
+      ]
+    }
+  ],
+  "serverClosed": true
+}

@@ -1,0 +1,3134 @@
+{
+  "startedAt": "2026-10-26T17:54:23.430Z",
+  "checks": [
+    {
+      "name": "84 sources and advanced tools boot",
+      "pass": true
+    },
+    {
+      "name": "Only three primary filter groups; no favorites or weather shortcuts",
+      "pass": true
+    },
+    {
+      "name": "Tools initially closed",
+      "pass": true
+    },
+    {
+      "name": "D1 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D1 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D1 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-008 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 1,
+        "title": "鳥取機場 (鳥取砂丘柯南機場)",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-009 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 1,
+        "title": "鳥取駅2號站台",
+        "visible": 5
+      }
+    },
+    {
+      "name": "Visit visit-010 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 1,
+        "title": "Green Rich Hotel 鳥取站前 入住",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-011 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 1,
+        "title": "7-Eleven 鳥取永楽温泉町店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-012 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 1,
+        "title": "Green Rich Hotel 鳥取站前 睡覺",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Road section leg-visit-008-visit-009 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "鳥取機場～鳥取站",
+        "mode": "巴士"
+      }
+    },
+    {
+      "name": "Road section leg-visit-009-visit-010 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "鳥取站～Green Rich Hotel 鳥取站前",
+        "mode": "步行"
+      }
+    },
+    {
+      "name": "Clear stop retains D1",
+      "pass": true
+    },
+    {
+      "name": "D2 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D2 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D2 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-013 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "Green Rich Hotel 鳥取站前 出發",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-014 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "豐田租車 鳥取站前店 租車 雪胎",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-015 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "Green Rich Hotel 鳥取站前 載行李",
+        "visible": 5
+      }
+    },
+    {
+      "name": "Visit visit-016 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "鳥取沙丘停車場 停車",
+        "visible": 6
+      }
+    },
+    {
+      "name": "Visit visit-017 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "鳥取沙丘",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-018 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "Takahama Café 午餐",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-019 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "Rakudaya 紀念品店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-020 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "布丁專賣店 Totto PURIN。",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-021 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "いずみおじさんのソフトクリーム 冰淇淋店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-022 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "鳥取沙丘停車場 取車",
+        "visible": 9
+      }
+    },
+    {
+      "name": "Visit visit-023 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "Cowy's Milk House",
+        "visible": 6
+      }
+    },
+    {
+      "name": "Visit visit-024 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "MEGA唐吉軻德 米子店",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-025 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "元祖　牛肉そばつけ麺　為セバ成ル 沾麵",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-026 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 2,
+        "title": "Green Rich Hotel 米子站前 入住 停車 睡覺",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Road section leg-visit-013-visit-014 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～豐田租車鳥取站前店",
+        "mode": "步行"
+      }
+    },
+    {
+      "name": "Road section leg-visit-014-visit-015 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "豐田租車鳥取站前店～Green Rich Hotel 鳥取站前",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-015-visit-016 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～鳥取砂丘停車場",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-022-visit-023 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "鳥取砂丘停車場～Cowy's Milk House",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-023-visit-024 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Cowy's Milk House～MEGA唐吉軻德米子店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Clear stop retains D2",
+      "pass": true
+    },
+    {
+      "name": "D3 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D3 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D3 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-027 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "Green Rich Hotel 米子站前 出發",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-028 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "松江花鳥園",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-029 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "蕎麥麵亭 不昧庵 蕎麥麵",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-030 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "TRUFFLE DONUT日吉津店 甜甜圈",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-031 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "AEON MALL HIEZU 逛街",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-032 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "Green Rich Hotel 米子站前 停車 放戰利品",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-033 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "Shamine 米子 車站購物中心",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-034 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "三代目鳥メロ 燒鳥店 Tabelog訂位18:00",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-035 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 3,
+        "title": "Green Rich Hotel 米子站前 睡覺",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Road section leg-visit-027-visit-028 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 米子站前～松江花鳥園",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-029-visit-030 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "不昧庵～TRUFFLE DONUT 日吉津",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Clear stop retains D3",
+      "pass": true
+    },
+    {
+      "name": "D4 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D4 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D4 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-036 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "Green Rich Hotel 米子站前 出發",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-037 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "なかうら大漁市場通販部",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-038 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "境港水產直營中心",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-039 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "御宿 野乃境港 停車",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-040 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "境港市観光案内所 買收集冊",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-041 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉟ 鬼太郎妖怪倉庫 (みなとさかい交流館２Ｆ)",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-042 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "①② 千代むすび 岡空本店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-043 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "③ 鬼太郎はうす",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-044 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "④ いけびんストーア",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-045 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉚ はまゆう",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-046 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "漁港迴轉壽司 鮨かば EPARK受付/11:00入店目標",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-047 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉑ ゲゲゲの妖怪楽園",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-048 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑲⑳＋記念館章 水木しげる記念館（不入館／館外可蓋章）",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-049 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑱ さかいみなと銀座市場",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-050 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "妖怪食品研究所",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-051 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑰ 八木橋呉服店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-052 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑯ かにじまん",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-053 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑮ ゲゲゲのようかい村",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-054 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑭ 妖菓堂（本町）",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-055 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉒ 妖怪饅頭 総本店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-056 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉓ もののけ本舗",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-057 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑫⑬ 鬼太郎の里 わたなべ",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-058 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉔ ぬりかべ商店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-059 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉕ 辰巳屋商店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-060 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑪ 柏木商会",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-061 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑩ 妖菓堂（松ヶ枝町）",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-062 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉖㉗ ぱど妖",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-063 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉘ ウインドショップ とだ",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-064 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑦⑧ 妖怪がまぐち",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-065 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑨ 黄金カフェ",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-066 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "妖怪工房 手作明信片",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-067 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑥ 千代むすび 大正橋店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-068 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "⑤ じげの物産館",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-069 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉙ 苺一縁",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-070 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉛ むじゃら",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-071 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "妖怪神社",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-072 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉜ 三平茶屋",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-073 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "妖怪廣場",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-074 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉝ 元気亭。",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-075 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "㉞ 鬼太郎交番",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-076 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "境港市観光案内所 換獎勵",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-077 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "御宿 野乃境港 入住",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-078 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "お好み焼き古都 廣島燒",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-079 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "MARUGO 超市",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-080 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "境港車站 蓋JR紀念章",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-081 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 4,
+        "title": "御宿 野乃境港 睡覺",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Road section leg-visit-036-visit-037 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 米子站前～なかうら大漁市場",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-038-visit-039 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "境港水產直營中心～御宿野乃境港",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Clear stop retains D4",
+      "pass": true
+    },
+    {
+      "name": "D5 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D5 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D5 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-082 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "御宿 野乃境港 出發",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-083 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "寿物産 旁停車點",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-084 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "全家便利商店 江島大橋店",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-085 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "天満屋前（停車）",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-086 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "ザキッズ 米子しんまち天満屋店 遊樂場",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-087 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "ガチャ専門店 TOYS SPOT PALO 扭蛋店",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-088 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "Seria",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-089 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "米子LOFT",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-090 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "今を粋ろ 米子店 午餐分流",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-091 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "すき家Sukiya 米子中央店 午餐分流",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-092 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "天満屋前（取車）",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-093 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "もち吉 米子店 米果店",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-094 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "UNIQLO 米子新開店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-095 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "湯ノ塩 銅鑼燒 外帶",
+        "visible": 5
+      }
+    },
+    {
+      "name": "Visit visit-096 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "皆生溫泉 海の四季 入住",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-097 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "RESTAURANT レンガ屋 洋食",
+        "visible": 5
+      }
+    },
+    {
+      "name": "Visit visit-098 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "LAMU 米子北店 超市補給",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-099 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 5,
+        "title": "皆生溫泉 海の四季 睡覺",
+        "visible": 5
+      }
+    },
+    {
+      "name": "Road section leg-visit-082-visit-083 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "御宿野乃境港～寿物産停車點",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-084-visit-085 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "全家江島大橋店～天滿屋停車區",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-092-visit-093 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "天滿屋停車區～もち吉米子店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-093-visit-094 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "もち吉米子店～UNIQLO 米子新開店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-094-visit-095 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "UNIQLO 米子新開店～湯ノ塩",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-097-visit-098 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "RESTAURANT レンガ屋～LAMU 米子北店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-098-visit-099 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "LAMU 米子北店～皆生溫泉海の四季",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Clear stop retains D5",
+      "pass": true
+    },
+    {
+      "name": "D6 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D6 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D6 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-100 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "皆生溫泉 海の四季",
+        "visible": 7
+      }
+    },
+    {
+      "name": "Visit visit-101 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山参道ホテル頂 停車",
+        "visible": 6
+      }
+    },
+    {
+      "name": "Visit visit-102 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山寺(穿冰爪)",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-103 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山参道市場(午餐)",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-104 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大神山神社奧宮(穿冰爪)",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-105 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山寺 下山観音堂",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-106 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "角磐山大山寺仁王門",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-107 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山参道市場 下午茶",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-108 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "Montbell",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-109 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山寺橋 拍照",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-110 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "鳥取県立大山自然歴史館 室內 buffer",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-111 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山遊客中心 室內 buffer",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-112 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山参道ホテル頂 入住",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-113 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "綠莊 晚餐",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-114 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 6,
+        "title": "大山参道ホテル頂 睡覺",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Road section leg-visit-100-visit-101 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "皆生溫泉海の四季～大山参道ホテル頂",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-101-visit-102 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂～大山寺",
+        "mode": "步行"
+      }
+    },
+    {
+      "name": "Clear stop retains D6",
+      "pass": true
+    },
+    {
+      "name": "D7 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D7 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D7 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-115 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "大山参道ホテル頂 出發",
+        "visible": 6
+      }
+    },
+    {
+      "name": "Visit visit-116 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "道の駅 大栄 停車",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-117 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "青山剛昌故鄉館 柯南小鎮 拍照不進館",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-118 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "柯南之家 米花商店街",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-119 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "道の駅 大栄 取車",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-120 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "とりどりベーカリー 麵包店 11/13點出爐",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-121 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "道の駅 ほうじょう 購物室內遊樂區",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-122 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "琴桜・赤瓦観光駐車場 停車",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-123 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "赤瓦五号館 久楽 咖啡店 外帶",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-124 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "倉吉白壁土藏群",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-125 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "赤瓦一號館 買赤瓦餅乾",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-126 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "米澤鯛魚燒店 章魚燒",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-127 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "打吹公園だんご 糰子店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-128 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "琴桜・赤瓦観光駐車場 取車",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-129 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "Lawson 三朝溫泉店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-130 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "三朝温泉 萬翠樓 停車 入住",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-131 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "三朝優格 三朝ヨーグルト",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-132 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "三朝温泉 萬翠樓 放優格 休息",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-133 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "三朝橋 溫泉街 散步",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-134 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "みささの味処 縁がわ 拉麵",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-135 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 7,
+        "title": "三朝温泉旅館 萬翠樓 睡覺",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Road section leg-visit-115-visit-116 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂～道之驛大栄",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-119-visit-120 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "道之驛大栄～とりどりベーカリー",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-121-visit-122 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "道之驛北條～倉吉赤瓦觀光停車場",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-128-visit-129 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "倉吉赤瓦觀光停車場～Lawson 三朝溫泉店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-129-visit-130 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Lawson 三朝溫泉店～三朝溫泉萬翠樓",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Clear stop retains D7",
+      "pass": true
+    },
+    {
+      "name": "D8 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D8 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D8 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-136 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "三朝温泉旅館 萬翠樓 出發",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-137 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "Lawson 湯梨浜松崎店",
+        "visible": 6
+      }
+    },
+    {
+      "name": "Visit visit-138 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "道の駅 神話之里 白兔 停車",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-139 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "白兔神社",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-140 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "砂場咖啡 神話之里白兔休息站店",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-141 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "道の駅 神話之里 白兔 取車",
+        "visible": 2
+      }
+    },
+    {
+      "name": "Visit visit-142 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "うどん ちよ志 賀露本店 烏龍麵店 午餐 不訂位",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-143 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "McDonald's 鳥取北店 買奶昔/玩具",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-144 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "AEON MALL Tottori Kita 購物",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-145 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "松本清 Trinity Mall",
+        "visible": 1
+      }
+    },
+    {
+      "name": "Visit visit-146 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "UNIQLO 鳥取千代水店",
+        "visible": 5
+      }
+    },
+    {
+      "name": "Visit visit-147 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "Green Rich Hotel 鳥取站前 放行李",
+        "visible": 7
+      }
+    },
+    {
+      "name": "Visit visit-148 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "ENEOS Enejet鳥取駅南 SS (加油)",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-149 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "豐田租車 鳥取車站前店 4點前還車",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-150 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-151 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "丸由百貨 無印良品",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-152 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "Shamine 鳥取 車站購物中心",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-153 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "扭蛋ドリームカプセルシャミネ鳥取店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-154 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-155 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "PLAZA シャミネ鳥取店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-156 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "KoKuMiN Shamine鳥取店 藥妝店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-157 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "伴手禮樂市 鳥取店",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Visit visit-158 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 8,
+        "title": "Green Rich Hotel 鳥取站前 睡覺",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Road section leg-visit-136-visit-137 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "三朝溫泉萬翠樓～Lawson 湯梨浜松崎店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-137-visit-138 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Lawson 湯梨浜松崎店～道之驛神話之里白兔",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-141-visit-142 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "道之驛神話之里白兔～ちよ志賀露本店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-142-visit-143 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "ちよ志賀露本店～McDonald’s 鳥取北店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-146-visit-147 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "UNIQLO 鳥取千代水店～Green Rich Hotel 鳥取站前",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-147-visit-148 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～ENEOS 鳥取站南",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Road section leg-visit-148-visit-149 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "ENEOS 鳥取站南～豐田租車鳥取站前店",
+        "mode": "開車"
+      }
+    },
+    {
+      "name": "Clear stop retains D8",
+      "pass": true
+    },
+    {
+      "name": "D9 date and active state",
+      "pass": true
+    },
+    {
+      "name": "D9 exact source assignment",
+      "pass": true
+    },
+    {
+      "name": "D9 selector restricts visits to current day",
+      "pass": true
+    },
+    {
+      "name": "Visit visit-159 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 9,
+        "title": "Green Rich Hotel 鳥取站前 出發",
+        "visible": 4
+      }
+    },
+    {
+      "name": "Visit visit-160 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 9,
+        "title": "鳥取駅2號站台 機場巴士 7:45發車",
+        "visible": 5
+      }
+    },
+    {
+      "name": "Visit visit-161 exact camera binding",
+      "pass": true,
+      "detail": {
+        "day": 9,
+        "title": "鳥取機場 (鳥取砂丘柯南機場)",
+        "visible": 3
+      }
+    },
+    {
+      "name": "Road section leg-visit-159-visit-160 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～鳥取站",
+        "mode": "步行"
+      }
+    },
+    {
+      "name": "Road section leg-visit-160-visit-161 exact binding",
+      "pass": true,
+      "detail": {
+        "title": "鳥取站～鳥取機場",
+        "mode": "巴士"
+      }
+    },
+    {
+      "name": "Clear stop retains D9",
+      "pass": true
+    },
+    {
+      "name": "D2 excludes unrelated Kaike and Tenmaya sources",
+      "pass": true
+    },
+    {
+      "name": "Camera name large and itinerary small",
+      "pass": true
+    },
+    {
+      "name": "D3 excludes remote Matsue city and Masumizu",
+      "pass": true
+    },
+    {
+      "name": "D5 Kaike relationship is explicit",
+      "pass": true
+    },
+    {
+      "name": "Only date row stays fixed",
+      "pass": true,
+      "detail": {
+        "date": {
+          "x": 0,
+          "y": 0,
+          "width": 1920,
+          "height": 54,
+          "top": 0,
+          "right": 1920,
+          "bottom": 54,
+          "left": 0
+        },
+        "controls": {
+          "x": 60,
+          "y": -1643.8125,
+          "width": 1800,
+          "height": 128,
+          "top": -1643.8125,
+          "right": 1860,
+          "bottom": -1515.8125,
+          "left": 60
+        }
+      }
+    },
+    {
+      "name": "Date changes while scrolled",
+      "pass": true
+    },
+    {
+      "name": "Region clears incompatible date",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 defaults to system",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 system change follows dark",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 dark no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 manual light overrides dark system",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 manual appearance persists",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 light no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 system mode restored",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 date dock fits",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 D9 touch/date scroll",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 expanded tools fit viewport",
+      "pass": true
+    },
+    {
+      "name": "appearance-1920 tools close",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 defaults to system",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 system change follows dark",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 dark no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 manual light overrides dark system",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 manual appearance persists",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 light no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 system mode restored",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 date dock fits",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 D9 touch/date scroll",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 expanded tools fit viewport",
+      "pass": true
+    },
+    {
+      "name": "appearance-768 tools close",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 defaults to system",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 system change follows dark",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 dark no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 manual light overrides dark system",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 manual appearance persists",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 light no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 system mode restored",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 date dock fits",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 D9 touch/date scroll",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 expanded tools fit viewport",
+      "pass": true
+    },
+    {
+      "name": "appearance-390 tools close",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 defaults to system",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 system change follows dark",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 dark no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 manual light overrides dark system",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 manual appearance persists",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 light no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 system mode restored",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 date dock fits",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 D9 touch/date scroll",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 expanded tools fit viewport",
+      "pass": true
+    },
+    {
+      "name": "appearance-320 tools close",
+      "pass": true
+    },
+    {
+      "name": "desktop correct policy",
+      "pass": true,
+      "detail": {
+        "mode": "all",
+        "handheld": false,
+        "type": "unknown",
+        "reason": "電腦：不省流",
+        "limit": 12
+      }
+    },
+    {
+      "name": "desktop video elements within budget",
+      "pass": true
+    },
+    {
+      "name": "desktop narrow correct policy",
+      "pass": true,
+      "detail": {
+        "mode": "all",
+        "handheld": false,
+        "type": "cellular",
+        "reason": "電腦：不省流",
+        "limit": 12
+      }
+    },
+    {
+      "name": "desktop narrow video elements within budget",
+      "pass": true
+    },
+    {
+      "name": "phone wifi correct policy",
+      "pass": true,
+      "detail": {
+        "mode": "all",
+        "handheld": true,
+        "type": "wifi",
+        "reason": "手機／平板 Wi-Fi：不省流",
+        "limit": 12
+      }
+    },
+    {
+      "name": "phone wifi video elements within budget",
+      "pass": true
+    },
+    {
+      "name": "phone cellular correct policy",
+      "pass": true,
+      "detail": {
+        "mode": "economy",
+        "handheld": true,
+        "type": "cellular",
+        "reason": "手機／平板行動網路：省流",
+        "limit": 2
+      }
+    },
+    {
+      "name": "phone cellular video elements within budget",
+      "pass": true
+    },
+    {
+      "name": "phone unknown with fast ECT correct policy",
+      "pass": true,
+      "detail": {
+        "mode": "economy",
+        "handheld": true,
+        "type": "unknown",
+        "reason": "手機／平板無法辨識連線類型：先省流，可手動切換",
+        "limit": 2
+      }
+    },
+    {
+      "name": "phone unknown with fast ECT video elements within budget",
+      "pass": true
+    },
+    {
+      "name": "phone ethernet correct policy",
+      "pass": true,
+      "detail": {
+        "mode": "all",
+        "handheld": true,
+        "type": "ethernet",
+        "reason": "手機／平板有線連線：不省流",
+        "limit": 12
+      }
+    },
+    {
+      "name": "phone ethernet video elements within budget",
+      "pass": true
+    },
+    {
+      "name": "WiFi to cellular lowers total budget",
+      "pass": true
+    },
+    {
+      "name": "Mobile policy message visible",
+      "pass": true
+    },
+    {
+      "name": "Cellular to WiFi restores full budget",
+      "pass": true
+    },
+    {
+      "name": "Manual economy overrides WiFi",
+      "pass": true
+    },
+    {
+      "name": "Manual full overrides cellular",
+      "pass": true
+    },
+    {
+      "name": "Manual loading preference persists",
+      "pass": true
+    },
+    {
+      "name": "Legacy 2-stream default upgrades for desktop",
+      "pass": true
+    },
+    {
+      "name": "Existing explicit playback cap retained",
+      "pass": true
+    },
+    {
+      "name": "Zoom opens escape",
+      "pass": true
+    },
+    {
+      "name": "Zoom closes escape",
+      "pass": true
+    },
+    {
+      "name": "Zoom opens button",
+      "pass": true
+    },
+    {
+      "name": "Zoom closes button",
+      "pass": true
+    },
+    {
+      "name": "Zoom opens backdrop",
+      "pass": true
+    },
+    {
+      "name": "Zoom closes backdrop",
+      "pass": true
+    },
+    {
+      "name": "Zoom fullscreen enters",
+      "pass": true
+    },
+    {
+      "name": "Fullscreen releases when zoom closes",
+      "pass": true
+    },
+    {
+      "name": "Maps opens separate HTTPS map tab",
+      "pass": true
+    },
+    {
+      "name": "Blocked embed preview opens original source",
+      "pass": true
+    },
+    {
+      "name": "Settings disclosure opens",
+      "pass": true
+    },
+    {
+      "name": "Settings close on Escape",
+      "pass": true
+    },
+    {
+      "name": "Settings saved",
+      "pass": true
+    },
+    {
+      "name": "Catalog drag respects displayed chronological order",
+      "pass": true,
+      "detail": {
+        "before": [
+          "tottori-airport-runway",
+          "tottori-airport-approach",
+          "tottori-station-city-preview",
+          "github-eFAa1Ku7HLo",
+          "github-K0Mj74T94TY"
+        ],
+        "after": [
+          "tottori-airport-approach",
+          "tottori-airport-runway",
+          "tottori-station-city-preview",
+          "github-eFAa1Ku7HLo",
+          "github-K0Mj74T94TY"
+        ],
+        "a": "tottori-airport-runway",
+        "b": "tottori-airport-approach"
+      }
+    },
+    {
+      "name": "Catalog drag moves upward without resetting the gallery",
+      "pass": true
+    },
+    {
+      "name": "Keyboard order respects current displayed sources",
+      "pass": true,
+      "detail": {
+        "before": [
+          "tottori-station-city-preview",
+          "github-eFAa1Ku7HLo",
+          "github-K0Mj74T94TY",
+          "navi-159",
+          "navi-153"
+        ],
+        "after": [
+          "github-eFAa1Ku7HLo",
+          "tottori-station-city-preview",
+          "github-K0Mj74T94TY",
+          "navi-159",
+          "navi-153"
+        ]
+      }
+    },
+    {
+      "name": "Keyboard order moves back to the first visible source",
+      "pass": true
+    },
+    {
+      "name": "1 wall sources",
+      "pass": true
+    },
+    {
+      "name": "2 wall sources",
+      "pass": true
+    },
+    {
+      "name": "4 wall sources",
+      "pass": true
+    },
+    {
+      "name": "6 wall sources",
+      "pass": true
+    },
+    {
+      "name": "9 wall sources",
+      "pass": true
+    },
+    {
+      "name": "12 wall sources",
+      "pass": true
+    },
+    {
+      "name": "Stage ratio slider",
+      "pass": true
+    },
+    {
+      "name": "Stage ratio keyboard",
+      "pass": true
+    },
+    {
+      "name": "Saved wall restores",
+      "pass": true
+    },
+    {
+      "name": "Share URL encodes wall",
+      "pass": true
+    },
+    {
+      "name": "Share URL loads wall",
+      "pass": true
+    },
+    {
+      "name": "Export/import restores 12 views",
+      "pass": true
+    },
+    {
+      "name": "Hide source",
+      "pass": true
+    },
+    {
+      "name": "Hidden source listed",
+      "pass": true
+    },
+    {
+      "name": "Hidden source restored",
+      "pass": true
+    },
+    {
+      "name": "ID update requires confirmation",
+      "pass": true
+    },
+    {
+      "name": "Leaflet map and source markers",
+      "pass": true
+    },
+    {
+      "name": "Map search returns itinerary",
+      "pass": true
+    },
+    {
+      "name": "Nearby lookup works",
+      "pass": true
+    },
+    {
+      "name": "Map closes",
+      "pass": true
+    },
+    {
+      "name": "Phone zoom fits",
+      "pass": true
+    },
+    {
+      "name": "Phone settings fit",
+      "pass": true
+    },
+    {
+      "name": "Actual Sakaiminato image decoded",
+      "pass": true
+    },
+    {
+      "name": "Actual video budget respected",
+      "pass": true
+    }
+  ],
+  "stages": [
+    {
+      "name": "1. Boot, D1–D9, exact visit and road-section binding",
+      "pass": true
+    },
+    {
+      "name": "2. System/light/dark appearance and responsive layouts",
+      "pass": true
+    },
+    {
+      "name": "3. Adaptive network and user preference scenarios (simulated browser signals)",
+      "pass": true
+    },
+    {
+      "name": "4. Zoom, fullscreen, links, settings and manual ordering",
+      "pass": true
+    },
+    {
+      "name": "5. Wall layouts, configuration, hiding and map",
+      "pass": true
+    },
+    {
+      "name": "6. Phone dialogs and actual source smoke test",
+      "pass": true
+    }
+  ],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "localFailures": [],
+  "externalFailures": [
+    {
+      "label": "actual network",
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/embed/UwsjgwYyjTc",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/embed/u7Zib_9HbUU",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/embed/BBLpltI2QYM",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/embed/eFAa1Ku7HLo",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/embed/K0Mj74T94TY",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://webcast.chukai.ne.jp/live/03-yonagostation-32528.ts",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://webcast.chukai.ne.jp/live/01-wakou-32528.ts",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://webcast.chukai.ne.jp/live/17-kaigawa_aeon136.ts",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.google.com/js/th/RhCOukr6vuP8scOtrq5AQMAag3l6HzGkBzbJDB83tio.js",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.google.com/js/th/RhCOukr6vuP8scOtrq5AQMAag3l6HzGkBzbJDB83tio.js",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/playback",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/playback",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/playback",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/playback",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/playback",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "label": "actual network",
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "screenshots": [
+    "desktop-d2-light.png",
+    "desktop-scrolled-date-only.png",
+    "appearance-1920-dark.png",
+    "appearance-1920-light.png",
+    "appearance-768-dark.png",
+    "appearance-768-light.png",
+    "appearance-390-dark.png",
+    "appearance-390-light.png",
+    "appearance-320-dark.png",
+    "appearance-320-light.png",
+    "actual-sakaiminato.png",
+    "actual-yonago.png"
+  ],
+  "server": {
+    "pid": 27444,
+    "url": "http://127.0.0.1:8765",
+    "loopbackOnly": true,
+    "ended": true,
+    "portClosed": true
+  },
+  "hashBefore": {
+    "tottori-livecams.html": "4514060e9b02d7e1d4b9dd13a243e436853bf0425c75181807cf9f20934b42ae",
+    "tottori-livecams-no-storyboard.html": "4514060e9b02d7e1d4b9dd13a243e436853bf0425c75181807cf9f20934b42ae",
+    "tottori-livecams-cameras.json": "af556552155da0d8d3ef4f8dd5ae0a2831d79732bbc8d12a97c1d30b21e31d34",
+    "tottori-livecams-itinerary-points.json": "6eda3b0a8f65495a81dab462e305f8ba98aa535c99203d57901d8256e6c7e153",
+    "livecams-assets/advanced-controls-v11.js": "407009fab7e63ea0f13b8420c26c5564596c0bad2e464769ac075bc43cb846e1",
+    "livecams-assets/reading-view-v11.css": "8ff30434de85f1ac77aeb6196a98e6d2665ef0142b08084a0c05913a6f21f514",
+    "livecams-assets/trip-context-v12.css": "261a43dd8fac26a8a58659c4775d85bb3ddb4680222e2062d96ab7895231673e",
+    "livecams-assets/appearance-v13.js": "73f384eb5883ddd8587d73d8e261df2e158be7747df4d7cac4286f42d156e5c6",
+    "livecams-assets/loading-policy-v13.js": "b7a6eb958be8d34c23baeaab2f94e5e36238cde4ccc9bc70a8424751caafa4bc",
+    "livecams-assets/loading-view-v13.css": "bb24de401ae824b3edcebad2755ce03904cc6ff3d9b247792f028c4280a0d89d",
+    "tottori-livecams-server.mjs": "50f677b5fabbea553bfbc9fe324f611a56b7e54f65115d1ea087bcca4f503346"
+  },
+  "limits": [
+    "Network policy scenarios inject browser device/connection signals. They verify application decisions, not actual Wi-Fi/cellular detection on physical phones.",
+    "At least one real video advanced; this is not an all-84 source revalidation."
+  ],
+  "version": "20261027-release-v14",
+  "itineraryCoverage": {
+    "visits": 154,
+    "legsWithSources": 34,
+    "totalLegs": 145
+  },
+  "realImages": [
+    {
+      "id": "tottori-airport-runway",
+      "width": 960,
+      "height": 540,
+      "preview": true
+    },
+    {
+      "id": "tottori-airport-approach",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "tottori-station-city-preview",
+      "width": 640,
+      "height": 360,
+      "preview": true
+    },
+    {
+      "id": "navi-159",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-153",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "tottori-sakyu-city-preview",
+      "width": 640,
+      "height": 360,
+      "preview": true
+    },
+    {
+      "id": "tottori-sakyu-parking-info",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "sanindo-takakusa",
+      "width": 720,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "sanindo-shigeyama",
+      "width": 720,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "sanindo-tomari-maintenance",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "navi-089",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-006",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "sanindo-nawa-maintenance",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "nkt-yonago-station",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "vogel-ogaki-r431",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "navi-220",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "yumeminato-port",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "sakaiminato-city",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "yokai-garden-legacy",
+      "width": 960,
+      "height": 540,
+      "preview": true
+    },
+    {
+      "id": "eshima-bridge-weather",
+      "width": 960,
+      "height": 540,
+      "preview": true
+    },
+    {
+      "id": "navi-224",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-223",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "kaike-coast",
+      "width": 720,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "nkt-kaike-history",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "daisenji-road-158",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "makihara-road-24",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "daisen-north-wall",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "daisen-env-paused",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "navi-024",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-209",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-267",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-050",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-205",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "misasa-road",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "kurayoshi-road",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "misasa-bridge-unverified",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "navi-005",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "r9-hakuto",
+      "width": 720,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "navi-047",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-199",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-257",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "tottori-karo-city-preview",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "navi-158",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-265",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "masumizu-slope",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "matsue-tsk",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "old-white-resort-cameras",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "navi-264",
+      "width": 640,
+      "height": 480,
+      "preview": false
+    },
+    {
+      "id": "navi-211",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-087",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "navi-203",
+      "width": 320,
+      "height": 240,
+      "preview": false
+    },
+    {
+      "id": "github-iVxzEyeCvrM",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "github-rTViPLUmYAc",
+      "width": 120,
+      "height": 90,
+      "preview": true
+    },
+    {
+      "id": "github-nqF2QiB-LAo",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    },
+    {
+      "id": "github-tS7IJCDfalk",
+      "width": 0,
+      "height": 0,
+      "preview": true
+    }
+  ],
+  "realVideo": {
+    "before": [
+      {
+        "width": 768,
+        "time": 15.297304,
+        "frames": 157,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 15.380211,
+        "frames": 158,
+        "paused": false
+      },
+      {
+        "width": 640,
+        "time": 440.6667,
+        "frames": 157,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 15.32871,
+        "frames": 156,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 15.283398,
+        "frames": 156,
+        "paused": false
+      },
+      {
+        "width": 854,
+        "time": 46805.16806,
+        "frames": 455,
+        "paused": false
+      },
+      {
+        "width": 854,
+        "time": 46805.200354,
+        "frames": 455,
+        "paused": false
+      }
+    ],
+    "after": [
+      {
+        "width": 768,
+        "time": 18.336653,
+        "frames": 187,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 18.418699,
+        "frames": 188,
+        "paused": false
+      },
+      {
+        "width": 640,
+        "time": 443.7054,
+        "frames": 187,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 18.366951,
+        "frames": 186,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 18.322928,
+        "frames": 186,
+        "paused": false
+      },
+      {
+        "width": 854,
+        "time": 46808.189609,
+        "frames": 545,
+        "paused": false
+      },
+      {
+        "width": 854,
+        "time": 46808.210338,
+        "frames": 545,
+        "paused": false
+      }
+    ]
+  },
+  "realVideoProgress": true,
+  "hashAfter": {
+    "tottori-livecams.html": "4514060e9b02d7e1d4b9dd13a243e436853bf0425c75181807cf9f20934b42ae",
+    "tottori-livecams-no-storyboard.html": "4514060e9b02d7e1d4b9dd13a243e436853bf0425c75181807cf9f20934b42ae",
+    "tottori-livecams-cameras.json": "af556552155da0d8d3ef4f8dd5ae0a2831d79732bbc8d12a97c1d30b21e31d34",
+    "tottori-livecams-itinerary-points.json": "6eda3b0a8f65495a81dab462e305f8ba98aa535c99203d57901d8256e6c7e153",
+    "livecams-assets/advanced-controls-v11.js": "407009fab7e63ea0f13b8420c26c5564596c0bad2e464769ac075bc43cb846e1",
+    "livecams-assets/reading-view-v11.css": "8ff30434de85f1ac77aeb6196a98e6d2665ef0142b08084a0c05913a6f21f514",
+    "livecams-assets/trip-context-v12.css": "261a43dd8fac26a8a58659c4775d85bb3ddb4680222e2062d96ab7895231673e",
+    "livecams-assets/appearance-v13.js": "73f384eb5883ddd8587d73d8e261df2e158be7747df4d7cac4286f42d156e5c6",
+    "livecams-assets/loading-policy-v13.js": "b7a6eb958be8d34c23baeaab2f94e5e36238cde4ccc9bc70a8424751caafa4bc",
+    "livecams-assets/loading-view-v13.css": "bb24de401ae824b3edcebad2755ce03904cc6ff3d9b247792f028c4280a0d89d",
+    "tottori-livecams-server.mjs": "50f677b5fabbea553bfbc9fe324f611a56b7e54f65115d1ea087bcca4f503346"
+  },
+  "readOnly": true,
+  "finishedAt": "2026-10-26T17:55:37.550Z",
+  "summary": {
+    "pass": 339,
+    "fail": 0,
+    "interrupted": 0,
+    "pageErrors": 0,
+    "consoleErrors": 0,
+    "localFailures": 0,
+    "readOnly": true,
+    "serverEnded": true,
+    "portClosed": true
+  }
+}

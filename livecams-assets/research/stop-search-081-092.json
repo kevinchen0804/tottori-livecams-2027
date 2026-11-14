@@ -1,0 +1,194 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-081",
+        "place-082",
+        "place-083"
+      ],
+      "queries": [
+        {
+          "id": "place-081",
+          "name": "皆生溫泉 海の四季 入住",
+          "q": "皆生温泉 海の四季 米子 ライブカメラ"
+        },
+        {
+          "id": "place-082",
+          "name": "RESTAURANT レンガ屋 洋食",
+          "q": "レストラン レンガ屋 米子 ライブカメラ"
+        },
+        {
+          "id": "place-083",
+          "name": "LAMU 米子北店 超市補給",
+          "q": "ラ・ムー 米子北 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0073",
+        "source-0370",
+        "source-0362",
+        "source-0358",
+        "source-0343",
+        "source-0371",
+        "source-0372",
+        "source-0373",
+        "source-0374",
+        "source-0360",
+        "source-0375",
+        "source-0376",
+        "source-0368",
+        "source-0377",
+        "source-0089",
+        "source-0378",
+        "source-0379",
+        "source-0355",
+        "source-0369"
+      ]
+    },
+    {
+      "ids": [
+        "place-084",
+        "place-085",
+        "place-086"
+      ],
+      "queries": [
+        {
+          "id": "place-084",
+          "name": "大山参道ホテル頂 停車",
+          "q": "大山参道ホテル頂 ライブカメラ"
+        },
+        {
+          "id": "place-085",
+          "name": "大山寺(穿冰爪)",
+          "q": "大山寺 ライブカメラ"
+        },
+        {
+          "id": "place-086",
+          "name": "大山参道市場(午餐)",
+          "q": "大山参道市場 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0380",
+        "source-0381",
+        "source-0382",
+        "source-0383",
+        "source-0384",
+        "source-0157",
+        "source-0385",
+        "source-0386",
+        "source-0387",
+        "source-0388",
+        "source-0048",
+        "source-0389",
+        "source-0390",
+        "source-0391",
+        "source-0282",
+        "source-0392",
+        "source-0393",
+        "source-0394",
+        "source-0395",
+        "source-0396",
+        "source-0397"
+      ]
+    },
+    {
+      "ids": [
+        "place-087",
+        "place-088",
+        "place-089"
+      ],
+      "queries": [
+        {
+          "id": "place-087",
+          "name": "大神山神社奧宮(穿冰爪)",
+          "q": "大神山神社 奥宮 大山 ライブカメラ"
+        },
+        {
+          "id": "place-088",
+          "name": "大山寺 下山観音堂",
+          "q": "大山寺 下山観音堂 ライブカメラ"
+        },
+        {
+          "id": "place-089",
+          "name": "角磐山大山寺仁王門",
+          "q": "大山寺 仁王門 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0398",
+        "source-0399",
+        "source-0380",
+        "source-0400",
+        "source-0401",
+        "source-0402",
+        "source-0403",
+        "source-0130",
+        "source-0404",
+        "source-0405",
+        "source-0406",
+        "source-0407",
+        "source-0408",
+        "source-0409",
+        "source-0410",
+        "source-0411",
+        "source-0412",
+        "source-0413",
+        "source-0414",
+        "source-0415",
+        "source-0416",
+        "source-0417",
+        "source-0418"
+      ]
+    },
+    {
+      "ids": [
+        "place-090",
+        "place-091",
+        "place-092"
+      ],
+      "queries": [
+        {
+          "id": "place-090",
+          "name": "Montbell",
+          "q": "モンベル 大山 ライブカメラ"
+        },
+        {
+          "id": "place-091",
+          "name": "大山寺橋 拍照",
+          "q": "大山寺橋 ライブカメラ"
+        },
+        {
+          "id": "place-092",
+          "name": "鳥取県立大山自然歴史館 室內 buffer",
+          "q": "鳥取県立大山自然歴史館 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0419",
+        "source-0420",
+        "source-0421",
+        "source-0422",
+        "source-0423",
+        "source-0381",
+        "source-0048",
+        "source-0424",
+        "source-0425",
+        "source-0426",
+        "source-0427",
+        "source-0151",
+        "source-0428",
+        "source-0429",
+        "source-0430",
+        "source-0431",
+        "source-0432",
+        "source-0433"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

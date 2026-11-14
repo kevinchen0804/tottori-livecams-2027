@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-25",
+  "source": "https://github.com/kametaro7/japan-livecam-map/blob/main/data/cameras.json",
+  "sourceSha": "3118a3f0438b6d6a003ebf58910801fe4250b88c",
+  "sourceSnapshotDate": "2026-09-21",
+  "manifest": [
+    {
+      "candidateId": "eFAa1Ku7HLo",
+      "title": "鳥取市街地（日本海テレビ）",
+      "videoId": "eFAa1Ku7HLo",
+      "cameraId": "github-eFAa1Ku7HLo",
+      "action": "added",
+      "region": "tottori"
+    },
+    {
+      "candidateId": "K0Mj74T94TY",
+      "title": "鳥取市（Plusbits）",
+      "videoId": "K0Mj74T94TY",
+      "cameraId": "github-K0Mj74T94TY",
+      "action": "added",
+      "region": "tottori"
+    },
+    {
+      "candidateId": "7T3SV0zMQVI",
+      "title": "鳥取砂丘",
+      "videoId": "7T3SV0zMQVI",
+      "cameraId": "github-7T3SV0zMQVI",
+      "action": "added",
+      "region": "tottori"
+    },
+    {
+      "candidateId": "u7Zib_9HbUU",
+      "title": "鳥取砂丘 ワイド",
+      "videoId": "u7Zib_9HbUU",
+      "cameraId": "tottori-sakyu",
+      "action": "linked-to-existing-identical-video",
+      "region": "tottori"
+    },
+    {
+      "candidateId": "oN2TvtMyDak",
+      "title": "鳥取市伏野海岸",
+      "videoId": "oN2TvtMyDak",
+      "cameraId": "github-oN2TvtMyDak",
+      "action": "added",
+      "region": "tottori"
+    },
+    {
+      "candidateId": "849SJO-DAg8",
+      "title": "湖山池（鳥取大学周辺）",
+      "videoId": "849SJO-DAg8",
+      "cameraId": "github-849SJO-DAg8",
+      "action": "added",
+      "region": "tottori"
+    },
+    {
+      "candidateId": "BBLpltI2QYM",
+      "title": "倉吉 打吹山",
+      "videoId": "BBLpltI2QYM",
+      "cameraId": "nkt-kurayoshi-utsubuki",
+      "action": "linked-to-existing-identical-video",
+      "region": "central"
+    },
+    {
+      "candidateId": "QjNzHxGgKb4",
+      "title": "大山 ますみず高原",
+      "videoId": "GSgiceny-aY",
+      "cameraId": "github-QjNzHxGgKb4",
+      "action": "added",
+      "region": "daisen"
+    },
+    {
+      "candidateId": "g2ks-Q4IEj0",
+      "title": "大山",
+      "videoId": "g2ks-Q4IEj0",
+      "cameraId": "daisen-north-wall",
+      "action": "linked-to-existing-identical-video",
+      "region": "daisen"
+    },
+    {
+      "candidateId": "jX4ezjIYI_I",
+      "title": "JR米子駅",
+      "videoId": "jX4ezjIYI_I",
+      "cameraId": "github-jX4ezjIYI_I",
+      "action": "added",
+      "region": "yonago"
+    },
+    {
+      "candidateId": "qN6Xwpi-lnA",
+      "title": "米子水鳥公園",
+      "videoId": "qN6Xwpi-lnA",
+      "cameraId": "github-qN6Xwpi-lnA",
+      "action": "added",
+      "region": "yonago"
+    },
+    {
+      "candidateId": "yhfgYQvn2-I",
+      "title": "米子市両三柳",
+      "videoId": "yhfgYQvn2-I",
+      "cameraId": "github-yhfgYQvn2-I",
+      "action": "added",
+      "region": "yonago"
+    },
+    {
+      "candidateId": "iVxzEyeCvrM",
+      "title": "八頭町",
+      "videoId": "usxOpizxFY0",
+      "cameraId": "github-iVxzEyeCvrM",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "8gaNddXwack",
+      "title": "黒坂（JR伯備線）",
+      "videoId": "8DIXkeumVt4",
+      "cameraId": "github-8gaNddXwack",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "VYaWdldfU4Q",
+      "title": "黒坂 広島街道踏切",
+      "videoId": "VYaWdldfU4Q",
+      "cameraId": "github-VYaWdldfU4Q",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "rTViPLUmYAc",
+      "title": "松江 宍道湖",
+      "videoId": "rTViPLUmYAc",
+      "cameraId": "github-rTViPLUmYAc",
+      "action": "added",
+      "region": "sakaiminato"
+    },
+    {
+      "candidateId": "mspMbWuEbxk",
+      "title": "宍道湖大橋",
+      "videoId": "mspMbWuEbxk",
+      "cameraId": "matsue-bridge",
+      "action": "linked-to-existing-identical-video",
+      "region": "sakaiminato"
+    },
+    {
+      "candidateId": "JEFoqOUDUI4",
+      "title": "くにびき大橋",
+      "videoId": "JEFoqOUDUI4",
+      "cameraId": "github-JEFoqOUDUI4",
+      "action": "added",
+      "region": "sakaiminato"
+    },
+    {
+      "candidateId": "GaKp6Mofepc",
+      "title": "西郷港（隠岐の島）",
+      "videoId": "GaKp6Mofepc",
+      "cameraId": "github-GaKp6Mofepc",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "QLD5CwcIBH0",
+      "title": "道の駅 ゆうひパーク浜田",
+      "videoId": "QLD5CwcIBH0",
+      "cameraId": "github-QLD5CwcIBH0",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "360w9C78Pi8",
+      "title": "出雲大社前駅 神門通り",
+      "videoId": "Bpuw41YY7vE",
+      "cameraId": "github-360w9C78Pi8",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "0S3m-h3r_ZI",
+      "title": "三瓶山 西の原",
+      "videoId": "WQU9BDoMIEw",
+      "cameraId": "github-0S3m-h3r_ZI",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "Tpxj6KwYAqE",
+      "title": "美郷町 粕渕市街地",
+      "videoId": "Tpxj6KwYAqE",
+      "cameraId": "github-Tpxj6KwYAqE",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "_61oLL-8Gt0",
+      "title": "美郷町 野間雲海ビュースポット",
+      "videoId": "_61oLL-8Gt0",
+      "cameraId": "github-_61oLL-8Gt0",
+      "action": "added",
+      "region": "other"
+    },
+    {
+      "candidateId": "yZYiBmrlFwc",
+      "title": "安来駅前",
+      "videoId": "yZYiBmrlFwc",
+      "cameraId": "github-yZYiBmrlFwc",
+      "action": "added",
+      "region": "sakaiminato"
+    },
+    {
+      "candidateId": "nqF2QiB-LAo",
+      "title": "TSKライブカメラ（松江）",
+      "videoId": "nqF2QiB-LAo",
+      "cameraId": "github-nqF2QiB-LAo",
+      "action": "added",
+      "region": "sakaiminato"
+    },
+    {
+      "candidateId": "tS7IJCDfalk",
+      "title": "益田市三宅町",
+      "videoId": "3-8C3tuWOKQ",
+      "cameraId": "github-tS7IJCDfalk",
+      "action": "added",
+      "region": "other"
+    }
+  ],
+  "total": 84,
+  "qa": "not-run-per-user"
+}

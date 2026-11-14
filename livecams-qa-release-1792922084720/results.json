@@ -1,0 +1,1162 @@
+{
+  "startedAt": "2026-10-25T09:54:44.727Z",
+  "checks": [
+    {
+      "name": "84 sources and advanced controls boot",
+      "pass": true
+    },
+    {
+      "name": "Tools initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "D1 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 14
+      }
+    },
+    {
+      "name": "D2 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 35
+      }
+    },
+    {
+      "name": "D3 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 21
+      }
+    },
+    {
+      "name": "D4 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 11
+      }
+    },
+    {
+      "name": "D5 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 18
+      }
+    },
+    {
+      "name": "D6 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 17
+      }
+    },
+    {
+      "name": "D7 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 24
+      }
+    },
+    {
+      "name": "D8 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 24
+      }
+    },
+    {
+      "name": "D9 navigation and active date",
+      "pass": true,
+      "detail": {
+        "visible": 14
+      }
+    },
+    {
+      "name": "Only date row sticks at viewport top",
+      "pass": true,
+      "detail": {
+        "dateTop": 0,
+        "dateHeight": 47,
+        "toolsBottom": -1385.3125,
+        "sticky": "sticky"
+      }
+    },
+    {
+      "name": "Date changes while scrolled",
+      "pass": true
+    },
+    {
+      "name": "daisen sources remain available",
+      "pass": true
+    },
+    {
+      "name": "sakaiminato sources remain available",
+      "pass": true
+    },
+    {
+      "name": "tottori sources remain available",
+      "pass": true
+    },
+    {
+      "name": "airport sources remain available",
+      "pass": true
+    },
+    {
+      "name": "yonago sources remain available",
+      "pass": true
+    },
+    {
+      "name": "central sources remain available",
+      "pass": true
+    },
+    {
+      "name": "other sources remain available",
+      "pass": true
+    },
+    {
+      "name": "roads sources remain available",
+      "pass": true
+    },
+    {
+      "name": "D2 to Daisen clears incompatible date",
+      "pass": true
+    },
+    {
+      "name": "Destination eshima",
+      "pass": true
+    },
+    {
+      "name": "Destination tenmaya",
+      "pass": true
+    },
+    {
+      "name": "Destination aeon",
+      "pass": true
+    },
+    {
+      "name": "Destination vogel",
+      "pass": true
+    },
+    {
+      "name": "All 154 itinerary visits show mapped sources",
+      "pass": true,
+      "detail": {
+        "visits": 154,
+        "empty": []
+      }
+    },
+    {
+      "name": "Catalog drag moves source downward",
+      "pass": true
+    },
+    {
+      "name": "Catalog drag moves source upward",
+      "pass": true
+    },
+    {
+      "name": "Text search finds Daisen",
+      "pass": true
+    },
+    {
+      "name": "Maps link opens HTTPS location",
+      "pass": true,
+      "detail": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%A0%84%E7%94%BA%20%E7%94%B1%E8%89%AF%E5%AE%BF%EF%BC%88%E7%9C%8C%E9%81%93320%E5%8F%B7%E7%BE%BD%E5%90%88%E6%9D%B1%E4%BC%AF%E7%B7%9A%EF%BC%89%20%E5%8C%97%E6%A0%84%E7%94%BA%20%E7%94%B1%E8%89%AF%E5%AE%BF%EF%BC%88%E7%9C%8C%E9%81%93320%E5%8F%B7%E7%BE%BD%E5%90%88%E6%9D%B1%E4%BC%AF%E7%B7%9A%EF%BC%89"
+    },
+    {
+      "name": "Embed-blocked preview opens official video",
+      "pass": true
+    },
+    {
+      "name": "Preview captions distinguish non-live images",
+      "pass": true
+    },
+    {
+      "name": "Image zoom opens escape",
+      "pass": true
+    },
+    {
+      "name": "Image zoom closes escape",
+      "pass": true
+    },
+    {
+      "name": "Image zoom opens button",
+      "pass": true
+    },
+    {
+      "name": "Image zoom closes button",
+      "pass": true
+    },
+    {
+      "name": "Image zoom opens backdrop",
+      "pass": true
+    },
+    {
+      "name": "Image zoom closes backdrop",
+      "pass": true
+    },
+    {
+      "name": "Zoom fullscreen enters",
+      "pass": true
+    },
+    {
+      "name": "Zoom fullscreen cleanup",
+      "pass": true
+    },
+    {
+      "name": "Settings disclosure opens",
+      "pass": true
+    },
+    {
+      "name": "Settings persist after reload",
+      "pass": true
+    },
+    {
+      "name": "Advanced disclosure opens",
+      "pass": true
+    },
+    {
+      "name": "1 wall slots",
+      "pass": true
+    },
+    {
+      "name": "2 wall slots",
+      "pass": true
+    },
+    {
+      "name": "4 wall slots",
+      "pass": true
+    },
+    {
+      "name": "6 wall slots",
+      "pass": true
+    },
+    {
+      "name": "9 wall slots",
+      "pass": true
+    },
+    {
+      "name": "12 wall slots",
+      "pass": true
+    },
+    {
+      "name": "Stage ratio slider",
+      "pass": true
+    },
+    {
+      "name": "Stage ratio keyboard",
+      "pass": true
+    },
+    {
+      "name": "Stage divider pointer drag",
+      "pass": true
+    },
+    {
+      "name": "Wall keyboard reorders sources",
+      "pass": true
+    },
+    {
+      "name": "Wall native drag reorders sources",
+      "pass": true
+    },
+    {
+      "name": "Wall native drag moves upward",
+      "pass": true
+    },
+    {
+      "name": "Named profile saved",
+      "pass": true
+    },
+    {
+      "name": "Named profile restores layout",
+      "pass": true
+    },
+    {
+      "name": "Share URL contains configuration",
+      "pass": true
+    },
+    {
+      "name": "Shared URL restores wall",
+      "pass": true
+    },
+    {
+      "name": "JSON configuration export and import",
+      "pass": true
+    },
+    {
+      "name": "Hide source",
+      "pass": true
+    },
+    {
+      "name": "Hidden manager lists hidden source",
+      "pass": true
+    },
+    {
+      "name": "Restore hidden sources",
+      "pass": true
+    },
+    {
+      "name": "ID change requires location confirmation",
+      "pass": true
+    },
+    {
+      "name": "Leaflet map opens",
+      "pass": true
+    },
+    {
+      "name": "Itinerary and camera markers exist",
+      "pass": true
+    },
+    {
+      "name": "Map location search",
+      "pass": true
+    },
+    {
+      "name": "Nearby search produces distance results",
+      "pass": true
+    },
+    {
+      "name": "Map close",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html tools initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html date row sticks",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html D9 selectable with horizontal date scrolling",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html D1 active after scroll",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html expanded tools do not become sticky",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html image dialog fits",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html settings fit",
+      "pass": true
+    },
+    {
+      "name": "390-tottori-livecams.html final no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html tools initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html date row sticks",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html D9 selectable with horizontal date scrolling",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html D1 active after scroll",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html expanded tools do not become sticky",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html image dialog fits",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html settings fit",
+      "pass": true
+    },
+    {
+      "name": "320-tottori-livecams-no-storyboard.html final no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html tools initially collapsed",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html date row sticks",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html D9 selectable with horizontal date scrolling",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html D1 active after scroll",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html expanded tools do not become sticky",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html image dialog fits",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html settings fit",
+      "pass": true
+    },
+    {
+      "name": "768-tottori-livecams.html final no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "Real Sakaiminato camera image decodes",
+      "pass": true,
+      "detail": [
+        {
+          "id": "daisen-north-wall",
+          "width": 480,
+          "preview": true
+        },
+        {
+          "id": "daisenji-road-158",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "makihara-road-24",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "misasa-road",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "masumizu-slope",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "kurayoshi-road",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "kaike-coast",
+          "width": 720,
+          "preview": false
+        },
+        {
+          "id": "sakaiminato-city",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "sanindo-takakusa",
+          "width": 720,
+          "preview": false
+        },
+        {
+          "id": "r9-hakuto",
+          "width": 720,
+          "preview": false
+        },
+        {
+          "id": "matsue-tsk",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "yumeminato-port",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "tottori-airport-approach",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "sanindo-shigeyama",
+          "width": 720,
+          "preview": false
+        },
+        {
+          "id": "eshima-bridge-weather",
+          "width": 960,
+          "preview": true
+        },
+        {
+          "id": "vogel-ogaki-r431",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "navi-153",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-159",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-158",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-257",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-265",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "navi-264",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "navi-211",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-087",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-047",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-050",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-203",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-205",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-005",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-089",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-209",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-267",
+          "width": 640,
+          "preview": false
+        },
+        {
+          "id": "navi-024",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-199",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-220",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-006",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-224",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "navi-223",
+          "width": 320,
+          "preview": false
+        },
+        {
+          "id": "yokai-garden-legacy",
+          "width": 960,
+          "preview": true
+        },
+        {
+          "id": "github-rTViPLUmYAc",
+          "width": 120,
+          "preview": true
+        }
+      ]
+    },
+    {
+      "name": "Video playback limit enforced",
+      "pass": true
+    }
+  ],
+  "stages": [
+    {
+      "name": "Desktop navigation, all itinerary points, date dock and links",
+      "pass": true
+    },
+    {
+      "name": "Monitor wall, split ratio, ordering, saved configurations and hide restore",
+      "pass": true
+    },
+    {
+      "name": "Map and nearby sources",
+      "pass": true
+    },
+    {
+      "name": "Mobile and paired HTML responsive interactions",
+      "pass": true
+    },
+    {
+      "name": "Actual network media smoke test",
+      "pass": true
+    }
+  ],
+  "pageErrors": [],
+  "appConsole": [],
+  "network": [
+    {
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.google.com/js/th/WqKOXfWIFxB-XN3hBm5zepers2HYXoMPp6sS78jI_4Y.js",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/playback",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "screenshots": [
+    "desktop-scrolled-date-only.png",
+    "desktop-wall-12.png",
+    "map-daisen.png",
+    "mobile-390-scrolled.png",
+    "mobile-320-scrolled.png",
+    "mobile-768-scrolled.png",
+    "real-sakaiminato.png",
+    "real-yonago.png"
+  ],
+  "hashBefore": {
+    "tottori-livecams.html": "d4ac6da88f410021c203b8c28b263dd3b36dd2f47cdfc51311961f4cd6f41e79",
+    "tottori-livecams-no-storyboard.html": "d4ac6da88f410021c203b8c28b263dd3b36dd2f47cdfc51311961f4cd6f41e79",
+    "livecams-assets/advanced-controls.js": "aeb4ea2a7014f51b00de13906309dea4508353a860f0489ccf04eac18408f8d4",
+    "livecams-assets/advanced-controls.css": "0cb62212cc1300024bf5986b60b5e969d2096dbcf81407b42c5cd64fd8adf246",
+    "tottori-livecams-cameras.json": "08b569654f522788443c9615ed214410ca505cdbc6e298ee280bb6ca2e1275be"
+  },
+  "server": {
+    "pid": 33344,
+    "url": "http://127.0.0.1:8765",
+    "processEnded": true,
+    "portClosed": true
+  },
+  "limits": [
+    "At least one real video advanced during smoke test; not all 84 sources have been individually verified."
+  ],
+  "realImages": [
+    {
+      "id": "daisen-north-wall",
+      "width": 480,
+      "height": 360,
+      "preview": true,
+      "url": "https://i.ytimg.com/vi/g2ks-Q4IEj0/hqdefault.jpg"
+    },
+    {
+      "id": "daisenji-road-158",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://yukinavi.net/data/051/camera.jpg"
+    },
+    {
+      "id": "makihara-road-24",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/061/camera.jpg"
+    },
+    {
+      "id": "misasa-road",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/113/camera.jpg"
+    },
+    {
+      "id": "masumizu-slope",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg"
+    },
+    {
+      "id": "kurayoshi-road",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/196/camera.jpg"
+    },
+    {
+      "id": "kaike-coast",
+      "width": 720,
+      "height": 480,
+      "preview": false,
+      "url": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg"
+    },
+    {
+      "id": "sakaiminato-city",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://yukinavi.net/data/271/camera.jpg"
+    },
+    {
+      "id": "sanindo-takakusa",
+      "width": 720,
+      "height": 480,
+      "preview": false,
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg"
+    },
+    {
+      "id": "r9-hakuto",
+      "width": 720,
+      "height": 480,
+      "preview": false,
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg"
+    },
+    {
+      "id": "matsue-tsk",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://tsk-tv.com/camera/webcam/currentvga.jpg"
+    },
+    {
+      "id": "yumeminato-port",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://webcam.wni.co.jp/CXQ75794/camera.jpg"
+    },
+    {
+      "id": "tottori-airport-approach",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/162/camera.jpg"
+    },
+    {
+      "id": "sanindo-shigeyama",
+      "width": 720,
+      "height": 480,
+      "preview": false,
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg"
+    },
+    {
+      "id": "tottori-airport-runway",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "misasa-bridge-unverified",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "old-white-resort-cameras",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "sanindo-nawa-maintenance",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "sanindo-tomari-maintenance",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "eshima-bridge-weather",
+      "width": 960,
+      "height": 540,
+      "preview": true,
+      "url": "http://127.0.0.1:8765/livecams-assets/link-cards/eshima-bridge-weather.svg"
+    },
+    {
+      "id": "vogel-ogaki-r431",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://www.roadi.pref.shimane.jp/data/snapshot/0108.jpg"
+    },
+    {
+      "id": "navi-153",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/153/camera.jpg"
+    },
+    {
+      "id": "navi-159",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/159/camera.jpg"
+    },
+    {
+      "id": "navi-158",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/158/camera.jpg"
+    },
+    {
+      "id": "navi-257",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/257/camera.jpg"
+    },
+    {
+      "id": "navi-265",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://yukinavi.net/data/265/camera.jpg"
+    },
+    {
+      "id": "navi-264",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://yukinavi.net/data/264/camera.jpg"
+    },
+    {
+      "id": "navi-211",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/211/camera.jpg"
+    },
+    {
+      "id": "navi-087",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/087/camera.jpg"
+    },
+    {
+      "id": "navi-047",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/047/camera.jpg"
+    },
+    {
+      "id": "navi-050",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/050/camera.jpg"
+    },
+    {
+      "id": "navi-203",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/203/camera.jpg"
+    },
+    {
+      "id": "navi-205",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/205/camera.jpg"
+    },
+    {
+      "id": "navi-005",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/005/camera.jpg"
+    },
+    {
+      "id": "navi-089",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/089/camera.jpg"
+    },
+    {
+      "id": "navi-209",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/209/camera.jpg"
+    },
+    {
+      "id": "navi-267",
+      "width": 640,
+      "height": 480,
+      "preview": false,
+      "url": "https://yukinavi.net/data/267/camera.jpg"
+    },
+    {
+      "id": "navi-024",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/024/camera.jpg"
+    },
+    {
+      "id": "navi-199",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/199/camera.jpg"
+    },
+    {
+      "id": "navi-220",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/220/camera.jpg"
+    },
+    {
+      "id": "navi-006",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/006/camera.jpg"
+    },
+    {
+      "id": "navi-224",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/224/camera.jpg"
+    },
+    {
+      "id": "navi-223",
+      "width": 320,
+      "height": 240,
+      "preview": false,
+      "url": "https://yukinavi.net/data/223/camera.jpg"
+    },
+    {
+      "id": "nkt-yonago-station",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "tottori-station-city-preview",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "tottori-karo-city-preview",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "tottori-sakyu-city-preview",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "tottori-sakyu-parking-info",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "yokai-garden-legacy",
+      "width": 960,
+      "height": 540,
+      "preview": true,
+      "url": "http://127.0.0.1:8765/livecams-assets/link-cards/yokai-garden-legacy.svg"
+    },
+    {
+      "id": "daisen-env-paused",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "nkt-kaike-history",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "github-iVxzEyeCvrM",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    },
+    {
+      "id": "github-rTViPLUmYAc",
+      "width": 120,
+      "height": 90,
+      "preview": true,
+      "url": "https://i.ytimg.com/vi/rTViPLUmYAc/hqdefault.jpg"
+    },
+    {
+      "id": "github-tS7IJCDfalk",
+      "width": 0,
+      "height": 0,
+      "preview": true,
+      "url": ""
+    }
+  ],
+  "realVideo": {
+    "before": [
+      {
+        "width": 640,
+        "time": 166.3575,
+        "frames": 743,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 17.33371,
+        "frames": 177,
+        "paused": false
+      }
+    ],
+    "after": [
+      {
+        "width": 640,
+        "time": 169.3714,
+        "frames": 834,
+        "paused": false
+      },
+      {
+        "width": 768,
+        "time": 20.32447,
+        "frames": 206,
+        "paused": false
+      }
+    ]
+  },
+  "hashAfter": {
+    "tottori-livecams.html": "d4ac6da88f410021c203b8c28b263dd3b36dd2f47cdfc51311961f4cd6f41e79",
+    "tottori-livecams-no-storyboard.html": "d4ac6da88f410021c203b8c28b263dd3b36dd2f47cdfc51311961f4cd6f41e79",
+    "livecams-assets/advanced-controls.js": "aeb4ea2a7014f51b00de13906309dea4508353a860f0489ccf04eac18408f8d4",
+    "livecams-assets/advanced-controls.css": "0cb62212cc1300024bf5986b60b5e969d2096dbcf81407b42c5cd64fd8adf246",
+    "tottori-livecams-cameras.json": "08b569654f522788443c9615ed214410ca505cdbc6e298ee280bb6ca2e1275be"
+  },
+  "readOnly": true,
+  "finishedAt": "2026-10-25T09:55:39.191Z",
+  "summary": {
+    "pass": 99,
+    "fail": 0,
+    "interrupted": 0,
+    "pageErrors": 0,
+    "appConsole": 0,
+    "readOnly": true,
+    "serverEnded": true,
+    "portClosed": true
+  }
+}

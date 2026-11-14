@@ -1,0 +1,189 @@
+{
+  "batches": [
+    {
+      "ids": [
+        "place-057",
+        "place-058",
+        "place-059"
+      ],
+      "queries": [
+        {
+          "id": "place-057",
+          "name": "⑥ 千代むすび 大正橋店",
+          "q": "千代むすび 大正橋店 境港 ライブカメラ"
+        },
+        {
+          "id": "place-058",
+          "name": "⑤ じげの物産館",
+          "q": "じげの物産館 境港 ライブカメラ"
+        },
+        {
+          "id": "place-059",
+          "name": "㉙ 苺一縁",
+          "q": "苺一縁 境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0263",
+        "source-0264",
+        "source-0265",
+        "source-0266",
+        "source-0267",
+        "source-0268",
+        "source-0269",
+        "source-0270",
+        "source-0146",
+        "source-0271",
+        "source-0272",
+        "source-0273",
+        "source-0274",
+        "source-0275"
+      ]
+    },
+    {
+      "ids": [
+        "place-060",
+        "place-061",
+        "place-062"
+      ],
+      "queries": [
+        {
+          "id": "place-060",
+          "name": "㉛ むじゃら",
+          "q": "むじゃら 境港 ライブカメラ"
+        },
+        {
+          "id": "place-061",
+          "name": "妖怪神社",
+          "q": "妖怪神社 境港 ライブカメラ"
+        },
+        {
+          "id": "place-062",
+          "name": "㉜ 三平茶屋",
+          "q": "三平茶屋 境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0276",
+        "source-0277",
+        "source-0172",
+        "source-0245",
+        "source-0278",
+        "source-0048",
+        "source-0232",
+        "source-0146",
+        "source-0279",
+        "source-0280",
+        "source-0154",
+        "source-0281",
+        "source-0136",
+        "source-0282",
+        "source-0283",
+        "source-0252",
+        "source-0228",
+        "source-0284",
+        "source-0261",
+        "source-0262"
+      ]
+    },
+    {
+      "ids": [
+        "place-063",
+        "place-064",
+        "place-065"
+      ],
+      "queries": [
+        {
+          "id": "place-063",
+          "name": "妖怪廣場",
+          "q": "妖怪広場 境港 ライブカメラ"
+        },
+        {
+          "id": "place-064",
+          "name": "㉝ 元気亭。",
+          "q": "元気亭 境港 ライブカメラ"
+        },
+        {
+          "id": "place-065",
+          "name": "㉞ 鬼太郎交番",
+          "q": "鬼太郎交番 境港 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0147",
+        "source-0285",
+        "source-0172",
+        "source-0048",
+        "source-0226",
+        "source-0286",
+        "source-0245",
+        "source-0287",
+        "source-0146",
+        "source-0221",
+        "source-0176",
+        "source-0288",
+        "source-0260",
+        "source-0289",
+        "source-0290",
+        "source-0291",
+        "source-0252",
+        "source-0292",
+        "source-0293",
+        "source-0294",
+        "source-0262",
+        "source-0295"
+      ]
+    },
+    {
+      "ids": [
+        "place-066",
+        "place-067",
+        "place-068"
+      ],
+      "queries": [
+        {
+          "id": "place-066",
+          "name": "お好み焼き古都 廣島燒",
+          "q": "お好み焼き 古都 境港 ライブカメラ"
+        },
+        {
+          "id": "place-067",
+          "name": "MARUGO 超市",
+          "q": "まるごう 境港 ライブカメラ"
+        },
+        {
+          "id": "place-068",
+          "name": "境港車站 蓋JR紀念章",
+          "q": "境港駅 ライブカメラ"
+        }
+      ],
+      "at": "2026-10-25",
+      "sourceIds": [
+        "source-0272",
+        "source-0296",
+        "source-0152",
+        "source-0297",
+        "source-0146",
+        "source-0245",
+        "source-0298",
+        "source-0147",
+        "source-0299",
+        "source-0281",
+        "source-0151",
+        "source-0300",
+        "source-0301",
+        "source-0252",
+        "source-0156",
+        "source-0302",
+        "source-0011",
+        "source-0303",
+        "source-0304",
+        "source-0305"
+      ]
+    }
+  ],
+  "sourceIndex": "../../tottori-livecams-search-log.json"
+}

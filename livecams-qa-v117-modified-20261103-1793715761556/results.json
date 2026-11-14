@@ -1,0 +1,1381 @@
+{
+  "scope": "Only v117 changes: D2/D6/D8 event and route changes, new165/228/275 sources, updated Daisen stream; no full regression",
+  "checks": [
+    {
+      "name": "desktop source count updated",
+      "pass": true
+    },
+    {
+      "name": "desktop D2 active",
+      "pass": true
+    },
+    {
+      "name": "desktop D2 no obsolete rental/icecream",
+      "pass": true
+    },
+    {
+      "name": "desktop D2 Times option exists",
+      "pass": true
+    },
+    {
+      "name": "desktop modified visit visit-013",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前 出發",
+        "time": "08:50–08:50"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-014",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店 租車",
+        "time": "08:59–09:19"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-015",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前 載行李",
+        "time": "09:23–09:43"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-016",
+      "pass": true,
+      "detail": {
+        "title": "鳥取沙丘停車場 停車",
+        "time": "09:58–10:08"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-017",
+      "pass": true,
+      "detail": {
+        "title": "鳥取沙丘",
+        "time": "10:09–11:09"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-018",
+      "pass": true,
+      "detail": {
+        "title": "Takahama Café 午餐",
+        "time": "11:17–12:17"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-019",
+      "pass": true,
+      "detail": {
+        "title": "Rakudaya 紀念品店",
+        "time": "12:19–12:39"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-020",
+      "pass": true,
+      "detail": {
+        "title": "布丁專賣店 Totto PURIN。",
+        "time": "12:41–13:01"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-022",
+      "pass": true,
+      "detail": {
+        "title": "鳥取沙丘停車場 取車",
+        "time": "13:07–13:12"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-023",
+      "pass": true,
+      "detail": {
+        "title": "Cowy's Milk House",
+        "time": "14:27–15:07"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-024",
+      "pass": true,
+      "detail": {
+        "title": "MEGA唐吉軻德 米子店",
+        "time": "16:03–17:53"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-025",
+      "pass": true,
+      "detail": {
+        "title": "元祖 牛肉そばつけ麺 為セバ成ル 沾麵",
+        "time": "17:53–18:33"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-026",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 米子站前 入住 停車 睡覺",
+        "time": "18:49–18:49"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-013-visit-014",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～Times 鳥取駅前店",
+        "time": "08:50–08:59"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-014-visit-015",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店～Green Rich Hotel 鳥取站前",
+        "time": "09:19–09:23"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-015-visit-016",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～鳥取砂丘停車場",
+        "time": "09:43–09:58"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-022-visit-023",
+      "pass": true,
+      "detail": {
+        "title": "鳥取砂丘停車場～Cowy's Milk House",
+        "time": "13:12–14:27"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-023-visit-024",
+      "pass": true,
+      "detail": {
+        "title": "Cowy's Milk House～MEGA唐吉軻德米子店",
+        "time": "15:07–16:03"
+      }
+    },
+    {
+      "name": "desktop D6 active",
+      "pass": true
+    },
+    {
+      "name": "desktop D6 no obsolete rental/icecream",
+      "pass": true
+    },
+    {
+      "name": "desktop modified visit visit-100",
+      "pass": true,
+      "detail": {
+        "title": "皆生溫泉 海の四季",
+        "time": "09:00–09:00"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-169",
+      "pass": true,
+      "detail": {
+        "title": "岡成展望駐車場",
+        "time": "09:26–09:36"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-170",
+      "pass": true,
+      "detail": {
+        "title": "本宮展望駐車場",
+        "time": "09:41–09:51"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-101",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂 停車",
+        "time": "10:08–10:18"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-102",
+      "pass": true,
+      "detail": {
+        "title": "大山寺(穿冰爪)",
+        "time": "10:32–10:52"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-103",
+      "pass": true,
+      "detail": {
+        "title": "大山参道市場(午餐)",
+        "time": "10:59–11:59"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-104",
+      "pass": true,
+      "detail": {
+        "title": "大神山神社奧宮(穿冰爪)",
+        "time": "12:29–12:49"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-105",
+      "pass": true,
+      "detail": {
+        "title": "大山寺 下山観音堂",
+        "time": "13:07–13:12"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-106",
+      "pass": true,
+      "detail": {
+        "title": "角磐山大山寺仁王門",
+        "time": "13:14–13:19"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-107",
+      "pass": true,
+      "detail": {
+        "title": "大山参道市場 下午茶",
+        "time": "13:24–14:24"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-108",
+      "pass": true,
+      "detail": {
+        "title": "Montbell",
+        "time": "14:26–14:56"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-109",
+      "pass": true,
+      "detail": {
+        "title": "大山寺橋 拍照",
+        "time": "14:57–15:07"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-110",
+      "pass": true,
+      "detail": {
+        "title": "鳥取県立大山自然歴史館 室內 buffer",
+        "time": "15:12–15:32"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-111",
+      "pass": true,
+      "detail": {
+        "title": "大山遊客中心 室內 buffer",
+        "time": "15:33–15:48"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-112",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂 入住",
+        "time": "15:51–17:46"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-113",
+      "pass": true,
+      "detail": {
+        "title": "綠莊 晚餐",
+        "time": "17:50–19:20"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-114",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂 睡覺",
+        "time": "19:24–19:24"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-100-visit-169",
+      "pass": true,
+      "detail": {
+        "title": "皆生溫泉海の四季～岡成展望駐車場",
+        "time": "09:00–09:26"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-169-visit-170",
+      "pass": true,
+      "detail": {
+        "title": "岡成展望駐車場～本宮展望駐車場",
+        "time": "09:36–09:41"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-170-visit-101",
+      "pass": true,
+      "detail": {
+        "title": "本宮展望駐車場～大山参道ホテル頂",
+        "time": "09:51–10:08"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-101-visit-102",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂～大山寺",
+        "time": "10:18–10:32"
+      }
+    },
+    {
+      "name": "desktop D8 active",
+      "pass": true
+    },
+    {
+      "name": "desktop D8 no obsolete rental/icecream",
+      "pass": true
+    },
+    {
+      "name": "desktop D8 Times option exists",
+      "pass": true
+    },
+    {
+      "name": "desktop modified visit visit-149",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店 4點前還車",
+        "time": "15:14–15:29"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-150",
+      "pass": true,
+      "detail": {
+        "title": "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+        "time": "15:35–15:55"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-151",
+      "pass": true,
+      "detail": {
+        "title": "丸由百貨 無印良品",
+        "time": "15:56–16:36"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-152",
+      "pass": true,
+      "detail": {
+        "title": "Shamine 鳥取 車站購物中心",
+        "time": "16:41–17:11"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-153",
+      "pass": true,
+      "detail": {
+        "title": "扭蛋ドリームカプセルシャミネ鳥取店",
+        "time": "17:12–17:22"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-154",
+      "pass": true,
+      "detail": {
+        "title": "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+        "time": "17:25–18:55"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-155",
+      "pass": true,
+      "detail": {
+        "title": "PLAZA シャミネ鳥取店",
+        "time": "18:58–19:18"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-156",
+      "pass": true,
+      "detail": {
+        "title": "KoKuMiN Shamine鳥取店 藥妝店",
+        "time": "19:19–19:39"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-157",
+      "pass": true,
+      "detail": {
+        "title": "伴手禮樂市 鳥取店",
+        "time": "19:41–20:01"
+      }
+    },
+    {
+      "name": "desktop modified visit visit-158",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前 睡覺",
+        "time": "20:08–20:08"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-148-visit-149",
+      "pass": true,
+      "detail": {
+        "title": "ENEOS 鳥取站南～Times 鳥取駅前店",
+        "time": "15:10–15:14"
+      }
+    },
+    {
+      "name": "desktop modified leg leg-visit-149-visit-150",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店～TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+        "time": "15:29–15:35"
+      }
+    },
+    {
+      "name": "desktop removed icecream no longer listed",
+      "pass": true
+    },
+    {
+      "name": "desktop shared dune sources retained",
+      "pass": true
+    },
+    {
+      "name": "desktop Times street references visible",
+      "pass": true
+    },
+    {
+      "name": "desktop Times map points to new store",
+      "pass": true
+    },
+    {
+      "name": "desktop new D6 stops in actual order",
+      "pass": true
+    },
+    {
+      "name": "desktop old D6 bypass removed",
+      "pass": true
+    },
+    {
+      "name": "desktop Okunari link shows new route",
+      "pass": true
+    },
+    {
+      "name": "desktop new image failure keeps a valid official entry",
+      "pass": true
+    },
+    {
+      "name": "desktop partial JPEG is link-only warning",
+      "pass": true
+    },
+    {
+      "name": "desktop existing uphill references retained",
+      "pass": true
+    },
+    {
+      "name": "desktop changed views no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "desktop changed dates still available while scrolled",
+      "pass": true
+    },
+    {
+      "name": "desktop D8 selection after scroll",
+      "pass": true
+    },
+    {
+      "name": "phone source count updated",
+      "pass": true
+    },
+    {
+      "name": "phone D2 active",
+      "pass": true
+    },
+    {
+      "name": "phone D2 no obsolete rental/icecream",
+      "pass": true
+    },
+    {
+      "name": "phone D2 Times option exists",
+      "pass": true
+    },
+    {
+      "name": "phone modified visit visit-013",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前 出發",
+        "time": "08:50–08:50"
+      }
+    },
+    {
+      "name": "phone modified visit visit-014",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店 租車",
+        "time": "08:59–09:19"
+      }
+    },
+    {
+      "name": "phone modified visit visit-015",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前 載行李",
+        "time": "09:23–09:43"
+      }
+    },
+    {
+      "name": "phone modified visit visit-016",
+      "pass": true,
+      "detail": {
+        "title": "鳥取沙丘停車場 停車",
+        "time": "09:58–10:08"
+      }
+    },
+    {
+      "name": "phone modified visit visit-017",
+      "pass": true,
+      "detail": {
+        "title": "鳥取沙丘",
+        "time": "10:09–11:09"
+      }
+    },
+    {
+      "name": "phone modified visit visit-018",
+      "pass": true,
+      "detail": {
+        "title": "Takahama Café 午餐",
+        "time": "11:17–12:17"
+      }
+    },
+    {
+      "name": "phone modified visit visit-019",
+      "pass": true,
+      "detail": {
+        "title": "Rakudaya 紀念品店",
+        "time": "12:19–12:39"
+      }
+    },
+    {
+      "name": "phone modified visit visit-020",
+      "pass": true,
+      "detail": {
+        "title": "布丁專賣店 Totto PURIN。",
+        "time": "12:41–13:01"
+      }
+    },
+    {
+      "name": "phone modified visit visit-022",
+      "pass": true,
+      "detail": {
+        "title": "鳥取沙丘停車場 取車",
+        "time": "13:07–13:12"
+      }
+    },
+    {
+      "name": "phone modified visit visit-023",
+      "pass": true,
+      "detail": {
+        "title": "Cowy's Milk House",
+        "time": "14:27–15:07"
+      }
+    },
+    {
+      "name": "phone modified visit visit-024",
+      "pass": true,
+      "detail": {
+        "title": "MEGA唐吉軻德 米子店",
+        "time": "16:03–17:53"
+      }
+    },
+    {
+      "name": "phone modified visit visit-025",
+      "pass": true,
+      "detail": {
+        "title": "元祖 牛肉そばつけ麺 為セバ成ル 沾麵",
+        "time": "17:53–18:33"
+      }
+    },
+    {
+      "name": "phone modified visit visit-026",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 米子站前 入住 停車 睡覺",
+        "time": "18:49–18:49"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-013-visit-014",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～Times 鳥取駅前店",
+        "time": "08:50–08:59"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-014-visit-015",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店～Green Rich Hotel 鳥取站前",
+        "time": "09:19–09:23"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-015-visit-016",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前～鳥取砂丘停車場",
+        "time": "09:43–09:58"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-022-visit-023",
+      "pass": true,
+      "detail": {
+        "title": "鳥取砂丘停車場～Cowy's Milk House",
+        "time": "13:12–14:27"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-023-visit-024",
+      "pass": true,
+      "detail": {
+        "title": "Cowy's Milk House～MEGA唐吉軻德米子店",
+        "time": "15:07–16:03"
+      }
+    },
+    {
+      "name": "phone D6 active",
+      "pass": true
+    },
+    {
+      "name": "phone D6 no obsolete rental/icecream",
+      "pass": true
+    },
+    {
+      "name": "phone modified visit visit-100",
+      "pass": true,
+      "detail": {
+        "title": "皆生溫泉 海の四季",
+        "time": "09:00–09:00"
+      }
+    },
+    {
+      "name": "phone modified visit visit-169",
+      "pass": true,
+      "detail": {
+        "title": "岡成展望駐車場",
+        "time": "09:26–09:36"
+      }
+    },
+    {
+      "name": "phone modified visit visit-170",
+      "pass": true,
+      "detail": {
+        "title": "本宮展望駐車場",
+        "time": "09:41–09:51"
+      }
+    },
+    {
+      "name": "phone modified visit visit-101",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂 停車",
+        "time": "10:08–10:18"
+      }
+    },
+    {
+      "name": "phone modified visit visit-102",
+      "pass": true,
+      "detail": {
+        "title": "大山寺(穿冰爪)",
+        "time": "10:32–10:52"
+      }
+    },
+    {
+      "name": "phone modified visit visit-103",
+      "pass": true,
+      "detail": {
+        "title": "大山参道市場(午餐)",
+        "time": "10:59–11:59"
+      }
+    },
+    {
+      "name": "phone modified visit visit-104",
+      "pass": true,
+      "detail": {
+        "title": "大神山神社奧宮(穿冰爪)",
+        "time": "12:29–12:49"
+      }
+    },
+    {
+      "name": "phone modified visit visit-105",
+      "pass": true,
+      "detail": {
+        "title": "大山寺 下山観音堂",
+        "time": "13:07–13:12"
+      }
+    },
+    {
+      "name": "phone modified visit visit-106",
+      "pass": true,
+      "detail": {
+        "title": "角磐山大山寺仁王門",
+        "time": "13:14–13:19"
+      }
+    },
+    {
+      "name": "phone modified visit visit-107",
+      "pass": true,
+      "detail": {
+        "title": "大山参道市場 下午茶",
+        "time": "13:24–14:24"
+      }
+    },
+    {
+      "name": "phone modified visit visit-108",
+      "pass": true,
+      "detail": {
+        "title": "Montbell",
+        "time": "14:26–14:56"
+      }
+    },
+    {
+      "name": "phone modified visit visit-109",
+      "pass": true,
+      "detail": {
+        "title": "大山寺橋 拍照",
+        "time": "14:57–15:07"
+      }
+    },
+    {
+      "name": "phone modified visit visit-110",
+      "pass": true,
+      "detail": {
+        "title": "鳥取県立大山自然歴史館 室內 buffer",
+        "time": "15:12–15:32"
+      }
+    },
+    {
+      "name": "phone modified visit visit-111",
+      "pass": true,
+      "detail": {
+        "title": "大山遊客中心 室內 buffer",
+        "time": "15:33–15:48"
+      }
+    },
+    {
+      "name": "phone modified visit visit-112",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂 入住",
+        "time": "15:51–17:46"
+      }
+    },
+    {
+      "name": "phone modified visit visit-113",
+      "pass": true,
+      "detail": {
+        "title": "綠莊 晚餐",
+        "time": "17:50–19:20"
+      }
+    },
+    {
+      "name": "phone modified visit visit-114",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂 睡覺",
+        "time": "19:24–19:24"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-100-visit-169",
+      "pass": true,
+      "detail": {
+        "title": "皆生溫泉海の四季～岡成展望駐車場",
+        "time": "09:00–09:26"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-169-visit-170",
+      "pass": true,
+      "detail": {
+        "title": "岡成展望駐車場～本宮展望駐車場",
+        "time": "09:36–09:41"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-170-visit-101",
+      "pass": true,
+      "detail": {
+        "title": "本宮展望駐車場～大山参道ホテル頂",
+        "time": "09:51–10:08"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-101-visit-102",
+      "pass": true,
+      "detail": {
+        "title": "大山参道ホテル頂～大山寺",
+        "time": "10:18–10:32"
+      }
+    },
+    {
+      "name": "phone D8 active",
+      "pass": true
+    },
+    {
+      "name": "phone D8 no obsolete rental/icecream",
+      "pass": true
+    },
+    {
+      "name": "phone D8 Times option exists",
+      "pass": true
+    },
+    {
+      "name": "phone modified visit visit-149",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店 4點前還車",
+        "time": "15:14–15:29"
+      }
+    },
+    {
+      "name": "phone modified visit visit-150",
+      "pass": true,
+      "detail": {
+        "title": "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+        "time": "15:35–15:55"
+      }
+    },
+    {
+      "name": "phone modified visit visit-151",
+      "pass": true,
+      "detail": {
+        "title": "丸由百貨 無印良品",
+        "time": "15:56–16:36"
+      }
+    },
+    {
+      "name": "phone modified visit visit-152",
+      "pass": true,
+      "detail": {
+        "title": "Shamine 鳥取 車站購物中心",
+        "time": "16:41–17:11"
+      }
+    },
+    {
+      "name": "phone modified visit visit-153",
+      "pass": true,
+      "detail": {
+        "title": "扭蛋ドリームカプセルシャミネ鳥取店",
+        "time": "17:12–17:22"
+      }
+    },
+    {
+      "name": "phone modified visit visit-154",
+      "pass": true,
+      "detail": {
+        "title": "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+        "time": "17:25–18:55"
+      }
+    },
+    {
+      "name": "phone modified visit visit-155",
+      "pass": true,
+      "detail": {
+        "title": "PLAZA シャミネ鳥取店",
+        "time": "18:58–19:18"
+      }
+    },
+    {
+      "name": "phone modified visit visit-156",
+      "pass": true,
+      "detail": {
+        "title": "KoKuMiN Shamine鳥取店 藥妝店",
+        "time": "19:19–19:39"
+      }
+    },
+    {
+      "name": "phone modified visit visit-157",
+      "pass": true,
+      "detail": {
+        "title": "伴手禮樂市 鳥取店",
+        "time": "19:41–20:01"
+      }
+    },
+    {
+      "name": "phone modified visit visit-158",
+      "pass": true,
+      "detail": {
+        "title": "Green Rich Hotel 鳥取站前 睡覺",
+        "time": "20:08–20:08"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-148-visit-149",
+      "pass": true,
+      "detail": {
+        "title": "ENEOS 鳥取站南～Times 鳥取駅前店",
+        "time": "15:10–15:14"
+      }
+    },
+    {
+      "name": "phone modified leg leg-visit-149-visit-150",
+      "pass": true,
+      "detail": {
+        "title": "Times 鳥取駅前店～TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+        "time": "15:29–15:35"
+      }
+    },
+    {
+      "name": "phone removed icecream no longer listed",
+      "pass": true
+    },
+    {
+      "name": "phone shared dune sources retained",
+      "pass": true
+    },
+    {
+      "name": "phone Times street references visible",
+      "pass": true
+    },
+    {
+      "name": "phone Times map points to new store",
+      "pass": true
+    },
+    {
+      "name": "phone new D6 stops in actual order",
+      "pass": true
+    },
+    {
+      "name": "phone old D6 bypass removed",
+      "pass": true
+    },
+    {
+      "name": "phone Okunari link shows new route",
+      "pass": true
+    },
+    {
+      "name": "phone new image failure keeps a valid official entry",
+      "pass": true
+    },
+    {
+      "name": "phone partial JPEG is link-only warning",
+      "pass": true
+    },
+    {
+      "name": "phone existing uphill references retained",
+      "pass": true
+    },
+    {
+      "name": "phone changed views no horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "phone changed dates still available while scrolled",
+      "pass": true
+    },
+    {
+      "name": "phone D8 selection after scroll",
+      "pass": true
+    },
+    {
+      "name": "navi-165 actual cross-site image decode",
+      "pass": true
+    },
+    {
+      "name": "navi-165 zoom opens escape",
+      "pass": true
+    },
+    {
+      "name": "navi-165 zoom closes escape",
+      "pass": true
+    },
+    {
+      "name": "navi-165 zoom opens button",
+      "pass": true
+    },
+    {
+      "name": "navi-165 zoom closes button",
+      "pass": true
+    },
+    {
+      "name": "navi-165 zoom opens backdrop",
+      "pass": true
+    },
+    {
+      "name": "navi-165 zoom closes backdrop",
+      "pass": true
+    },
+    {
+      "name": "navi-228 actual cross-site image decode",
+      "pass": true
+    },
+    {
+      "name": "navi-228 zoom opens escape",
+      "pass": true
+    },
+    {
+      "name": "navi-228 zoom closes escape",
+      "pass": true
+    },
+    {
+      "name": "navi-228 zoom opens button",
+      "pass": true
+    },
+    {
+      "name": "navi-228 zoom closes button",
+      "pass": true
+    },
+    {
+      "name": "navi-228 zoom opens backdrop",
+      "pass": true
+    },
+    {
+      "name": "navi-228 zoom closes backdrop",
+      "pass": true
+    },
+    {
+      "name": "275 remains a working official entry",
+      "pass": true
+    },
+    {
+      "name": "275 not counted as a live received image",
+      "pass": true
+    },
+    {
+      "name": "Daisen source changed to official current video",
+      "pass": true
+    }
+  ],
+  "stages": [
+    {
+      "name": "Changed D2/D6/D8 itinerary and routes on desktop and phone",
+      "pass": true
+    },
+    {
+      "name": "Only new/updated media sources across the browser boundary",
+      "pass": true
+    }
+  ],
+  "pageErrors": [],
+  "appConsole": [],
+  "localErrors": [],
+  "externalErrors": [
+    {
+      "url": "https://yukinavi.net/data/051/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/061/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/113/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.houki-town.jp/ski/camera/live/livecamera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/196/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.cgr.mlit.go.jp/hinogawa/camera/kaike_kaihinkouen.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/271/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C02720.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/hakuto-east.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://tsk-tv.com/camera/webcam/currentvga.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://webcam.wni.co.jp/CXQ75794/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/162/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.cgr.mlit.go.jp/cctv/tottori/C03417.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.roadi.pref.shimane.jp/data/snapshot/0108.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/153/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/159/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/158/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/257/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/265/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/264/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/211/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/087/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/047/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/050/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/203/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/205/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/005/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/089/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/209/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/267/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/024/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/199/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/220/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/006/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/224/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://yukinavi.net/data/223/camera.jpg",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.google.com/js/th/rsSwjcGNgF8jpm_o4j3WV-HcKQTvJHp8aSN__p2g-C0.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.google.com/js/th/rsSwjcGNgF8jpm_o4j3WV-HcKQTvJHp8aSN__p2g-C0.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.google.com/js/th/rsSwjcGNgF8jpm_o4j3WV-HcKQTvJHp8aSN__p2g-C0.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/playback",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/embed/establish_zw",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.google.com/js/th/rsSwjcGNgF8jpm_o4j3WV-HcKQTvJHp8aSN__p2g-C0.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.google.com/js/th/rsSwjcGNgF8jpm_o4j3WV-HcKQTvJHp8aSN__p2g-C0.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/qoe",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/watchtime",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.google.com/js/th/rsSwjcGNgF8jpm_o4j3WV-HcKQTvJHp8aSN__p2g-C0.js",
+      "error": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+    }
+  ],
+  "screenshots": [
+    "desktop-times.png",
+    "desktop-okunari.png",
+    "desktop-motomiya.png",
+    "phone-times.png",
+    "phone-okunari.png",
+    "phone-motomiya.png",
+    "navi-165-actual-image.png",
+    "navi-228-actual-image.png",
+    "daisen-current-stream.png"
+  ],
+  "media": {
+    "navi-165": {
+      "width": 640,
+      "height": 480,
+      "url": "https://yukinavi.net/data/165/camera.jpg"
+    },
+    "navi-228": {
+      "width": 320,
+      "height": 240,
+      "url": "https://yukinavi.net/data/228/camera.jpg"
+    },
+    "daisen": {
+      "before": {
+        "frame": true,
+        "url": "https://www.youtube.com/embed/X00XWLh3ztk?autoplay=1&mute=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A8765&enablejsapi=1&widgetid=3&forigin=http%3A%2F%2F127.0.0.1%3A8765%2Ftottori-livecams.html&aoriginsup=1&vf=1",
+        "videos": [
+          {
+            "width": 854,
+            "height": 480,
+            "time": 28725.471748,
+            "paused": false,
+            "frames": 337
+          }
+        ],
+        "text": ""
+      },
+      "after": {
+        "frame": true,
+        "url": "https://www.youtube.com/embed/X00XWLh3ztk?autoplay=1&mute=1&playsinline=1&rel=0&origin=http%3A%2F%2F127.0.0.1%3A8765&enablejsapi=1&widgetid=3&forigin=http%3A%2F%2F127.0.0.1%3A8765%2Ftottori-livecams.html&aoriginsup=1&vf=1",
+        "videos": [
+          {
+            "width": 854,
+            "height": 480,
+            "time": 28728.48187,
+            "paused": false,
+            "frames": 428
+          }
+        ],
+        "text": ""
+      },
+      "progress": true
+    }
+  },
+  "hashBefore": {
+    "tottori-livecams.html": "fb7a4f20bedbc0f4f2974a3a90ebd54a7098a9617e796f788f7a084f6764d26e",
+    "tottori-livecams-cameras.json": "c7463ca566fbeb7df524f015616a3e0cd0b85d214fc6973f3afe29751ad8a788",
+    "tottori-livecams-trip.json": "2f4b8d9ba3099f4c7ebf86d3f217bd8ee027a1ba2156b45953f0745682d3c60e",
+    "tottori-livecams-itinerary-points.json": "0e39e7f19a58d97db7451a35155db95a6304ab0c438e66349e8edda52e870b08"
+  },
+  "server": {
+    "pid": 8844,
+    "url": "http://127.0.0.1:8765",
+    "ended": true,
+    "portClosed": true
+  },
+  "startedAt": "2026-11-03T14:22:41.574Z",
+  "externalMediaNotes": [
+    "赤松275官方JPEG源圖不完整；保留入口並標異常，不算即時圖片。",
+    "大山更新後實際影片時間有推進。"
+  ],
+  "hashAfter": {
+    "tottori-livecams.html": "fb7a4f20bedbc0f4f2974a3a90ebd54a7098a9617e796f788f7a084f6764d26e",
+    "tottori-livecams-cameras.json": "c7463ca566fbeb7df524f015616a3e0cd0b85d214fc6973f3afe29751ad8a788",
+    "tottori-livecams-trip.json": "2f4b8d9ba3099f4c7ebf86d3f217bd8ee027a1ba2156b45953f0745682d3c60e",
+    "tottori-livecams-itinerary-points.json": "0e39e7f19a58d97db7451a35155db95a6304ab0c438e66349e8edda52e870b08"
+  },
+  "readOnly": true,
+  "summary": {
+    "pass": 163,
+    "fail": 0,
+    "interrupted": 0,
+    "pageErrors": 0,
+    "appConsole": 0,
+    "localErrors": 0,
+    "readOnly": true,
+    "serverEnded": true,
+    "portClosed": true
+  }
+}

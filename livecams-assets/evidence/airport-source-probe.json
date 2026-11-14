@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-25",
+  "officialHome": "https://www.ttj-ap-bld.co.jp/",
+  "officialChannel": "https://www.youtube.com/channel/UC4_4DhYQymOkCZP2VNYP4Kg",
+  "results": [
+    {
+      "url": "http://112.78.220.32/all/apron/apron.jpg",
+      "complete": false,
+      "width": 0,
+      "height": 0
+    },
+    {
+      "url": "https://yukinavi.net/data/162/camera.jpg",
+      "complete": true,
+      "width": 320,
+      "height": 240
+    }
+  ],
+  "errors": [
+    {
+      "note": "image wait timeout",
+      "error": "TimeoutError: page.waitForFunction: Timeout 16000ms exceeded."
+    }
+  ],
+  "officialHomeEvidence": {
+    "title": "鳥取砂丘コナン空港",
+    "cameraLinks": [],
+    "youtubeLinks": [
+      "https://youtube.com/shorts/llkT-Z_jtcY",
+      "https://youtube.com/shorts/llkT-Z_jtcY",
+      "https://youtube.com/shorts/llkT-Z_jtcY",
+      "https://www.youtube.com/channel/UC4_4DhYQymOkCZP2VNYP4Kg/"
+    ]
+  },
+  "accessRoadEvidence": {
+    "title": "鳥取商業高前：鳥取市湖山町北（県道264号鳥取空港布勢線）",
+    "text": "\n鳥取商業高前：鳥取市湖山町北（県道264号鳥取空港布勢線）\nライブカメラ画像\n\t　　　　\n\t　　　　\n\n　　　　\n\n\n\n観測日時\t2026/10/25 07:00\n路上温度(℃)\t18.8\n路上積雪深(cm)\t0.0\n\n\n※気象観測値ではありません。    ",
+    "images": [
+      {
+        "url": "https://yukinavi.net/data/162/camera.jpg",
+        "width": 0,
+        "height": 0
+      }
+    ]
+  },
+  "url": "http://127.0.0.1:60815",
+  "serverClosed": true,
+  "portClosed": true
+}

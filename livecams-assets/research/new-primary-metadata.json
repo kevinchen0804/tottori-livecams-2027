@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-25",
+  "result": [
+    {
+      "id": "torimichi-karo",
+      "url": "https://www.torimichiinfo.net/datadetail/35/",
+      "status": 200,
+      "title": "賀露",
+      "inlinePreviewSaved": true
+    },
+    {
+      "id": "torimichi-sakyu",
+      "url": "https://www.torimichiinfo.net/datadetail/39/",
+      "status": 200,
+      "title": "鳥取砂丘",
+      "inlinePreviewSaved": true
+    },
+    {
+      "id": "yt-kurayoshi",
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBBLpltI2QYM&format=json",
+      "status": 200,
+      "title": "【LIVE】倉吉・打吹山カメラ　|　鳥取県倉吉市",
+      "author": "1ちゃん!日本海テレビ",
+      "thumbnail": "https://i.ytimg.com/vi/BBLpltI2QYM/hqdefault.jpg"
+    },
+    {
+      "id": "yt-yonago-nkt",
+      "url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2mCC_zklBNo&format=json",
+      "status": 403
+    }
+  ]
+}

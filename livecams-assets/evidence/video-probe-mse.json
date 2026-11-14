@@ -1,0 +1,303 @@
+{
+  "at": "2026-10-24T22:05:21.605Z",
+  "hlsUrl": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+  "youtube": "https://www.youtube.com/embed/g2ks-Q4IEj0?autoplay=1&mute=1&enablejsapi=1",
+  "requests": [
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "800",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:05:21 GMT"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/embed/g2ks-Q4IEj0?autoplay=1&mute=1&playsinline=1&origin=http%3A%2F%2F127.0.0.1%3A8766&enablejsapi=1&widgetid=1&forigin=http%3A%2F%2F127.0.0.1%3A8766%2F&aoriginsup=1&vf=6",
+      "status": 200,
+      "headers": {
+        "content-type": "text/html; charset=utf-8"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01420.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "695412",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:04:31 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01421.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "321668",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:04:39 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01422.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "266772",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:04:47 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01423.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "329752",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:04:56 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01424.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "329940",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:05:04 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "800",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:05:37 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01425.ts",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "620588",
+        "content-type": "video/mp2t",
+        "last-modified": "Sat, 24 Oct 2026 22:05:21 GMT"
+      }
+    },
+    {
+      "url": "https://webcast.chukai.ne.jp/live/20-camera01.m3u8",
+      "status": 200,
+      "headers": {
+        "access-control-allow-origin": "*",
+        "content-length": "800",
+        "content-type": "application/vnd.apple.mpegurl",
+        "last-modified": "Sat, 24 Oct 2026 22:05:46 GMT"
+      }
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://www.youtube.com/api/stats/qoe?cpn=gGBgUygYdbylbfrS&el=embedded&ns=yt&fexp=v1%2C100673025%2C-76668381%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C16509%2C23206%2C69795%2C30907%2C15105%2C25059%2C4174%2C30447%2C18705%2C26008%2C13015%2C1189%2C14899%2C6621%2C2783%2C23826%2C9500%2C1840%2C94838%2C20588%2C34313%2C9181%2C48686%2C3666%2C6663%2C1168%2C4165%2C3966%2C3785%2C26419%2C4116%2C11462%2C41921%2C4367%2C9717%2C3613%2C26539%2C3843%2C13241%2C5259%2C6469%2C25019%2C12384%2C22088%2C2419%2C655%2C17300%2C3464%2C8966%2C20175%2C1656%2C4594%2C9280%2C759%2C2878%2C5327%2C2266%2C712%2C4071%2C8892%2C10736%2C13669%2C2235%2C6664%2C3421%2C745%2C1069%2C4269%2C165%2C286%2C3619%2C939%2C2072%2C5796%2C1795%2C733%2C2779%2C62%2C283%2C5199%2C7215%2C6727%2C632%2C4668%2C3089&cl=1003072181&seq=1&event=streamingstats&docid=g2ks-Q4IEj0&cbr=HeadlessChrome&cbrver=156.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20261023.01.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.000:ER&cmt=0.000:0.000,0.000:0.000&error=0.000:auth::0.000:0;a6s.0;r.______&vis=0.000:0&bh=0.000:0.000&qclc=ChBnR0JnVXlnWWRieWxiZnJTEAE",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "console": [],
+  "samples": [
+    {
+      "at": "2026-10-24T22:05:31.405Z",
+      "hls": {
+        "time": 156.4826,
+        "width": 640,
+        "height": 480,
+        "readyState": 4,
+        "paused": false,
+        "frames": 448
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "type": "playing",
+          "time": 149.0134
+        },
+        {
+          "type": "waiting",
+          "time": 149.4116
+        },
+        {
+          "type": "playing",
+          "time": 149.4154
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    },
+    {
+      "at": "2026-10-24T22:05:39.446Z",
+      "hls": {
+        "time": 164.5232,
+        "width": 640,
+        "height": 480,
+        "readyState": 4,
+        "paused": false,
+        "frames": 689
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "type": "playing",
+          "time": 149.0134
+        },
+        {
+          "type": "waiting",
+          "time": 149.4116
+        },
+        {
+          "type": "playing",
+          "time": 149.4154
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    },
+    {
+      "at": "2026-10-24T22:05:47.456Z",
+      "hls": {
+        "time": 172.533,
+        "width": 640,
+        "height": 480,
+        "readyState": 4,
+        "paused": false,
+        "frames": 930
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "type": "playing",
+          "time": 149.0134
+        },
+        {
+          "type": "waiting",
+          "time": 149.4116
+        },
+        {
+          "type": "playing",
+          "time": 149.4154
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    },
+    {
+      "at": "2026-10-24T22:05:55.472Z",
+      "hls": {
+        "time": 180.5496,
+        "width": 640,
+        "height": 480,
+        "readyState": 4,
+        "paused": false,
+        "frames": 1170
+      },
+      "hlsEvents": [
+        {
+          "type": "waiting",
+          "time": 0
+        },
+        {
+          "type": "loadedmetadata",
+          "time": 0
+        },
+        {
+          "type": "playing",
+          "time": 149.0134
+        },
+        {
+          "type": "waiting",
+          "time": 149.4116
+        },
+        {
+          "type": "playing",
+          "time": 149.4154
+        }
+      ],
+      "ytLog": [
+        {
+          "type": "ready"
+        },
+        {
+          "type": "error",
+          "value": 150
+        }
+      ],
+      "ytState": -1,
+      "ytTime": 0
+    }
+  ],
+  "url": "http://127.0.0.1:8766",
+  "youtubeFrame": {
+    "text": "無法播放影片\n無法播放影片\n影片擁有者已禁止在其他網站上播放這部影片\n在 YouTube 上觀看",
+    "videos": [
+      {
+        "time": 0,
+        "width": 0,
+        "height": 0,
+        "paused": true,
+        "frames": 0
+      }
+    ]
+  },
+  "serverClosed": true
+}

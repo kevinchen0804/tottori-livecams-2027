@@ -1,0 +1,1516 @@
+{
+  "checkedAt": "2026-11-03T14:22:36.247Z",
+  "source": "D:/python-ai-practice/Migo/output/tottori-trip-2027-v117-taste-no-storyboard.html",
+  "sourceSHA256": "5614fbcf4188e06b11175f333a5d107871e8eab04c792f4e9d3e1df863a00ee4",
+  "checks": [
+    {
+      "name": "Authoritative v117 file unchanged",
+      "pass": true,
+      "detail": "5614fbcf4188e06b11175f333a5d107871e8eab04c792f4e9d3e1df863a00ee4"
+    },
+    {
+      "name": "Independent parser finds intended source counts",
+      "pass": true,
+      "detail": {
+        "D2": 13,
+        "D6": 17,
+        "D8": 23
+      }
+    },
+    {
+      "name": "D2 event count and source DOM order",
+      "pass": true,
+      "detail": {
+        "actual": [
+          "Green Rich Hotel 鳥取站前 出發",
+          "Times 鳥取駅前店 租車",
+          "Green Rich Hotel 鳥取站前 載行李",
+          "鳥取沙丘停車場 停車",
+          "鳥取沙丘",
+          "Takahama Café 午餐",
+          "Rakudaya 紀念品店",
+          "布丁專賣店 Totto PURIN。",
+          "鳥取沙丘停車場 取車",
+          "Cowy's Milk House",
+          "MEGA唐吉軻德 米子店",
+          "元祖 牛肉そばつけ麺 為セバ成ル 沾麵",
+          "Green Rich Hotel 米子站前 入住 停車 睡覺"
+        ],
+        "source": [
+          "Green Rich Hotel 鳥取站前 出發",
+          "Times 鳥取駅前店 租車",
+          "Green Rich Hotel 鳥取站前 載行李",
+          "鳥取沙丘停車場 停車",
+          "鳥取沙丘",
+          "Takahama Café 午餐",
+          "Rakudaya 紀念品店",
+          "布丁專賣店 Totto PURIN。",
+          "鳥取沙丘停車場 取車",
+          "Cowy's Milk House",
+          "MEGA唐吉軻德 米子店",
+          "元祖 牛肉そばつけ麺 為セバ成ル 沾麵",
+          "Green Rich Hotel 米子站前 入住 停車 睡覺"
+        ]
+      }
+    },
+    {
+      "name": "D2 Green Rich Hotel 鳥取站前 出發 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "08:50",
+          "end": "08:50",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        },
+        "actual": {
+          "id": "visit-013",
+          "start": "08:50",
+          "end": "08:50",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        }
+      }
+    },
+    {
+      "name": "D2 Times 鳥取駅前店 租車 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "08:59",
+          "end": "09:19",
+          "mapUrl": "https://www.google.com/maps/place/Times+CAR+RENTAL+Tottori+Station/@35.4954507,134.2202935,1234m/data=!3m2!1e3!4b1!4m6!3m5!1s0x35558fc4ec767f49:0x4ba82a124ec97d67!8m2!3d35.4954507!4d134.2228684!16s%2Fg%2F1thx6fnm"
+        },
+        "actual": {
+          "id": "visit-014",
+          "start": "08:59",
+          "end": "09:19",
+          "mapUrl": "https://www.google.com/maps/place/Times+CAR+RENTAL+Tottori+Station/@35.4954507,134.2202935,1234m/data=!3m2!1e3!4b1!4m6!3m5!1s0x35558fc4ec767f49:0x4ba82a124ec97d67!8m2!3d35.4954507!4d134.2228684!16s%2Fg%2F1thx6fnm"
+        }
+      }
+    },
+    {
+      "name": "D2 Green Rich Hotel 鳥取站前 載行李 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "09:23",
+          "end": "09:43",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        },
+        "actual": {
+          "id": "visit-015",
+          "start": "09:23",
+          "end": "09:43",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        }
+      }
+    },
+    {
+      "name": "D2 鳥取沙丘停車場 停車 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "09:58",
+          "end": "10:08",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5439761%2C134.23701979999998&query_place_id=ChIJmV7s1GCPVTUR-zOo9Qhvazg"
+        },
+        "actual": {
+          "id": "visit-016",
+          "start": "09:58",
+          "end": "10:08",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5439761%2C134.23701979999998&query_place_id=ChIJmV7s1GCPVTUR-zOo9Qhvazg"
+        }
+      }
+    },
+    {
+      "name": "D2 鳥取沙丘 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "10:09",
+          "end": "11:09",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5416178%2C134.2286329&query_place_id=ChIJbx8cHUSPVTURazEAdQKsetg"
+        },
+        "actual": {
+          "id": "visit-017",
+          "start": "10:09",
+          "end": "11:09",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5416178%2C134.2286329&query_place_id=ChIJbx8cHUSPVTURazEAdQKsetg"
+        }
+      }
+    },
+    {
+      "name": "D2 Takahama Café 午餐 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "11:17",
+          "end": "12:17",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.543374199999995%2C134.2373097&query_place_id=ChIJh00HhNSPVTURKmVf6scrqlU"
+        },
+        "actual": {
+          "id": "visit-018",
+          "start": "11:17",
+          "end": "12:17",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.543374199999995%2C134.2373097&query_place_id=ChIJh00HhNSPVTURKmVf6scrqlU"
+        }
+      }
+    },
+    {
+      "name": "D2 Rakudaya 紀念品店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "12:19",
+          "end": "12:39",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5428839%2C134.2370201&query_place_id=ChIJgZzkuk-PVTURYspJ3NGsLlI"
+        },
+        "actual": {
+          "id": "visit-019",
+          "start": "12:19",
+          "end": "12:39",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5428839%2C134.2370201&query_place_id=ChIJgZzkuk-PVTURYspJ3NGsLlI"
+        }
+      }
+    },
+    {
+      "name": "D2 布丁專賣店 Totto PURIN。 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "12:41",
+          "end": "13:01",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5418573%2C134.2368476&query_place_id=ChIJG8FhZfKPVTURqpMB5B0SRDE"
+        },
+        "actual": {
+          "id": "visit-020",
+          "start": "12:41",
+          "end": "13:01",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5418573%2C134.2368476&query_place_id=ChIJG8FhZfKPVTURqpMB5B0SRDE"
+        }
+      }
+    },
+    {
+      "name": "D2 鳥取沙丘停車場 取車 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "13:07",
+          "end": "13:12",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5439761%2C134.23701979999998&query_place_id=ChIJmV7s1GCPVTUR-zOo9Qhvazg"
+        },
+        "actual": {
+          "id": "visit-022",
+          "start": "13:07",
+          "end": "13:12",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5439761%2C134.23701979999998&query_place_id=ChIJmV7s1GCPVTUR-zOo9Qhvazg"
+        }
+      }
+    },
+    {
+      "name": "D2 Cowy's Milk House exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "14:27",
+          "end": "15:07",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4958879%2C133.68840939999998&query_place_id=ChIJ8eZTrhRxVjURCEMp5fM3a0w"
+        },
+        "actual": {
+          "id": "visit-023",
+          "start": "14:27",
+          "end": "15:07",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4958879%2C133.68840939999998&query_place_id=ChIJ8eZTrhRxVjURCEMp5fM3a0w"
+        }
+      }
+    },
+    {
+      "name": "D2 MEGA唐吉軻德 米子店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "16:03",
+          "end": "17:53",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.442363%2C133.3305651&query_place_id=ChIJzdSHHgD3VjUR3JTxT1gn25I"
+        },
+        "actual": {
+          "id": "visit-024",
+          "start": "16:03",
+          "end": "17:53",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.442363%2C133.3305651&query_place_id=ChIJzdSHHgD3VjUR3JTxT1gn25I"
+        }
+      }
+    },
+    {
+      "name": "D2 元祖 牛肉そばつけ麺 為セバ成ル 沾麵 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "17:53",
+          "end": "18:33",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4424101%2C133.3304702&query_place_id=ChIJj8dBdQD3VjURpVnrZChkHqU"
+        },
+        "actual": {
+          "id": "visit-025",
+          "start": "17:53",
+          "end": "18:33",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4424101%2C133.3304702&query_place_id=ChIJj8dBdQD3VjURpVnrZChkHqU"
+        }
+      }
+    },
+    {
+      "name": "D2 Green Rich Hotel 米子站前 入住 停車 睡覺 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "18:49",
+          "end": "18:49",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.424778499999995%2C133.3338793&query_place_id=ChIJn-NFPtP3VjURVtQ0WW04Q0g"
+        },
+        "actual": {
+          "id": "visit-026",
+          "start": "18:49",
+          "end": "18:49",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.424778499999995%2C133.3338793&query_place_id=ChIJn-NFPtP3VjURVtQ0WW04Q0g"
+        }
+      }
+    },
+    {
+      "name": "D6 event count and source DOM order",
+      "pass": true,
+      "detail": {
+        "actual": [
+          "皆生溫泉 海の四季",
+          "岡成展望駐車場",
+          "本宮展望駐車場",
+          "大山参道ホテル頂 停車",
+          "大山寺(穿冰爪)",
+          "大山参道市場(午餐)",
+          "大神山神社奧宮(穿冰爪)",
+          "大山寺 下山観音堂",
+          "角磐山大山寺仁王門",
+          "大山参道市場 下午茶",
+          "Montbell",
+          "大山寺橋 拍照",
+          "鳥取県立大山自然歴史館 室內 buffer",
+          "大山遊客中心 室內 buffer",
+          "大山参道ホテル頂 入住",
+          "綠莊 晚餐",
+          "大山参道ホテル頂 睡覺"
+        ],
+        "source": [
+          "皆生溫泉 海の四季",
+          "岡成展望駐車場",
+          "本宮展望駐車場",
+          "大山参道ホテル頂 停車",
+          "大山寺(穿冰爪)",
+          "大山参道市場(午餐)",
+          "大神山神社奧宮(穿冰爪)",
+          "大山寺 下山観音堂",
+          "角磐山大山寺仁王門",
+          "大山参道市場 下午茶",
+          "Montbell",
+          "大山寺橋 拍照",
+          "鳥取県立大山自然歴史館 室內 buffer",
+          "大山遊客中心 室內 buffer",
+          "大山参道ホテル頂 入住",
+          "綠莊 晚餐",
+          "大山参道ホテル頂 睡覺"
+        ]
+      }
+    },
+    {
+      "name": "D6 皆生溫泉 海の四季 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "09:00",
+          "end": "09:00",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4586111%2C133.3619444&query_place_id=ChIJAQDAwGRYVjURq_xo-JMlGKE"
+        },
+        "actual": {
+          "id": "visit-100",
+          "start": "09:00",
+          "end": "09:00",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4586111%2C133.3619444&query_place_id=ChIJAQDAwGRYVjURq_xo-JMlGKE"
+        }
+      }
+    },
+    {
+      "name": "D6 岡成展望駐車場 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "09:26",
+          "end": "09:36",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4227631%2C133.4225369&query_place_id=ChIJcXI0a19fVjUR6IEqAYNsuuI"
+        },
+        "actual": {
+          "id": "visit-169",
+          "start": "09:26",
+          "end": "09:36",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4227631%2C133.4225369&query_place_id=ChIJcXI0a19fVjUR6IEqAYNsuuI"
+        }
+      }
+    },
+    {
+      "name": "D6 本宮展望駐車場 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "09:41",
+          "end": "09:51",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4182309%2C133.4542212&query_place_id=ChIJ2-x4j5pfVjURZTuDwttKhP4"
+        },
+        "actual": {
+          "id": "visit-170",
+          "start": "09:41",
+          "end": "09:51",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4182309%2C133.4542212&query_place_id=ChIJ2-x4j5pfVjURZTuDwttKhP4"
+        }
+      }
+    },
+    {
+      "name": "D6 大山参道ホテル頂 停車 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "10:08",
+          "end": "10:18",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3933803%2C133.5293688&query_place_id=ChIJ4W-VgG9hVjURyz41keBFtxQ"
+        },
+        "actual": {
+          "id": "visit-101",
+          "start": "10:08",
+          "end": "10:18",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3933803%2C133.5293688&query_place_id=ChIJ4W-VgG9hVjURyz41keBFtxQ"
+        }
+      }
+    },
+    {
+      "name": "D6 大山寺(穿冰爪) exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "10:32",
+          "end": "10:52",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.390979699999995%2C133.5348608&query_place_id=ChIJszkk5bhhVjUR-V897bo3k0M"
+        },
+        "actual": {
+          "id": "visit-102",
+          "start": "10:32",
+          "end": "10:52",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.390979699999995%2C133.5348608&query_place_id=ChIJszkk5bhhVjUR-V897bo3k0M"
+        }
+      }
+    },
+    {
+      "name": "D6 大山参道市場(午餐) exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "10:59",
+          "end": "11:59",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.392694299999995%2C133.5313813&query_place_id=ChIJQ4SahLdhVjURF02QRSitlWU"
+        },
+        "actual": {
+          "id": "visit-103",
+          "start": "10:59",
+          "end": "11:59",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.392694299999995%2C133.5313813&query_place_id=ChIJQ4SahLdhVjURF02QRSitlWU"
+        }
+      }
+    },
+    {
+      "name": "D6 大神山神社奧宮(穿冰爪) exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "12:29",
+          "end": "12:49",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3886684%2C133.538933&query_place_id=ChIJN99RC79hVjURxWlqAFhUdyA"
+        },
+        "actual": {
+          "id": "visit-104",
+          "start": "12:29",
+          "end": "12:49",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3886684%2C133.538933&query_place_id=ChIJN99RC79hVjURxWlqAFhUdyA"
+        }
+      }
+    },
+    {
+      "name": "D6 大山寺 下山観音堂 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "13:07",
+          "end": "13:12",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3911642%2C133.534382&query_place_id=ChIJHeQAWfhhVjURyh2Kxd7gqsg"
+        },
+        "actual": {
+          "id": "visit-105",
+          "start": "13:07",
+          "end": "13:12",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3911642%2C133.534382&query_place_id=ChIJHeQAWfhhVjURyh2Kxd7gqsg"
+        }
+      }
+    },
+    {
+      "name": "D6 角磐山大山寺仁王門 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "13:14",
+          "end": "13:19",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3912486%2C133.5338284&query_place_id=ChIJa63DIABhVjURIouMitgYMz0"
+        },
+        "actual": {
+          "id": "visit-106",
+          "start": "13:14",
+          "end": "13:19",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3912486%2C133.5338284&query_place_id=ChIJa63DIABhVjURIouMitgYMz0"
+        }
+      }
+    },
+    {
+      "name": "D6 大山参道市場 下午茶 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "13:24",
+          "end": "14:24",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.392694299999995%2C133.5313813&query_place_id=ChIJQ4SahLdhVjURF02QRSitlWU"
+        },
+        "actual": {
+          "id": "visit-107",
+          "start": "13:24",
+          "end": "14:24",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.392694299999995%2C133.5313813&query_place_id=ChIJQ4SahLdhVjURF02QRSitlWU"
+        }
+      }
+    },
+    {
+      "name": "D6 Montbell exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "14:26",
+          "end": "14:56",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.391818%2C133.531136&query_place_id=ChIJxc8G7bdhVjURPFF0TdI62Pg"
+        },
+        "actual": {
+          "id": "visit-108",
+          "start": "14:26",
+          "end": "14:56",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.391818%2C133.531136&query_place_id=ChIJxc8G7bdhVjURPFF0TdI62Pg"
+        }
+      }
+    },
+    {
+      "name": "D6 大山寺橋 拍照 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "14:57",
+          "end": "15:07",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3914853%2C133.53067919999998&query_place_id=ChIJkZF557dhVjURvwjg0JTKtvs"
+        },
+        "actual": {
+          "id": "visit-109",
+          "start": "14:57",
+          "end": "15:07",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3914853%2C133.53067919999998&query_place_id=ChIJkZF557dhVjURvwjg0JTKtvs"
+        }
+      }
+    },
+    {
+      "name": "D6 鳥取県立大山自然歴史館 室內 buffer exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "15:12",
+          "end": "15:32",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3937478%2C133.52976519999999&query_place_id=ChIJgSxlB7dhVjUR-Nd350EOrHc"
+        },
+        "actual": {
+          "id": "visit-110",
+          "start": "15:12",
+          "end": "15:32",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3937478%2C133.52976519999999&query_place_id=ChIJgSxlB7dhVjUR-Nd350EOrHc"
+        }
+      }
+    },
+    {
+      "name": "D6 大山遊客中心 室內 buffer exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "15:33",
+          "end": "15:48",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3941229%2C133.5297003&query_place_id=ChIJPVqOA7dhVjURmNar0P-3Fbc"
+        },
+        "actual": {
+          "id": "visit-111",
+          "start": "15:33",
+          "end": "15:48",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3941229%2C133.5297003&query_place_id=ChIJPVqOA7dhVjURmNar0P-3Fbc"
+        }
+      }
+    },
+    {
+      "name": "D6 大山参道ホテル頂 入住 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "15:51",
+          "end": "17:46",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3933803%2C133.5293688&query_place_id=ChIJ4W-VgG9hVjURyz41keBFtxQ"
+        },
+        "actual": {
+          "id": "visit-112",
+          "start": "15:51",
+          "end": "17:46",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3933803%2C133.5293688&query_place_id=ChIJ4W-VgG9hVjURyz41keBFtxQ"
+        }
+      }
+    },
+    {
+      "name": "D6 綠莊 晚餐 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "17:50",
+          "end": "19:20",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.394376%2C133.5306&query_place_id=ChIJdXk5FbdhVjUR1BYEOksFyOU"
+        },
+        "actual": {
+          "id": "visit-113",
+          "start": "17:50",
+          "end": "19:20",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.394376%2C133.5306&query_place_id=ChIJdXk5FbdhVjUR1BYEOksFyOU"
+        }
+      }
+    },
+    {
+      "name": "D6 大山参道ホテル頂 睡覺 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "19:24",
+          "end": "19:24",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3933803%2C133.5293688&query_place_id=ChIJ4W-VgG9hVjURyz41keBFtxQ"
+        },
+        "actual": {
+          "id": "visit-114",
+          "start": "19:24",
+          "end": "19:24",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.3933803%2C133.5293688&query_place_id=ChIJ4W-VgG9hVjURyz41keBFtxQ"
+        }
+      }
+    },
+    {
+      "name": "D8 event count and source DOM order",
+      "pass": true,
+      "detail": {
+        "actual": [
+          "三朝温泉旅館 萬翠樓 出發",
+          "Lawson 湯梨浜松崎店",
+          "道の駅 神話之里 白兔 停車",
+          "白兔神社",
+          "砂場咖啡 神話之里白兔休息站店",
+          "道の駅 神話之里 白兔 取車",
+          "うどん ちよ志 賀露本店 烏龍麵店 午餐 不訂位",
+          "McDonald's 鳥取北店 買奶昔/玩具",
+          "AEON MALL Tottori Kita 購物",
+          "松本清 Trinity Mall",
+          "UNIQLO 鳥取千代水店",
+          "Green Rich Hotel 鳥取站前 放行李",
+          "ENEOS Enejet鳥取駅南 SS (加油)",
+          "Times 鳥取駅前店 4點前還車",
+          "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+          "丸由百貨 無印良品",
+          "Shamine 鳥取 車站購物中心",
+          "扭蛋ドリームカプセルシャミネ鳥取店",
+          "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+          "PLAZA シャミネ鳥取店",
+          "KoKuMiN Shamine鳥取店 藥妝店",
+          "伴手禮樂市 鳥取店",
+          "Green Rich Hotel 鳥取站前 睡覺"
+        ],
+        "source": [
+          "三朝温泉旅館 萬翠樓 出發",
+          "Lawson 湯梨浜松崎店",
+          "道の駅 神話之里 白兔 停車",
+          "白兔神社",
+          "砂場咖啡 神話之里白兔休息站店",
+          "道の駅 神話之里 白兔 取車",
+          "うどん ちよ志 賀露本店 烏龍麵店 午餐 不訂位",
+          "McDonald's 鳥取北店 買奶昔/玩具",
+          "AEON MALL Tottori Kita 購物",
+          "松本清 Trinity Mall",
+          "UNIQLO 鳥取千代水店",
+          "Green Rich Hotel 鳥取站前 放行李",
+          "ENEOS Enejet鳥取駅南 SS (加油)",
+          "Times 鳥取駅前店 4點前還車",
+          "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+          "丸由百貨 無印良品",
+          "Shamine 鳥取 車站購物中心",
+          "扭蛋ドリームカプセルシャミネ鳥取店",
+          "焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30",
+          "PLAZA シャミネ鳥取店",
+          "KoKuMiN Shamine鳥取店 藥妝店",
+          "伴手禮樂市 鳥取店",
+          "Green Rich Hotel 鳥取站前 睡覺"
+        ]
+      }
+    },
+    {
+      "name": "D8 三朝温泉旅館 萬翠樓 出發 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "08:00",
+          "end": "08:00",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4116107%2C133.89309799999998&query_place_id=ChIJsxXbqJDbVTURRaZYaBzGuZU"
+        },
+        "actual": {
+          "id": "visit-136",
+          "start": "08:00",
+          "end": "08:00",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4116107%2C133.89309799999998&query_place_id=ChIJsxXbqJDbVTURRaZYaBzGuZU"
+        }
+      }
+    },
+    {
+      "name": "D8 Lawson 湯梨浜松崎店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "08:24",
+          "end": "08:39",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.471180499999996%2C133.902628&query_place_id=ChIJzeUVyKHdVTURE3OvF9WVGR0"
+        },
+        "actual": {
+          "id": "visit-137",
+          "start": "08:24",
+          "end": "08:39",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.471180499999996%2C133.902628&query_place_id=ChIJzeUVyKHdVTURE3OvF9WVGR0"
+        }
+      }
+    },
+    {
+      "name": "D8 道の駅 神話之里 白兔 停車 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "09:15",
+          "end": "09:20",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5255296%2C134.11439099999998&query_place_id=ChIJVawGRb2SVTURSCWmpCz3mwI"
+        },
+        "actual": {
+          "id": "visit-138",
+          "start": "09:15",
+          "end": "09:20",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5255296%2C134.11439099999998&query_place_id=ChIJVawGRb2SVTURSCWmpCz3mwI"
+        }
+      }
+    },
+    {
+      "name": "D8 白兔神社 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "09:24",
+          "end": "09:54",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.524206%2C134.11506599999998&query_place_id=ChIJkSgc2JeSVTUR07wqfA7BPYc"
+        },
+        "actual": {
+          "id": "visit-139",
+          "start": "09:24",
+          "end": "09:54",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.524206%2C134.11506599999998&query_place_id=ChIJkSgc2JeSVTUR07wqfA7BPYc"
+        }
+      }
+    },
+    {
+      "name": "D8 砂場咖啡 神話之里白兔休息站店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "10:00",
+          "end": "10:20",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5255609%2C134.1143731&query_place_id=ChIJx_bDRr2SVTURnxQ2U3MACxI"
+        },
+        "actual": {
+          "id": "visit-140",
+          "start": "10:00",
+          "end": "10:20",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5255609%2C134.1143731&query_place_id=ChIJx_bDRr2SVTURnxQ2U3MACxI"
+        }
+      }
+    },
+    {
+      "name": "D8 道の駅 神話之里 白兔 取車 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "10:23",
+          "end": "10:43",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5255296%2C134.11439099999998&query_place_id=ChIJVawGRb2SVTURSCWmpCz3mwI"
+        },
+        "actual": {
+          "id": "visit-141",
+          "start": "10:23",
+          "end": "10:43",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5255296%2C134.11439099999998&query_place_id=ChIJVawGRb2SVTURSCWmpCz3mwI"
+        }
+      }
+    },
+    {
+      "name": "D8 うどん ちよ志 賀露本店 烏龍麵店 午餐 不訂位 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "10:53",
+          "end": "11:43",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.524971%2C134.18419989999998&query_place_id=ChIJN1kgKWyOVTURCeq1z-iENdc"
+        },
+        "actual": {
+          "id": "visit-142",
+          "start": "10:53",
+          "end": "11:43",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.524971%2C134.18419989999998&query_place_id=ChIJN1kgKWyOVTURCeq1z-iENdc"
+        }
+      }
+    },
+    {
+      "name": "D8 McDonald's 鳥取北店 買奶昔/玩具 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "11:48",
+          "end": "11:58",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.52436%2C134.20198209999998&query_place_id=ChIJ39ng2lCOVTURqwXbXJ9pIyg"
+        },
+        "actual": {
+          "id": "visit-143",
+          "start": "11:48",
+          "end": "11:58",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.52436%2C134.20198209999998&query_place_id=ChIJ39ng2lCOVTURqwXbXJ9pIyg"
+        }
+      }
+    },
+    {
+      "name": "D8 AEON MALL Tottori Kita 購物 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "12:03",
+          "end": "13:33",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.523735699999996%2C134.2010384&query_place_id=ChIJN0e1jlCOVTURZPDarQIWtuc"
+        },
+        "actual": {
+          "id": "visit-144",
+          "start": "12:03",
+          "end": "13:33",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.523735699999996%2C134.2010384&query_place_id=ChIJN0e1jlCOVTURZPDarQIWtuc"
+        }
+      }
+    },
+    {
+      "name": "D8 松本清 Trinity Mall exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "13:35",
+          "end": "14:05",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.521463499999996%2C134.2009031&query_place_id=ChIJwXjO-U-OVTURlNwwKqPVka4"
+        },
+        "actual": {
+          "id": "visit-145",
+          "start": "13:35",
+          "end": "14:05",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.521463499999996%2C134.2009031&query_place_id=ChIJwXjO-U-OVTURlNwwKqPVka4"
+        }
+      }
+    },
+    {
+      "name": "D8 UNIQLO 鳥取千代水店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "14:11",
+          "end": "14:31",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5125269%2C134.2034395&query_place_id=ChIJJbES3W6PVTURAOEezMd3t2E"
+        },
+        "actual": {
+          "id": "visit-146",
+          "start": "14:11",
+          "end": "14:31",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.5125269%2C134.2034395&query_place_id=ChIJJbES3W6PVTURAOEezMd3t2E"
+        }
+      }
+    },
+    {
+      "name": "D8 Green Rich Hotel 鳥取站前 放行李 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "14:42",
+          "end": "14:52",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        },
+        "actual": {
+          "id": "visit-147",
+          "start": "14:42",
+          "end": "14:52",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        }
+      }
+    },
+    {
+      "name": "D8 ENEOS Enejet鳥取駅南 SS (加油) exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "14:55",
+          "end": "15:10",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.491057999999995%2C134.2312291&query_place_id=ChIJUf-1ZuiPVTURZHoP5_I93u4"
+        },
+        "actual": {
+          "id": "visit-148",
+          "start": "14:55",
+          "end": "15:10",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.491057999999995%2C134.2312291&query_place_id=ChIJUf-1ZuiPVTURZHoP5_I93u4"
+        }
+      }
+    },
+    {
+      "name": "D8 Times 鳥取駅前店 4點前還車 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "15:14",
+          "end": "15:29",
+          "mapUrl": "https://www.google.com/maps/place/Times+CAR+RENTAL+Tottori+Station/@35.4954507,134.2202935,1234m/data=!3m2!1e3!4b1!4m6!3m5!1s0x35558fc4ec767f49:0x4ba82a124ec97d67!8m2!3d35.4954507!4d134.2228684!16s%2Fg%2F1thx6fnm"
+        },
+        "actual": {
+          "id": "visit-149",
+          "start": "15:14",
+          "end": "15:29",
+          "mapUrl": "https://www.google.com/maps/place/Times+CAR+RENTAL+Tottori+Station/@35.4954507,134.2202935,1234m/data=!3m2!1e3!4b1!4m6!3m5!1s0x35558fc4ec767f49:0x4ba82a124ec97d67!8m2!3d35.4954507!4d134.2228684!16s%2Fg%2F1thx6fnm"
+        }
+      }
+    },
+    {
+      "name": "D8 TRUFFLE DONUT 丸由鳥取店 甜甜圈 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "15:35",
+          "end": "15:55",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4953432%2C134.2259072&query_place_id=ChIJKzsKGACPVTURuX7-mARNaKk"
+        },
+        "actual": {
+          "id": "visit-150",
+          "start": "15:35",
+          "end": "15:55",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4953432%2C134.2259072&query_place_id=ChIJKzsKGACPVTURuX7-mARNaKk"
+        }
+      }
+    },
+    {
+      "name": "D8 丸由百貨 無印良品 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "15:56",
+          "end": "16:36",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4953432%2C134.2259072&query_place_id=ChIJa-N0bMOPVTURv_qjJ5xQBvQ"
+        },
+        "actual": {
+          "id": "visit-151",
+          "start": "15:56",
+          "end": "16:36",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4953432%2C134.2259072&query_place_id=ChIJa-N0bMOPVTURv_qjJ5xQBvQ"
+        }
+      }
+    },
+    {
+      "name": "D8 Shamine 鳥取 車站購物中心 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "16:41",
+          "end": "17:11",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.494142499999995%2C134.225054&query_place_id=ChIJnbxeEcOPVTUR-rGb6-vRBOU"
+        },
+        "actual": {
+          "id": "visit-152",
+          "start": "16:41",
+          "end": "17:11",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.494142499999995%2C134.225054&query_place_id=ChIJnbxeEcOPVTUR-rGb6-vRBOU"
+        }
+      }
+    },
+    {
+      "name": "D8 扭蛋ドリームカプセルシャミネ鳥取店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "17:12",
+          "end": "17:22",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.494263%2C134.22516729999998&query_place_id=ChIJL_ArDgCPVTURryS24Uikn4o"
+        },
+        "actual": {
+          "id": "visit-153",
+          "start": "17:12",
+          "end": "17:22",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.494263%2C134.22516729999998&query_place_id=ChIJL_ArDgCPVTURryS24Uikn4o"
+        }
+      }
+    },
+    {
+      "name": "D8 焼肉牛王 鳥取駅北口店 Hot Pepper訂位17:30 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "17:25",
+          "end": "18:55",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4937733%2C134.2268167&query_place_id=ChIJLxZrQ1aPVTURMW5BKPQE-9Q"
+        },
+        "actual": {
+          "id": "visit-154",
+          "start": "17:25",
+          "end": "18:55",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4937733%2C134.2268167&query_place_id=ChIJLxZrQ1aPVTURMW5BKPQE-9Q"
+        }
+      }
+    },
+    {
+      "name": "D8 PLAZA シャミネ鳥取店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "18:58",
+          "end": "19:18",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4942244%2C134.2256012&query_place_id=ChIJX8ivGACPVTURi-dUt06NQdw"
+        },
+        "actual": {
+          "id": "visit-155",
+          "start": "18:58",
+          "end": "19:18",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4942244%2C134.2256012&query_place_id=ChIJX8ivGACPVTURi-dUt06NQdw"
+        }
+      }
+    },
+    {
+      "name": "D8 KoKuMiN Shamine鳥取店 藥妝店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "19:19",
+          "end": "19:39",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.494075099999996%2C134.2253416&query_place_id=ChIJuQDCEMOPVTURuOQUoM1Xz1o"
+        },
+        "actual": {
+          "id": "visit-156",
+          "start": "19:19",
+          "end": "19:39",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.494075099999996%2C134.2253416&query_place_id=ChIJuQDCEMOPVTURuOQUoM1Xz1o"
+        }
+      }
+    },
+    {
+      "name": "D8 伴手禮樂市 鳥取店 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "19:41",
+          "end": "20:01",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4939284%2C134.2257899&query_place_id=ChIJuQDCEMOPVTURsR3ynz9wPK8"
+        },
+        "actual": {
+          "id": "visit-157",
+          "start": "19:41",
+          "end": "20:01",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.4939284%2C134.2257899&query_place_id=ChIJuQDCEMOPVTURsR3ynz9wPK8"
+        }
+      }
+    },
+    {
+      "name": "D8 Green Rich Hotel 鳥取站前 睡覺 exact time/map",
+      "pass": true,
+      "detail": {
+        "expected": {
+          "start": "20:08",
+          "end": "20:08",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        },
+        "actual": {
+          "id": "visit-158",
+          "start": "20:08",
+          "end": "20:08",
+          "mapUrl": "https://www.google.com/maps/search/?api=1&query=35.495341499999995%2C134.2282919&query_place_id=ChIJZwZVpemPVTURNYx_khlWh44"
+        }
+      }
+    },
+    {
+      "name": "Stable rental visit IDs now Times place-133",
+      "pass": true
+    },
+    {
+      "name": "Times actual point instead of Maps viewport",
+      "pass": true,
+      "detail": {
+        "coordinates": {
+          "lat": 35.4954507,
+          "lng": 134.2228684
+        }
+      }
+    },
+    {
+      "name": "Rental visits agree with Times physical point",
+      "pass": true
+    },
+    {
+      "name": "Removed active visit/place and old rental location absent",
+      "pass": true
+    },
+    {
+      "name": "No active Toyota or removed ice-cream assignments",
+      "pass": true
+    },
+    {
+      "name": "visit-013 to visit-014 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-013-visit-014",
+          "day": 2,
+          "fromVisitId": "visit-013",
+          "toVisitId": "visit-014",
+          "fromPlaceId": "place-008",
+          "toPlaceId": "place-133",
+          "fromTitle": "Green Rich Hotel 鳥取站前 出發",
+          "toTitle": "Times 鳥取駅前店 租車",
+          "title": "Green Rich Hotel 鳥取站前～Times 鳥取駅前店",
+          "start": "08:50",
+          "end": "08:59",
+          "mode": "步行",
+          "duration": "9分",
+          "sourceRows": [
+            27
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "navi-159",
+            "navi-158",
+            "navi-265"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-014 to visit-015 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-014-visit-015",
+          "day": 2,
+          "fromVisitId": "visit-014",
+          "toVisitId": "visit-015",
+          "fromPlaceId": "place-133",
+          "toPlaceId": "place-008",
+          "fromTitle": "Times 鳥取駅前店 租車",
+          "toTitle": "Green Rich Hotel 鳥取站前 載行李",
+          "title": "Times 鳥取駅前店～Green Rich Hotel 鳥取站前",
+          "start": "09:19",
+          "end": "09:23",
+          "mode": "開車",
+          "duration": "4分",
+          "sourceRows": [
+            29
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "navi-159",
+            "navi-158",
+            "navi-265"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-015 to visit-016 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-015-visit-016",
+          "day": 2,
+          "fromVisitId": "visit-015",
+          "toVisitId": "visit-016",
+          "fromPlaceId": "place-008",
+          "toPlaceId": "place-011",
+          "fromTitle": "Green Rich Hotel 鳥取站前 載行李",
+          "toTitle": "鳥取沙丘停車場 停車",
+          "title": "Green Rich Hotel 鳥取站前～鳥取砂丘停車場",
+          "start": "09:43",
+          "end": "09:58",
+          "mode": "開車",
+          "duration": "15分",
+          "sourceRows": [
+            31
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "navi-153",
+            "navi-159",
+            "navi-165"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-022 to visit-023 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-022-visit-023",
+          "day": 2,
+          "fromVisitId": "visit-022",
+          "toVisitId": "visit-023",
+          "fromPlaceId": "place-011",
+          "toPlaceId": "place-017",
+          "fromTitle": "鳥取沙丘停車場 取車",
+          "toTitle": "Cowy's Milk House",
+          "title": "鳥取砂丘停車場～Cowy's Milk House",
+          "start": "13:12",
+          "end": "14:27",
+          "mode": "開車",
+          "duration": "75分",
+          "sourceRows": [
+            43
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "sanindo-takakusa",
+            "sanindo-shigeyama",
+            "sanindo-tomari-maintenance",
+            "navi-089",
+            "navi-006",
+            "navi-165"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-023 to visit-024 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-023-visit-024",
+          "day": 2,
+          "fromVisitId": "visit-023",
+          "toVisitId": "visit-024",
+          "fromPlaceId": "place-017",
+          "toPlaceId": "place-018",
+          "fromTitle": "Cowy's Milk House",
+          "toTitle": "MEGA唐吉軻德 米子店",
+          "title": "Cowy's Milk House～MEGA唐吉軻德米子店",
+          "start": "15:07",
+          "end": "16:03",
+          "mode": "開車",
+          "duration": "56分",
+          "sourceRows": [
+            45
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "sanindo-nawa-maintenance"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-025 to visit-026 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-025-visit-026",
+          "day": 2,
+          "fromVisitId": "visit-025",
+          "toVisitId": "visit-026",
+          "fromPlaceId": "place-019",
+          "toPlaceId": "place-020",
+          "fromTitle": "元祖 牛肉そばつけ麺 為セバ成ル 沾麵",
+          "toTitle": "Green Rich Hotel 米子站前 入住 停車 睡覺",
+          "title": "為セバ成ル晚餐～Green Rich Hotel 米子站前",
+          "start": "18:33",
+          "end": "18:49",
+          "mode": "開車",
+          "duration": "16分",
+          "sourceRows": [
+            48
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-100 to visit-169 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-100-visit-169",
+          "day": 6,
+          "fromVisitId": "visit-100",
+          "toVisitId": "visit-169",
+          "fromPlaceId": "place-081",
+          "toPlaceId": "place-134",
+          "fromTitle": "皆生溫泉 海の四季",
+          "toTitle": "岡成展望駐車場",
+          "title": "皆生溫泉海の四季～岡成展望駐車場",
+          "start": "09:00",
+          "end": "09:26",
+          "mode": "開車",
+          "duration": "26分",
+          "sourceRows": [
+            198
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "navi-223"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-169 to visit-170 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-169-visit-170",
+          "day": 6,
+          "fromVisitId": "visit-169",
+          "toVisitId": "visit-170",
+          "fromPlaceId": "place-134",
+          "toPlaceId": "place-135",
+          "fromTitle": "岡成展望駐車場",
+          "toTitle": "本宮展望駐車場",
+          "title": "岡成展望駐車場～本宮展望駐車場",
+          "start": "09:36",
+          "end": "09:41",
+          "mode": "開車",
+          "duration": "5分",
+          "sourceRows": [
+            200
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "navi-228"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-170 to visit-101 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-170-visit-101",
+          "day": 6,
+          "fromVisitId": "visit-170",
+          "toVisitId": "visit-101",
+          "fromPlaceId": "place-135",
+          "toPlaceId": "place-084",
+          "fromTitle": "本宮展望駐車場",
+          "toTitle": "大山参道ホテル頂 停車",
+          "title": "本宮展望駐車場～大山参道ホテル頂",
+          "start": "09:51",
+          "end": "10:08",
+          "mode": "開車",
+          "duration": "17分",
+          "sourceRows": [
+            202
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "daisenji-road-158",
+            "makihara-road-24",
+            "navi-275"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "Old D6 direct bypass removed",
+      "pass": true
+    },
+    {
+      "name": "visit-148 to visit-149 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-148-visit-149",
+          "day": 8,
+          "fromVisitId": "visit-148",
+          "toVisitId": "visit-149",
+          "fromPlaceId": "place-120",
+          "toPlaceId": "place-133",
+          "fromTitle": "ENEOS Enejet鳥取駅南 SS (加油)",
+          "toTitle": "Times 鳥取駅前店 4點前還車",
+          "title": "ENEOS 鳥取站南～Times 鳥取駅前店",
+          "start": "15:10",
+          "end": "15:14",
+          "mode": "開車",
+          "duration": "4分",
+          "sourceRows": [
+            298
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "navi-159",
+            "navi-158",
+            "navi-265"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "visit-149 to visit-150 exact leg",
+      "pass": true,
+      "detail": {
+        "leg": {
+          "id": "leg-visit-149-visit-150",
+          "day": 8,
+          "fromVisitId": "visit-149",
+          "toVisitId": "visit-150",
+          "fromPlaceId": "place-133",
+          "toPlaceId": "place-121",
+          "fromTitle": "Times 鳥取駅前店 4點前還車",
+          "toTitle": "TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+          "title": "Times 鳥取駅前店～TRUFFLE DONUT 丸由鳥取店 甜甜圈",
+          "start": "15:29",
+          "end": "15:35",
+          "mode": "步行",
+          "duration": "6分",
+          "sourceRows": [
+            300
+          ],
+          "transportSource": "v117 HTML outgoing .slot .transit-tag",
+          "cameraIds": [
+            "navi-159",
+            "navi-158",
+            "navi-265"
+          ],
+          "navigationVerified": false
+        }
+      }
+    },
+    {
+      "name": "New lookout stop identity and physical points",
+      "pass": true
+    },
+    {
+      "name": "Original deployed camera IDs retained",
+      "pass": true,
+      "detail": {
+        "originalCount": 84,
+        "currentCount": 87
+      }
+    },
+    {
+      "name": "All source IDs unique",
+      "pass": true
+    },
+    {
+      "name": "navi-165 official URL and location",
+      "pass": true,
+      "detail": {
+        "source": "https://yukinavi.net/data/165/index.html",
+        "coordinates": {
+          "lat": 35.538596,
+          "lng": 134.238023
+        }
+      }
+    },
+    {
+      "name": "navi-228 official URL and location",
+      "pass": true,
+      "detail": {
+        "source": "https://yukinavi.net/data/228/index.html",
+        "coordinates": {
+          "lat": 35.4215,
+          "lng": 133.43171
+        }
+      }
+    },
+    {
+      "name": "navi-275 official URL and location",
+      "pass": true,
+      "detail": {
+        "source": "https://yukinavi.net/data/275/index.html",
+        "coordinates": {
+          "lat": 35.408358,
+          "lng": 133.479773
+        }
+      }
+    },
+    {
+      "name": "Known incomplete JPEG is link-only",
+      "pass": true
+    },
+    {
+      "name": "navi-165 image feed points to official camera URL",
+      "pass": true
+    },
+    {
+      "name": "navi-228 image feed points to official camera URL",
+      "pass": true
+    },
+    {
+      "name": "Dune cameras retained despite shared ice-cream visit removal",
+      "pass": true
+    },
+    {
+      "name": "No deleted visit or cross-day endpoint in legs",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Camera matches have active visit/place references",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Modified-day camera headings propagate current times",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Source dates derive only from actual remaining matches",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "D6 new legs remain navigation references",
+      "pass": true
+    }
+  ],
+  "scope": "Modified data only: v117 D2, D6, D8; common reference integrity. No browser, no playback QA, no HTML edits.",
+  "summary": {
+    "pass": 90,
+    "fail": 0
+  }
+}
