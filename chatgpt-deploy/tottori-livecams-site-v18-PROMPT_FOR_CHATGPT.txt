@@ -1,0 +1,28 @@
+請把 TOTTORI LIVE CAM 2027 原網站更新為 v18，並部署回原本的 ChatGPT Sites 網址。
+
+原網址：https://tottori-livecams-2027.satiny-elm-1370.chatgpt.site
+Project ID：appgprj_6addd1115c28819194e7fb4faea8f555（沿用同一個，權限維持 public）
+目前線上版本：v16（Sites saved version 5）
+
+附件：tottori-livecams-site-v18.tar.gz
+SHA-256：b258d46fe4ce2b7aa5dcb11561728f086981227ee5767d4094e7793bf1f97201
+內容：dist/index.html 與 dist/livecams-assets 等所有資產，dist/.openai/hosting.json 為
+{"project_id":"appgprj_6addd1115c28819194e7fb4faea8f555","static":{"directory":"dist"}}
+
+v18 已完成本機桌面與手機 QA，也已在 https://kevinchen0804.github.io/tottori-livecams-2027/ 上線核對，內容與此封包相同。
+本次只部署，不要修改任何檔案內容，也不要重新 QA 版面。
+
+步驟：
+1. 先核對附件 SHA-256。
+2. 讀你環境的 Sites skill，取得同一 project_id 的 get_site 與 source repository 寫入憑證。
+3. 用 source helper 開啟原站 checkout，把封包的 dist 內容完整同步進去（新增 v18 檔案，保留 hosting.json）。
+4. 推送 commit，產生部署 archive，呼叫 save_site_version，再以回傳的 version_id 呼叫 deploy_site_version。
+5. 用 deployment_id 查到 succeeded 才回報。
+6. 上線後開啟原網址加 ?day=8 核對：
+   - 資源 livecams-assets/reader-v18.css 與 livecams-assets/route-ribbon-v18.js 回 200。
+   - 頁面有日期下方的「D8 開車路段」路線帶。
+   - 攝影機來源共 107 個，D8 為 24 個。
+   - console 沒有 error。
+7. 回報 saved version、version_id、deployment_id 與 commit。
+
+請用繁體中文回覆。
